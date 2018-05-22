@@ -67,8 +67,6 @@ http://clientportal.link:80/live/Tarvi/tarvi12/17084.ts
 http://clientportal.link:80/live/Tarvi/tarvi12/17085.ts
 #EXTINF:-1,MCOT HD TH
 http://clientportal.link:80/live/Tarvi/tarvi12/17086.ts
-#EXTINF:-1,Mono 29 TH
-http://clientportal.link:80/live/Tarvi/tarvi12/17087.ts
 #EXTINF:-1,Thai Channel 8 TH
 http://clientportal.link:80/live/Tarvi/tarvi12/17088.ts
 #EXTINF:-1,National Geographic HD TH
@@ -79,8 +77,6 @@ http://clientportal.link:80/live/Tarvi/tarvi12/17090.ts
 http://clientportal.link:80/live/Tarvi/tarvi12/17091.ts
 #EXTINF:-1,New TV 18 TH
 http://clientportal.link:80/live/Tarvi/tarvi12/17092.ts
-#EXTINF:-1,Mono Plus TH
-http://clientportal.link:80/live/Tarvi/tarvi12/17093.ts
 #EXTINF:-1,True Series TH
 http://clientportal.link:80/live/Tarvi/tarvi12/17094.ts
 #EXTINF:-1,Setanta Sports Asia HD TH
@@ -271,10 +267,6 @@ http://forzatv.tk:8080/live/s/8/809.ts
 http://forzatv.tk:8080/live/s/8/38.ts
 #EXTINF:-1,KOMPAS TV
 http://forzatv.tk:8080/live/s/8/35.ts
-#EXTINF:-1,SBC TV JATIM
-http://forzatv.tk:8080/live/s/8/910.ts
-#EXTINF:-1,AHSAN TV
-http://forzatv.tk:8080/live/s/8/920.ts
 #EXTINF:-1,CNN INDONESIA
 http://forzatv.tk:8080/live/s/8/61.ts
 #EXTINF:-1,TVRI OLAHRAGA
