@@ -67,6 +67,8 @@ http://clientportal.link:80/live/Tarvi/tarvi12/17084.ts
 http://clientportal.link:80/live/Tarvi/tarvi12/17085.ts
 #EXTINF:-1,MCOT HD TH
 http://clientportal.link:80/live/Tarvi/tarvi12/17086.ts
+#EXTINF:-1,Mono 29 TH
+http://clientportal.link:80/live/Tarvi/tarvi12/17087.ts
 #EXTINF:-1,Thai Channel 8 TH
 http://clientportal.link:80/live/Tarvi/tarvi12/17088.ts
 #EXTINF:-1,National Geographic HD TH
@@ -77,6 +79,8 @@ http://clientportal.link:80/live/Tarvi/tarvi12/17090.ts
 http://clientportal.link:80/live/Tarvi/tarvi12/17091.ts
 #EXTINF:-1,New TV 18 TH
 http://clientportal.link:80/live/Tarvi/tarvi12/17092.ts
+#EXTINF:-1,Mono Plus TH
+http://clientportal.link:80/live/Tarvi/tarvi12/17093.ts
 #EXTINF:-1,True Series TH
 http://clientportal.link:80/live/Tarvi/tarvi12/17094.ts
 #EXTINF:-1,Setanta Sports Asia HD TH
@@ -135,14 +139,16 @@ http://clientportal.link:80/live/Tarvi/tarvi12/10915.ts
 http://linux-app.tv:6204/live/Reda/Reda/1910.ts
 #EXTINF:-1,Irib Varzesh IR
 http://linux-app.tv:6204/live/Reda/Reda/9948.ts
-#EXTINF:-1,BT sport 1 UK
-http://linux-app.tv:6204/live/Reda/Reda/8581.ts
-#EXTINF:-1,BT sport 2 UK
-http://linux-app.tv:6204/live/Reda/Reda/8580.ts
-#EXTINF:-1,BT sport 3 UK
-http://linux-app.tv:6204/live/Reda/Reda/8578.ts
-#EXTINF:-1,BT sport ESPN UK
-http://linux-app.tv:6204/live/Reda/Reda/8577.ts
+#EXTINF:-1,UK: BT Sport 1 HD
+http://xtreme.webhop.me:8000/live/oNX0sIjlHr/7qwD5oMujf/4453.ts
+#EXTINF:-1,UK: BT Sport 2 HD
+http://xtreme.webhop.me:8000/live/oNX0sIjlHr/7qwD5oMujf/4452.ts
+#EXTINF:-1,UK: BT Sport 3 HD
+http://xtreme.webhop.me:8000/live/oNX0sIjlHr/7qwD5oMujf/4459.ts
+#EXTINF:-1,UK: BT Sport Espn
+http://xtreme.webhop.me:8000/live/oNX0sIjlHr/7qwD5oMujf/4448.ts
+#EXTINF:-1,UK: BT Sport Extra 4
+http://xtreme.webhop.me:8000/live/oNX0sIjlHr/7qwD5oMujf/4447.ts
 #EXTINF:-1,LIVERPOOL FC_TV UK
 http://linux-app.tv:6204/live/Reda/Reda/8548.ts
 #EXTINF:-1,SKY Movies Action UK
@@ -155,10 +161,20 @@ http://linux-app.tv:6204/live/Reda/Reda/8535.ts
 http://linux-app.tv:6204/live/Reda/Reda/8513.ts
 #EXTINF:-1,Fox HD UK
 http://linux-app.tv:6204/live/Reda/Reda/4301.ts
+#EXTINF:-1,UK: BOX OFFICE HD 1
+http://xtreme.webhop.me:8000/live/oNX0sIjlHr/7qwD5oMujf/8829.ts
+#EXTINF:-1,UK: BOX OFFICE HD 2
+http://xtreme.webhop.me:8000/live/oNX0sIjlHr/7qwD5oMujf/8830.ts
+#EXTINF:-1,UK: BOX OFFICE HD 3
+http://xtreme.webhop.me:8000/live/oNX0sIjlHr/7qwD5oMujf/8831.ts
+#EXTINF:-1,UK: BOX OFFICE HD 4
+http://xtreme.webhop.me:8000/live/oNX0sIjlHr/7qwD5oMujf/8832.ts
+#EXTINF:-1,UK: BOX OFFICE HD 3D
+http://xtreme.webhop.me:8000/live/oNX0sIjlHr/7qwD5oMujf/8833.ts
 #EXTINF:-1,Sony Six HD IN
-http://clientportal.link:80/live/Tarvi/tarvi12/18805.ts
+http://p4.giffy.be:8080/live/thalia/thalia/51028.ts
 #EXTINF:-1,Sony ESPN HD IN
-http://clientportal.link:80/live/Tarvi/tarvi12/10238.ts
+http://p4.giffy.be:8080/live/thalia/thalia/51030.ts
 #EXTINF:-1,Sony Ten 1 HD IN
 http://linux-app.tv:6204/live/Reda/Reda/8931.ts
 #EXTINF:-1,Sony Ten 2 HD IN
@@ -166,9 +182,15 @@ http://linux-app.tv:6204/live/Reda/Reda/8930.ts
 #EXTINF:-1,Sony Ten 3 HD IN
 http://linux-app.tv:6204/live/Reda/Reda/8929.ts
 #EXTINF:-1,Sony Pix HD IN
-http://linux-app.tv:6204/live/Reda/Reda/10960.ts
+http://p4.giffy.be:8080/live/thalia/thalia/50814.ts
 #EXTINF:-1,Sony Le Plex HD IN
-http://clientportal.link:80/live/Tarvi/tarvi12/18801.ts
+http://p4.giffy.be:8080/live/thalia/thalia/50782.ts
+#EXTINF:-1,IN: STAR SPORTS 1 HD
+http://xtreme.webhop.me:8000/live/oNX0sIjlHr/7qwD5oMujf/4954.ts
+#EXTINF:-1,IN: STAR SPORTS 2 HD
+http://xtreme.webhop.me:8000/live/oNX0sIjlHr/7qwD5oMujf/4953.ts
+#EXTINF:-1,STAR SPORTS SELECT 2 HD
+http://p4.giffy.be:8080/live/thalia/thalia/51035.ts
 #EXTINF:-1,Animal Planet HD US
 http://linux-app.tv:6204/live/Reda/Reda/10439.ts
 #EXTINF:-1,HBO HD US
@@ -209,96 +231,6 @@ http://linux-app.tv:6204/live/Reda/Reda/2568.ts
 http://linux-app.tv:6204/live/Reda/Reda/7697.ts
 #EXTINF:-1,Star World HD
 http://linux-app.tv:6204/live/Reda/Reda/250.ts
-#EXTINF:-1,ASTRO AWANI
-http://forzatv.tk:8080/live/s/8/1105.ts
-#EXTINF:-1,ASTRO Sport
-http://forzatv.tk:8080/live/s/8/1104.ts
-#EXTINF:0,FTV UHD ASIA
-http://103.242.13.90:5555/udp/239.4.1.45:10000
-#EXTINF:-1,TRACE URBAN
-http://forzatv.tk:8080/live/s/8/237.ts
-#EXTINF:-1,SBS IN KOREA
-http://forzatv.tk:8080/live/s/8/597.ts
-#EXTINF:-1,SKY NET HD
-http://forzatv.tk:8080/live/s/8/1274.ts
-#EXTINF:-1,FOX ACTION MOVIES
-http://forzatv.tk:8080/live/s/8/10.ts
-#EXTINF:-1,FOX FAMILY MOVIES
-http://forzatv.tk:8080/live/s/8/8.ts
-#EXTINF:-1,FOX MOVIES PRE FHD
-http://forzatv.tk:8080/live/s/8/945.ts
-#EXTINF:-1,FOX PREMIUM MOVIES
-http://forzatv.tk:8080/live/s/8/9.ts
-#EXTINF:-1,HBO
-http://forzatv.tk:8080/live/s/8/836.ts
-#EXTINF:-1,HBO US
-http://forzatv.tk:8080/live/s/8/1165.ts
-#EXTINF:-1,HBO 2 US
-http://forzatv.tk:8080/live/s/8/1166.ts
-#EXTINF:-1,RCTI
-http://forzatv.tk:8080/live/s/8/39.ts
-#EXTINF:-1,SCTV
-http://forzatv.tk:8080/live/s/8/31.ts
-#EXTINF:-1,INDOSIAR
-http://forzatv.tk:8080/live/s/8/32.ts
-#EXTINF:-1,TRANS 7
-http://forzatv.tk:8080/live/s/8/34.ts
-#EXTINF:-1,TRANS TV
-http://forzatv.tk:8080/live/s/8/33.ts
-#EXTINF:-1,NET TV
-http://forzatv.tk:8080/live/s/8/205.ts
-#EXTINF:-1,NET TV HD
-http://forzatv.tk:8080/live/s/8/600.ts
-#EXTINF:-1,GLOBAL TV
-http://forzatv.tk:8080/live/s/8/60.ts
-#EXTINF:-1,TV ONE
-http://forzatv.tk:8080/live/s/8/30.ts
-#EXTINF:-1,ANTV
-http://forzatv.tk:8080/live/s/8/3.ts
-#EXTINF:-1,RTV
-http://forzatv.tk:8080/live/s/8/37.ts
-#EXTINF:-1,MNC TV
-http://forzatv.tk:8080/live/s/8/129.ts
-#EXTINF:-1,ELSHINTA TV
-http://forzatv.tk:8080/live/s/8/36.ts
-#EXTINF:-1,HI TV
-http://forzatv.tk:8080/live/s/8/809.ts
-#EXTINF:-1,METRO TV HD
-http://forzatv.tk:8080/live/s/8/38.ts
-#EXTINF:-1,KOMPAS TV
-http://forzatv.tk:8080/live/s/8/35.ts
-#EXTINF:-1,CNN INDONESIA
-http://forzatv.tk:8080/live/s/8/61.ts
-#EXTINF:-1,TVRI OLAHRAGA
-http://forzatv.tk:8080/live/s/8/1299.ts
-#EXTINF:-1,TVRI NATIONAL
-http://forzatv.tk:8080/live/s/8/1296.ts
-#EXTINF:-1,BERITA SATU WOLRD
-http://forzatv.tk:8080/live/s/8/917.ts
-#EXTINF:-1,BERITA SATU
-http://forzatv.tk:8080/live/s/8/48.ts
-#EXTINF:-1,CAPITAL TV
-http://forzatv.tk:8080/live/s/8/698.ts
-#EXTINF:-1,SALURAN MUSIC INDONESIA
-http://forzatv.tk:8080/live/s/8/163.ts
-#EXTINF:-1,SALURAN FILM INDO
-http://forzatv.tk:8080/live/s/8/897.ts
-#EXTINF:-1,NAT GEO WILD FHD
-http://forzatv.tk:8080/live/s/8/950.ts
-#EXTINF:-1,NAT GEO WILD
-http://forzatv.tk:8080/live/s/8/25.ts
-#EXTINF:-1,NAT GEO FHD
-http://forzatv.tk:8080/live/s/8/951.ts
-#EXTINF:-1,NAT GEO
-http://forzatv.tk:8080/live/s/8/26.ts
-#EXTINF:-1,MTV ROCK
-http://forzatv.tk:8080/live/s/8/1199.ts
-#EXTINF:-1,MTV HITS
-http://forzatv.tk:8080/live/s/8/1197.ts
-#EXTINF:-1,MTV DANCE
-http://forzatv.tk:8080/live/s/8/1198.ts
-#EXTINF:-1,MTV BEATS
-http://forzatv.tk:8080/live/s/8/862.ts
 #EXTINF:-1,Movies Now HD IN
 http://p4.giffy.be:8080/live/thalia/thalia/52593.ts
 #EXTINF:-1,Movies Now 2 HD IN
@@ -313,3 +245,87 @@ http://p4.giffy.be:8080/live/thalia/thalia/53657.ts
 http://p4.giffy.be:8080/live/thalia/thalia/30893.ts
 #EXTINF:-1,ESPN HD US
 http://p4.giffy.be:8080/live/thalia/thalia/13859.ts
+#EXTINF:-1,FOX Action Movies HD ARB
+http://clientportal.link:80/live/Tarvi/tarvi12/15114.ts
+#EXTINF:-1,FOX Family Movies HD ARB
+http://clientportal.link:80/live/Tarvi/tarvi12/15115.ts
+#EXTINF:-1,OSN Discovery Channel HD AE
+http://clientportal.link:80/live/Tarvi/tarvi12/5747.ts
+#EXTINF:-1,OSN Star Movies HD AE
+http://clientportal.link:80/live/Tarvi/tarvi12/12827.ts
+#EXTINF:-1,OSN Star World HD AE
+http://clientportal.link:80/live/Tarvi/tarvi12/12843.ts
+#EXTINF:-1,OSN Disney Junior AE
+http://clientportal.link:80/live/Tarvi/tarvi12/13709.ts
+#EXTINF:-1,OSN Nick Jr. AE
+http://clientportal.link:80/live/Tarvi/tarvi12/18310.ts
+#EXTINF:-1,TOLO HD AFG
+http://xtreme.webhop.me:8000/live/oNX0sIjlHr/7qwD5oMujf/4674.ts
+#EXTINF:-1,Us- WWE HD
+http://linux-app.tv:6204/live/kkk1/kkk1/10376.ts
+#EXTINF:-1,AFN Atlantaic HD
+http://linux-app.tv:6204/live/kkk1/kkk1/10722.ts
+#EXTINF:-1,AFN Family HD
+http://linux-app.tv:6204/live/kkk1/kkk1/10721.ts
+#EXTINF:-1,AFN Fox News HD
+http://linux-app.tv:6204/live/kkk1/kkk1/10720.ts
+#EXTINF:-1,AFN Movies HD
+http://linux-app.tv:6204/live/kkk1/kkk1/10719.ts
+#EXTINF:-1,AFN Pacific HD
+http://linux-app.tv:6204/live/kkk1/kkk1/10718.ts
+#EXTINF:-1,AFN Spectrum HD
+http://linux-app.tv:6204/live/kkk1/kkk1/10717.ts
+#EXTINF:-1,AFN Sport HD 1
+http://linux-app.tv:6204/live/kkk1/kkk1/10716.ts
+#EXTINF:-1,AFN Sport HD 2
+http://linux-app.tv:6204/live/kkk1/kkk1/10715.ts
+Bernama News Channel,http://stream2.1malaysiaiptv.com/mylive/smil:bernama2_all.smil/playlist.m3u8
+Astro Awani,http://bcoveliveios-i.akamaihd.net/hls/live/225864/4508222217001/master.m3u8
+RTM TV2,https://rtm-live.glueapi.io/smil:rtmch002.smil/playlist.m3u8
+RTM TV1,https://rtm-live.glueapi.io/smil:rtmch001.smil/playlist.m3u8
+RTM TVOkey,https://rtm-live.glueapi.io/smil:rtmch003.smil/playlist.m3u8
+RTM 1News,https://rtm-live.glueapi.io/smil:rtmch006.smil/playlist.m3u8
+RTM Parlimen,https://rtm-live.glueapi.io/smil:rtmch007.smil/playlist.m3u8
+GOSHOP中文,http://playback03.aotg-video.astro.com.my/AOTGHLS/master_AGSSCHINESE.m3u8
+Channel News Asia,https://drsh196ivjwe8.cloudfront.net/hls/cnai/master.m3u8
+SkyNews,http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8#http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8
+TEA FM,http://teafm.radio-stream.my/live/radio/playlist.m3u8
+美国之音卫视,https://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
+美国中文台,http://ec.sinovision.net/video/ts/lv.m3u8
+东盟卫视,http://mvtv.dyndns.tv:1935/live/mgtv/playlist.m3u8
+紐西蘭中華電視網/凤凰资讯台,http://live.936.nz:1935/live/ts.stream_360p/playlist.m3u8
+亚太第一卫视,http://v1.one-tv.com:1935/live/mpegts.stream/playlist.m3u8
+新唐人電視臺(美东),http://live2.ntdimg.com/live330/playlist.m3u8
+新唐人電視臺(美西),http://live.ntdimg.com/uwlive520/playlist.m3u8
+新唐人電視臺(加东),http://live.ntdimg.com/mllive220/playlist.m3u8
+新唐人電視臺(加西),http://live.ntdimg.com/cwlive220/playlist.m3u8
+新唐人電視臺(中国),http://cnhls.ntdtv.com/cn/live400/playlist.m3u8
+新唐人電視臺(亚太),http://live2.ntdimg.com/aplive200/playlist.m3u8 
+RTHK31,http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8#http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_1296_av-b.m3u8
+RTHK33,http://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_2052_av-b.m3u8#http://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1296_av-b.m3u8
+奇妙77台,http://media.fantv.hk/m3u8/archive/channel2.m3u8
+優視頻道 UChannel TV,http://1-fss24-s0.streamhoster.com/lv_uchannel/_definst_/broadcast1/chunklist.m3u8
+壹新聞,http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv2/playlist.m3u8
+CHC动作电影,http://hbmc.chinashadt.com:2739/live/dzdy.stream_360p/playlist.m3u8
+清华大学电视台,http://v.cic.tsinghua.edu.cn:8080/live/tsinghuatv.flv
+新华社CNC中文,http://live.xinhuashixun.com/live/chn01/desc.m3u8
+CNC Eng,http://live.xinhuashixun.com/live/chn02/desc.m3u8
+France24,http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master.m3u8#http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+RTE News Now,http://wmsrtsp1.rte.ie/live/android.sdp/playlist.m3u8
+TRT World,http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
+DW-English,http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
+Euronews,http://euronews-en-p7-cdn.hexaglobe.net/e71ab973c2173a3130efa1c9e20cd7b8/5ae8628b/euronews/euronews-euronews-website-web-responsive-2/ewnsabrenpri_eng.smil/playlist.m3u8
+Bloomberg TV Asia,https://bblive-liveprodapnortheast.hs.llnwd.net/btv/desktop/ap_live.m3u8
+Bloomberg TV Europe,http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
+Press TV,http://107.189.40.49:1935/live/ngrp:ptven_all/playlist.m3u8
+Arirang TV,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+Al Jazeera,http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
+CGTN,https://live.cgtn.com/manifest.m3u8
+NHK World,http://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index.m3u8
+i24,https://stream-02.sg1.dailymotion.com/46/dm/3/x29atae/live.m3u8?e=1525354074&st=3ZhqvRqFaHdBYGQkWRQ_CA#cell=lsg1
+CNN Latin,http://unlimited1-us.dps.live/cnn/cnn.smil/playlist.m3u8
+The Weather Network,http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
+RT News,http://secure-streams.akamaized.net/rt/index.m3u8
+RT America,http://secure-streams.akamaized.net/rt-usa/index.m3u8
+RT UK,http://secure-streams.akamaized.net/rt-uk/index.m3u8
+
