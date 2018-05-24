@@ -80,152 +80,233 @@ http://217.182.173.184:8000/live/micha/micha/2154.ts
 http://217.182.173.184:8000/live/micha/micha/2153.ts
 #EXTINF:-1,UK: SKY SPORTS EPL HD
 http://217.182.173.184:8000/live/micha/micha/2152.ts
-#EXTINF:-1,Sky Select HD 1
-http://1.vip-src.com:8080/live/Bucakli/Bucakli/155.ts
-#EXTINF:-1,Sky Select HD 2
-http://1.vip-src.com:8080/live/Bucakli/Bucakli/287.ts
-#EXTINF:-1,Sky Select HD 3
-http://1.vip-src.com:8080/live/Bucakli/Bucakli/154.ts
-#EXTINF:-1,Sky Select HD 4
-http://1.vip-src.com:8080/live/Bucakli/Bucakli/226.ts
-#EXTINF:-1,Sky Select HD 5
-http://1.vip-src.com:8080/live/Bucakli/Bucakli/1701.ts
-#EXTINF:-1,Sky Select HD 6
-http://1.vip-src.com:8080/live/Bucakli/Bucakli/1702.ts
-#EXTINF:-1,Sky Select HD 7
-http://1.vip-src.com:8080/live/Bucakli/Bucakli/1703.ts
-#EXTINF:-1,Sky Select HD 8
-http://1.vip-src.com:8080/live/Bucakli/Bucakli/1704.ts
-#EXTINF:-1,VIP CHANNEL HD 1
-http://1.vip-src.com:8080/live/Bucakli/Bucakli/8131.ts
-#EXTINF:-1,VIP CHANNEL HD 2
-http://1.vip-src.com:8080/live/Bucakli/Bucakli/8132.ts
-#EXTINF:-1,VIP CHANNEL HD 3
-http://1.vip-src.com:8080/live/Bucakli/Bucakli/8133.ts
-#EXTINF:-1,VIP CHANNEL HD 4
-http://1.vip-src.com:8080/live/Bucakli/Bucakli/8134.ts
-#EXTINF:-1,VIP CHANNEL HD 5
-http://1.vip-src.com:8080/live/Bucakli/Bucakli/8135.ts
-#EXTINF:-1,VIP CHANNEL HD 6
-http://1.vip-src.com:8080/live/Bucakli/Bucakli/8136.ts
-#EXTINF:-1,VIP CHANNEL HD 7
-http://1.vip-src.com:8080/live/Bucakli/Bucakli/8137.ts
-#EXTINF:-1,VIP CHANNEL HD 8
-http://1.vip-src.com:8080/live/Bucakli/Bucakli/8138.ts
-#EXTINF:-1,VIP CHANNEL HD 9
-http://1.vip-src.com:8080/live/Bucakli/Bucakli/8139.ts
-#EXTINF:-1,VIP CHANNEL HD 10
-http://1.vip-src.com:8080/live/Bucakli/Bucakli/8140.ts
-#EXTINF:-1,Irib TV3 IR
-http://linux-app.tv:6204/live/Reda/Reda/1910.ts
-#EXTINF:-1,Irib Varzesh IR
-http://linux-app.tv:6204/live/Reda/Reda/9948.ts
-#EXTINF:-1,Sony Six HD IN
-http://p4.giffy.be:8080/live/thalia/thalia/51028.ts
-#EXTINF:-1,Sony ESPN HD IN
-http://p4.giffy.be:8080/live/thalia/thalia/51030.ts
-#EXTINF:-1,Sony Ten 1 HD IN
-http://linux-app.tv:6204/live/Reda/Reda/8931.ts
-#EXTINF:-1,Sony Ten 2 HD IN
-http://linux-app.tv:6204/live/Reda/Reda/8930.ts
-#EXTINF:-1,Sony Ten 3 HD IN
-http://linux-app.tv:6204/live/Reda/Reda/8929.ts
-#EXTINF:-1,Sony Pix HD IN
-http://p4.giffy.be:8080/live/thalia/thalia/50814.ts
-#EXTINF:-1,Sony Le Plex HD IN
-http://p4.giffy.be:8080/live/thalia/thalia/50782.ts
+#EXTM3U
+#EXTINF:-1,Tring sport 1 HD 
+http://80.78.69.238:8888/udp/225.1.1.2:2000 
+#EXTINF:-1,Tring sport 2 HD 
+http://80.78.69.238:8888/udp/225.1.1.3:2000 
+#EXTINF:-1,Tring sport 3 HD 
+http://80.78.69.238:8888/udp/225.1.1.4:2000 
+#EXTINF:-1,Tring sport 4 HD 
+http://80.78.69.238:8888/udp/225.1.1.5:2000 
+#EXTINF:-1,Telesport 
+http://80.78.69.238:8888/udp/225.1.1.7:2000 
+#EXTINF:-1,Elrodi 
+http://80.78.69.238:8888/udp/225.1.1.6:2000 
+#EXTINF:-1,Tring Tring 
+http://80.78.69.238:8888/udp/225.1.1.10:2000 
+#EXTINF:-1,Tring Shqip 
+http://80.78.69.238:8888/udp/225.1.1.13:2000 
+#EXTINF:-1,3 Plus 
+http://80.78.69.238:8888/udp/225.1.1.14:2000 
+#EXTINF:-1,SMILE 
+http://80.78.69.238:8888/udp/225.1.1.15:2000 
+#EXTINF:-1,TRING SUPER HD 
+http://80.78.69.238:8888/udp/225.1.1.16:2000 
+#EXTINF:-1,TRING LIFE 
+http://80.78.69.238:8888/udp/225.1.1.17:2000 
+#EXTINF:-1,TRING FANTASY 
+http://80.78.69.238:8888/udp/225.1.1.18:2000 
+#EXTINF:-1,TRING MAX 
+http://80.78.69.238:8888/udp/225.1.1.19:2000 
+#EXTINF:-1,Tring Comedy 
+http://80.78.69.238:8888/udp/225.1.1.20:2000 
+#EXTINF:-1,TRING HISTORY 
+http://80.78.69.238:8888/udp/225.1.1.21:2000 
+#EXTINF:-1,TRING WORLD 
+http://80.78.69.238:8888/udp/225.1.1.22:2000 
+#EXTINF:-1,TRING PLANET 
+http://80.78.69.238:8888/udp/225.1.1.23:2000 
+#EXTINF:-1,RTV 21 
+http://80.78.69.238:8888/udp/225.1.1.24:2000 
+#EXTINF:-1,KTV 
+http://80.78.69.238:8888/udp/225.1.1.25:2000 
+#EXTINF:-1,Fox Crime 
+http://80.78.69.238:8888/udp/225.1.1.28:2000 
+#EXTINF:-1,Mediaset intl 
+http://80.78.69.238:8888/udp/225.1.1.29:2000 
+#EXTINF:-1,Tring Sport News 
+http://80.78.69.238:8888/udp/225.1.1.30:2000 
+#EXTINF:-1,BBF 
+http://80.78.69.238:8888/udp/225.1.1.32:2000 
+#EXTINF:-1,Jolly HD 
+http://80.78.69.238:8888/udp/225.1.1.31:2000 
+#EXTINF:-1,Fox Life 
+http://80.78.69.238:8888/udp/225.1.1.33:2000 
+#EXTINF:-1,SKAI 
+http://80.78.69.238:8888/udp/225.1.1.50:2000 
+#EXTINF:-1,Baby TV 
+http://80.78.69.238:8888/udp/225.1.1.52:2000 
+#EXTINF:-1,Motorsport TV European HD 
+http://80.78.69.238:8888/udp/225.1.1.51:2000 
+#EXTINF:-1,STAR 
+http://80.78.69.238:8888/udp/225.1.1.56:2000 
+#EXTINF:-1,Sot 7 
+http://80.78.69.238:8888/udp/225.1.1.55:2000 
+#EXTINF:-1,Stinet 
+http://80.78.69.238:8888/udp/225.1.1.58:2000 
+#EXTINF:-1,Top Channel HD 
+http://80.78.69.238:8888/udp/225.1.1.57:2000 
+#EXTINF:-1,Travel Channel HD 
+http://80.78.69.238:8888/udp/225.1.1.59:2000 
+#EXTINF:-1,Film Nje HD 
+http://80.78.69.238:8888/udp/225.1.1.63:2000 
+#EXTINF:-1,Living HD 
+http://80.78.69.238:8888/udp/225.1.1.70:2000 
+#EXTINF:-1,Kids 
+http://80.78.69.238:8888/udp/225.1.1.72:2000 
+#EXTINF:-1,CLUB TV 
+http://80.78.69.238:8888/udp/225.1.1.73:2000 
+#EXTINF:-1,24 Kitchen 
+http://80.78.69.238:8888/udp/225.1.1.79:2000 
+#EXTINF:-1,ANT1 EUROPE 
+http://80.78.69.238:8888/udp/225.1.1.80:2000 
+#EXTINF:-1,MUSE 
+http://80.78.69.238:8888/udp/225.1.1.82:2000 
+#EXTINF:-1,SuperSonic TV 
+http://80.78.69.238:8888/udp/225.1.1.83:2000 
+#EXTINF:-1,Folklorit 
+http://80.78.69.238:8888/udp/225.1.1.85:2000 
+#EXTINF:-1,Report TV 
+http://80.78.69.238:8888/udp/225.1.1.90:2000 
+#EXTINF:-1,Alsat-M 
+http://80.78.69.238:8888/udp/225.1.1.91:2000 
+#EXTINF:-1,Disney Channel 
+http://80.78.69.238:8888/udp/225.1.1.95:2000 
+#EXTINF:-1,Animal Planet HD 
+http://80.78.69.238:8888/udp/225.1.1.92:2000 
+#EXTINF:-1,First TV 
+http://80.78.69.238:8888/udp/225.1.1.97:2000 
+#EXTINF:-1,Film Dy HD 
+http://80.78.69.238:8888/udp/225.1.1.96:2000 
+#EXTINF:-1,IN tv 
+http://80.78.69.238:8888/udp/225.1.1.98:2000 
+#EXTINF:-1,Junior TV 
+http://80.78.69.238:8888/udp/225.1.1.99:2000 
+#EXTINF:-1,Top News 
+http://80.78.69.238:8888/udp/225.1.1.103:2000 
+#EXTINF:-1,My Music 
+http://80.78.69.238:8888/udp/225.1.1.104:2000 
+#EXTINF:-1,Bang Bang 
+http://80.78.69.238:8888/udp/225.1.1.105:2000 
+#EXTINF:-1,Cufo TV 
+http://80.78.69.238:8888/udp/225.1.1.106:2000 
+#EXTINF:-1,EXP Shkence 
+http://80.78.69.238:8888/udp/225.1.1.108:2000 
+#EXTINF:-1,Plus HD 
+http://80.78.69.238:8888/udp/225.1.1.107:2000 
+#EXTINF:-1,EXP Histori 
+http://80.78.69.238:8888/udp/225.1.1.109:2000 
+#EXTINF:-1,EXP Natyra 
+http://80.78.69.238:8888/udp/225.1.1.110:2000 
+#EXTINF:-1,News 24 
+http://80.78.69.238:8888/udp/225.1.1.120:2000 
+#EXTINF:-1,Film Autor 
+http://80.78.69.238:8888/udp/225.1.1.122:2000 
+#EXTINF:-1,Film Hits 
+http://80.78.69.238:8888/udp/225.1.1.123:2000 
+#EXTINF:-1,Film Thriller 
+http://80.78.69.238:8888/udp/225.1.1.124:2000 
+#EXTINF:-1,Film Drame 
+http://80.78.69.238:8888/udp/225.1.1.125:2000 
+#EXTINF:-1,Film Aksion 
+http://80.78.69.238:8888/udp/225.1.1.126:2000 
+#EXTINF:-1,Film Komedi 
+http://80.78.69.238:8888/udp/225.1.1.127:2000 
+#EXTINF:-1,Melody.TV 
+http://80.78.69.238:8888/udp/225.1.1.129:2000 
+#EXTINF:-1,T HD 
+http://80.78.69.238:8888/udp/225.1.1.128:2000 
+#EXTINF:-1,UTV News 
+http://80.78.69.238:8888/udp/225.1.1.141:2000 
+#EXTINF:-1,Scan TV 
+http://80.78.69.238:8888/udp/225.1.1.142:2000 
+#EXTINF:-1,SS-6 HD 
+http://80.78.69.238:8888/udp/225.1.1.145:2000 
+#EXTINF:-1,Eurosport 2 HD 
+http://80.78.69.238:8888/udp/225.1.1.146:2000 
+#EXTINF:-1,STV Folk 
+http://80.78.69.238:8888/udp/225.1.1.148:2000 
+#EXTINF:-1,Tribuna Channel 
+http://80.78.69.238:8888/udp/225.1.1.149:2000 
+#EXTINF:-1,Rrokum TV 
+http://80.78.69.238:8888/udp/225.1.1.150:2000 
+#EXTINF:-1,Canale 5 
+http://80.78.69.238:8888/udp/225.1.1.152:2000 
+#EXTINF:-1,Italia 1 
+http://80.78.69.238:8888/udp/225.1.1.153:2000 
+#EXTINF:-1,Alpha 
+http://80.78.69.238:8888/udp/225.1.1.154:2000 
+#EXTINF:-1,Rai 1 
+http://80.78.69.238:8888/udp/225.1.1.160:2000 
+#EXTINF:-1,BBC World News 
+http://80.78.69.238:8888/udp/225.1.1.162:2000 
+#EXTINF:-1,Rai 2 
+http://80.78.69.238:8888/udp/225.1.1.161:2000 
+#EXTINF:-1,CNN Int. 
+http://80.78.69.238:8888/udp/225.1.1.163:2000 
+#EXTINF:-1,Euronews 
+http://80.78.69.238:8888/udp/225.1.1.164:2000 
+#EXTINF:-1,Rete 4 
+http://80.78.69.238:8888/udp/225.1.1.168:2000 
+#EXTINF:-1,FTV Europe HD 
+http://80.78.69.238:8888/udp/225.1.1.165:2000 
+#EXTINF:-1,NATGEO 
+http://80.78.69.238:8888/udp/225.1.1.170:2000 
+#EXTINF:-1,ORA NEWS 
+http://80.78.69.238:8888/udp/225.1.1.171:2000 
+#EXTINF:-1,HD Encoder 1 
+http://80.78.69.238:8888/udp/225.2.2.1:2000 
+#EXTINF:-1,HD Encoder 2 
+http://80.78.69.238:8888/udp/225.2.2.2:2000 
+#EXTINF:-1,HD Encoder 3 
+http://80.78.69.238:8888/udp/225.2.2.3:2000 
+#EXTINF:-1,HD Encoder 4 
+http://80.78.69.238:8888/udp/225.2.2.4:2000 
+#EXTINF:-1,HD Encoder 5 
+http://80.78.69.238:8888/udp/225.2.2.5:2000 
+#EXTINF:-1,Klan Kosova 
+http://80.78.69.238:8888/udp/225.3.3.3:2000 
+#EXTINF:-1,Abc News HD 
+http://80.78.69.238:8888/udp/225.3.3.2:2000 
+#EXTINF:-1,Klan Plus HD 
+http://80.78.69.238:8888/udp/225.3.3.4:2000 
+#EXTINF:-1,Klan HD 
+http://80.78.69.238:8888/udp/225.3.3.1:2000 
+#EXTINF:-1,2 RTSH 2 HD 
+http://80.78.69.238:8888/udp/225.3.3.12:2000 
+#EXTINF:-1,3 RTSH 3 
+http://80.78.69.238:8888/udp/225.3.3.13:2000 
+#EXTINF:-1,5 RTSH Film 
+http://80.78.69.238:8888/udp/225.3.3.15:2000 
+#EXTINF:-1,7 RTSH Shqip 
+http://80.78.69.238:8888/udp/225.3.3.16:2000 
+#EXTINF:-1,6 RTSH Muzike 
+http://80.78.69.238:8888/udp/225.3.3.17:2000 
+#EXTINF:-1,8 RTSH Kuvend 
+http://80.78.69.238:8888/udp/225.3.3.18:2000 
+#EXTINF:-1,1 RTSH HD 
+http://80.78.69.238:8888/udp/225.3.3.11:2000 
+#EXTINF:-1,RTK 
+http://80.78.69.238:8888/udp/225.3.3.19:2000 
+#EXTINF:-1,RTSH 24 
+http://80.78.69.238:8888/udp/225.3.3.20:2000 
+#EXTINF:-1,4 RTSH Sport HD 
+http://80.78.69.238:8888/udp/225.3.3.14:2000 
+#EXTINF:-1,TV KORCA 
+http://80.78.69.238:8888/udp/225.3.3.25:2000 
+#EXTINF:-1,Vizion + HD 
+http://80.78.69.238:8888/udp/225.3.3.31:2000 
+#EXTINF:-1,FAX NEWS 
+http://80.78.69.238:8888/udp/225.3.3.49:2000 
+#EXTINF:-1,TIP TV 
+http://80.78.69.238:8888/udp/225.1.1.12:2000 
+#EXTINF:-1,Folk + 
+http://80.78.69.238:8888/udp/225.1.1.81:2000
 #EXTINF:-1,IN: STAR SPORTS 1 HD
 http://xtreme.webhop.me:8000/live/oNX0sIjlHr/7qwD5oMujf/4954.ts
 #EXTINF:-1,IN: STAR SPORTS 2 HD
 http://xtreme.webhop.me:8000/live/oNX0sIjlHr/7qwD5oMujf/4953.ts
-#EXTINF:-1,STAR SPORTS SELECT 2 HD
-http://p4.giffy.be:8080/live/thalia/thalia/51035.ts
-#EXTINF:-1,Animal Planet HD US
-http://linux-app.tv:6204/live/Reda/Reda/10439.ts
-#EXTINF:-1,HBO HD US
-http://linux-app.tv:6204/live/Reda/Reda/10409.ts
-#EXTINF:-1,FOX sport HD 1 US
-http://linux-app.tv:6204/live/Reda/Reda/10416.ts
-#EXTINF:-1,FOX sport HD 2 US
-http://linux-app.tv:6204/live/Reda/Reda/10415.ts
-#EXTINF:-1,AFN HD 2 US
-http://linux-app.tv:6204/live/Reda/Reda/10722.ts
-#EXTINF:-1,Bein Sport Max 1 HD AR
-http://linux-app.tv:6204/live/Reda/Reda/10970.ts
-#EXTINF:-1,Bein Sport Max 2 HD AR
-http://linux-app.tv:6204/live/Reda/Reda/10969.ts
-#EXTINF:-1,Bein Sport 1 UHD AR
-http://linux-app.tv:6204/live/Reda/Reda/127.ts
-#EXTINF:-1,Bein Sport 2 UHD AR
-http://linux-app.tv:6204/live/Reda/Reda/128.ts
-#EXTINF:-1,Bein Sport 3 UHD AR
-http://linux-app.tv:6204/live/Reda/Reda/129.ts
-#EXTINF:-1,Bein Sport 4 UHD AR
-http://linux-app.tv:6204/live/Reda/Reda/130.ts
-#EXTINF:-1,Bein Sport 5 UHD AR
-http://linux-app.tv:6204/live/Reda/Reda/132.ts
-#EXTINF:-1,Bein Sport 6 UHD AR
-http://linux-app.tv:6204/live/Reda/Reda/133.ts
-#EXTINF:-1,Bein Sport 7 UHD AR
-http://linux-app.tv:6204/live/Reda/Reda/134.ts
-#EXTINF:-1,Bein Sport 8 UHD AR
-http://linux-app.tv:6204/live/Reda/Reda/135.ts
-#EXTINF:-1,Bein Sport 9 UHD AR
-http://linux-app.tv:6204/live/Reda/Reda/186.ts
-#EXTINF:-1,Bein Sport 10 UHD AR
-http://linux-app.tv:6204/live/Reda/Reda/187.ts
-#EXTINF:-1,Bein Sport HD AR
-http://linux-app.tv:6204/live/Reda/Reda/2568.ts
-#EXTINF:-1,Star Movies HD
-http://linux-app.tv:6204/live/Reda/Reda/7697.ts
-#EXTINF:-1,Star World HD
-http://linux-app.tv:6204/live/Reda/Reda/250.ts
-#EXTINF:-1,Movies Now HD IN
-http://p4.giffy.be:8080/live/thalia/thalia/52593.ts
-#EXTINF:-1,Movies Now 2 HD IN
-http://p4.giffy.be:8080/live/thalia/thalia/52470.ts
-#EXTINF:-1,Star Sport 1 IN
-http://p4.giffy.be:8080/live/thalia/thalia/51038.ts
-#EXTINF:-1,Star Sport 2 HD IN
-http://p4.giffy.be:8080/live/thalia/thalia/51039.ts
-#EXTINF:-1,Star Sport 3 IN
-http://p4.giffy.be:8080/live/thalia/thalia/53657.ts
-#EXTINF:-1,Viceland HD US
-http://p4.giffy.be:8080/live/thalia/thalia/30893.ts
-#EXTINF:-1,ESPN HD US
-http://p4.giffy.be:8080/live/thalia/thalia/13859.ts
-#EXTINF:-1,FOX Action Movies HD ARB
-http://clientportal.link:80/live/Tarvi/tarvi12/15114.ts
-#EXTINF:-1,FOX Family Movies HD ARB
-http://clientportal.link:80/live/Tarvi/tarvi12/15115.ts
-#EXTINF:-1,OSN Discovery Channel HD AE
-http://clientportal.link:80/live/Tarvi/tarvi12/5747.ts
-#EXTINF:-1,OSN Star Movies HD AE
-http://clientportal.link:80/live/Tarvi/tarvi12/12827.ts
-#EXTINF:-1,OSN Star World HD AE
-http://clientportal.link:80/live/Tarvi/tarvi12/12843.ts
-#EXTINF:-1,OSN Disney Junior AE
-http://clientportal.link:80/live/Tarvi/tarvi12/13709.ts
-#EXTINF:-1,OSN Nick Jr. AE
-http://clientportal.link:80/live/Tarvi/tarvi12/18310.ts
-#EXTINF:-1,TOLO HD AFG
-http://xtreme.webhop.me:8000/live/oNX0sIjlHr/7qwD5oMujf/4674.ts
-#EXTINF:-1,Us- WWE HD
-http://linux-app.tv:6204/live/kkk1/kkk1/10376.ts
-#EXTINF:-1,AFN Atlantaic HD
-http://linux-app.tv:6204/live/kkk1/kkk1/10722.ts
-#EXTINF:-1,AFN Family HD
-http://linux-app.tv:6204/live/kkk1/kkk1/10721.ts
-#EXTINF:-1,AFN Fox News HD
-http://linux-app.tv:6204/live/kkk1/kkk1/10720.ts
-#EXTINF:-1,AFN Movies HD
-http://linux-app.tv:6204/live/kkk1/kkk1/10719.ts
-#EXTINF:-1,AFN Pacific HD
-http://linux-app.tv:6204/live/kkk1/kkk1/10718.ts
-#EXTINF:-1,AFN Spectrum HD
-http://linux-app.tv:6204/live/kkk1/kkk1/10717.ts
-#EXTINF:-1,AFN Sport HD 1
-http://linux-app.tv:6204/live/kkk1/kkk1/10716.ts
-#EXTINF:-1,AFN Sport HD 2
+
 
 
