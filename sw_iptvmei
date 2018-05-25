@@ -1,10 +1,42 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="4b9f34753ebbff8132fcb78a62342f62",SBS ONE HD
-http://118.211.40.146:8089/stream/channelid/1966382923?ticket=472244501202c12b5b63eace6ad62c32b1c8ad9a&profile=pass
-#EXTINF:-1 tvg-id="b0e0a914a4c1b830d151be1193998c00",SBS VICELAND HD
-http://118.211.40.146:8089/stream/channelid/346677424?ticket=da52646eda051c455bd0795fec90ce3ac55d6379&profile=pass
-#EXTINF:-1,TRACE URBAN
-http://italians-server.ddns.net:6969/live/30planet/bL3GtdLzhF/15107.ts
+#EXTINF:-1,Mtunes HD
+http://78.142.29.72:2500/live/ZFPrf5gDtm/SJXFyYT8o4/4451.ts
+#EXTINF:-1,Bein Sport Max 1 HD
+http://78.142.29.72:2500/live/ZFPrf5gDtm/SJXFyYT8o4/17263.ts
+#EXTINF:-1,Bein Sport Max 2 HD
+http://78.142.29.72:2500/live/ZFPrf5gDtm/SJXFyYT8o4/17262.ts
+#EXTINF:-1,Bein Sport Max 3 HD During Live
+http://78.142.29.72:2500/live/ZFPrf5gDtm/SJXFyYT8o4/17264.ts
+#EXTINF:-1,IND: Sony PIX HD
+http://78.142.29.72:2500/live/ZFPrf5gDtm/SJXFyYT8o4/15166.ts
+#EXTINF:-1,HINDI SONY SIX
+http://78.142.29.72:2500/live/ZFPrf5gDtm/SJXFyYT8o4/4493.ts
+#EXTINF:-1,IN: Sony ESPN
+http://78.142.29.72:2500/live/ZFPrf5gDtm/SJXFyYT8o4/4246.ts
+#EXTINF:-1,IND: Sony Ten 1 HD
+http://78.142.29.72:2500/live/ZFPrf5gDtm/SJXFyYT8o4/15165.ts
+#EXTINF:-1,IND: Sony Ten 2 HD
+http://78.142.29.72:2500/live/ZFPrf5gDtm/SJXFyYT8o4/15164.ts
+#EXTINF:-1,IND: Star Movies Select HD
+http://78.142.29.72:2500/live/ZFPrf5gDtm/SJXFyYT8o4/15163.ts
+#EXTINF:-1,IND: Star Sport Select1 HD
+http://78.142.29.72:2500/live/ZFPrf5gDtm/SJXFyYT8o4/15162.ts
+#EXTINF:-1,IND: Star Sport Select2 HD
+http://78.142.29.72:2500/live/ZFPrf5gDtm/SJXFyYT8o4/15161.ts
+#EXTINF:-1,IND: Star Sports HD1
+http://78.142.29.72:2500/live/ZFPrf5gDtm/SJXFyYT8o4/15160.ts
+#EXTINF:-1,IND: Star Sports HD2
+http://78.142.29.72:2500/live/ZFPrf5gDtm/SJXFyYT8o4/15159.ts
+#EXTINF:-1,(FR) Trace Urban HD
+http://78.142.29.72:2500/live/ZFPrf5gDtm/SJXFyYT8o4/14593.ts
+#EXTINF:-1,MTV India
+http://78.142.29.72:2500/live/ZFPrf5gDtm/SJXFyYT8o4/4448.ts
+#EXTINF:-1,MYLOCAL: BeinMovies1HD
+http://78.142.29.72:2500/live/ZFPrf5gDtm/SJXFyYT8o4/7467.ts
+#EXTINF:-1,MYLOCAL: BeinMovies2HD
+http://78.142.29.72:2500/live/ZFPrf5gDtm/SJXFyYT8o4/7466.ts
+#EXTINF:-1,MYLOCAL: BeinMovies3HD
+http://78.142.29.72:2500/live/ZFPrf5gDtm/SJXFyYT8o4/7465.ts
 #EXTINF:-1,AXN
 http://tv.factoryiptv.com:80/live/cristiano/cristiano/37132.ts
 #EXTINF:-1,AXN HD
