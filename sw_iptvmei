@@ -1,880 +1,1366 @@
-#EXTM3U
-#EXTINF:-1,TSN 1 HD
-http://87.98.254.240:8080/live/cem/cem2/223.ts
-#EXTINF:-1,TSN 2 HD
-http://87.98.254.240:8080/live/cem/cem2/224.ts
-#EXTINF:-1,TSN 3 HD
-http://87.98.254.240:8080/live/cem/cem2/225.ts
-#EXTINF:-1,TSN 4 HD
-http://87.98.254.240:8080/live/cem/cem2/226.ts
-#EXTINF:-1,TSN 5 HD
-http://87.98.254.240:8080/live/cem/cem2/227.ts
-#EXTINF:-1,BT Sport 1HD
-http://87.98.254.240:8080/live/cem/cem2/44.ts
-#EXTINF:-1,Bt Sport 2 HD
-http://87.98.254.240:8080/live/cem/cem2/45.ts
-#EXTINF:-1,BT Sport 3 HD
-http://87.98.254.240:8080/live/cem/cem2/46.ts
-#EXTINF:-1,SKY SPORTS Main Event HD
-http://87.98.254.240:8080/live/cem/cem2/47.ts
-#EXTINF:-1,SKY SPORTS Premier League HD
-http://87.98.254.240:8080/live/cem/cem2/55.ts
-#EXTINF:-1,SKY SPORTS Football HD
-http://87.98.254.240:8080/live/cem/cem2/1801.ts
-#EXTINF:-1,SKY SPORTS Cricket HD
-http://87.98.254.240:8080/live/cem/cem2/49.ts
-#EXTINF:-1,SKY SPORTS The Open HD
-http://87.98.254.240:8080/live/cem/cem2/53.ts
-#EXTINF:-1,Sky Sports F1 HD
-http://87.98.254.240:8080/live/cem/cem2/57.ts
-#EXTINF:-1,SKY SPORTS Action HD
-http://87.98.254.240:8080/live/cem/cem2/51.ts
-#EXTINF:-1,SKY SPORTS Arena HD
-http://87.98.254.240:8080/live/cem/cem2/1629.ts
-#EXTINF:-1,Sky Sports News HQ HD
-http://87.98.254.240:8080/live/cem/cem2/264.ts
-#EXTINF:-1,Sky Sports Mix HD
-http://87.98.254.240:8080/live/cem/cem2/247.ts
-#EXTINF:-1,Sky Sports Main Event SD
-http://87.98.254.240:8080/live/cem/cem2/48.ts
-#EXTINF:-1,Sky Sports Premier Leauge SD
-http://87.98.254.240:8080/live/cem/cem2/56.ts
-#EXTINF:-1,SKY SPORTS Football HD (2)
-http://87.98.254.240:8080/live/cem/cem2/1873.ts
-#EXTINF:-1,AR: beIN Sports 1 HD
-http://leaderpro.pt:25461/live/ma/ma/15997.ts
-#EXTINF:-1,AR: beIN Sports 10 HD
-http://leaderpro.pt:25461/live/ma/ma/15998.ts
-#EXTINF:-1,AR: beIN Sports 11 HD
-http://leaderpro.pt:25461/live/ma/ma/15999.ts
-#EXTINF:-1,AR: beIN Sports 12 HD
-http://leaderpro.pt:25461/live/ma/ma/16000.ts
-#EXTINF:-1,AR: beIN Sports 13 HD
-http://leaderpro.pt:25461/live/ma/ma/16001.ts
-#EXTINF:-1,AR: beIN Sports 14 HD
-http://leaderpro.pt:25461/live/ma/ma/16002.ts
-#EXTINF:-1,AR: beIN Sports 2 HD
-http://leaderpro.pt:25461/live/ma/ma/16006.ts
-#EXTINF:-1,AR: beIN Sports 3 HD
-http://leaderpro.pt:25461/live/ma/ma/16007.ts
-#EXTINF:-1,AR: beIN Sports 4 HD
-http://leaderpro.pt:25461/live/ma/ma/16008.ts
-#EXTINF:-1,AR: beIN Sports 5 HD
-http://leaderpro.pt:25461/live/ma/ma/16009.ts
-#EXTINF:-1,AR: beIN Sports 6 HD
-http://leaderpro.pt:25461/live/ma/ma/16010.ts
-#EXTINF:-1,AR: beIN Sports 7 HD
-http://leaderpro.pt:25461/live/ma/ma/16011.ts
-#EXTINF:-1,AR: beIN Sports 8 HD
-http://leaderpro.pt:25461/live/ma/ma/16012.ts
-#EXTINF:-1,AR: beIN Sports 9 HD
-http://leaderpro.pt:25461/live/ma/ma/16013.ts
-#EXTINF:-1,BR: HBO
-http://leaderpro.pt:25461/live/ma/ma/221.ts
-#EXTINF:-1,BR: HBO HD
-http://leaderpro.pt:25461/live/ma/ma/131.ts
-#EXTINF:-1,BR: HBO 2
-http://leaderpro.pt:25461/live/ma/ma/220.ts
-#EXTINF:-1,BR: HBO 2 HD
-http://leaderpro.pt:25461/live/ma/ma/130.ts
-#EXTINF:-1,BR: HBO Family
-http://leaderpro.pt:25461/live/ma/ma/225.ts
-#EXTINF:-1,BR: HBO Family HD
-http://leaderpro.pt:25461/live/ma/ma/128.ts
-#EXTINF:-1,BR: HBO Plus
-http://leaderpro.pt:25461/live/ma/ma/11653.ts
-#EXTINF:-1,BR: HBO Plus HD
-http://leaderpro.pt:25461/live/ma/ma/129.ts
-#EXTINF:-1,BR: HBO Plus*e
-http://leaderpro.pt:25461/live/ma/ma/223.ts
-#EXTINF:-1,BR: HBO Plus*e HD
-http://leaderpro.pt:25461/live/ma/ma/14332.ts
-#EXTINF:-1,BR: HBO Signature
-http://leaderpro.pt:25461/live/ma/ma/222.ts
-#EXTINF:-1,BR: HBO Signature HD
-http://leaderpro.pt:25461/live/ma/ma/4072.ts
-#EXTINF:-1,PT: TRACE URBAN HD
-http://leaderpro.pt:25461/live/ma/ma/271.ts
-#EXTINF:-1,NL: Ziggo sport select HD
-http://178.132.4.10:8000/live/feyenoord/feyenoord/841.ts
-#EXTINF:-1,NL: Ziggo sport select
-http://178.132.4.10:8000/live/feyenoord/feyenoord/840.ts
-#EXTINF:-1,NL: Ziggo Sport Voetbal HD
-http://178.132.4.10:8000/live/feyenoord/feyenoord/1362.ts
-#EXTINF:-1,NL: Ziggo Sport Voetbal
-http://178.132.4.10:8000/live/feyenoord/feyenoord/9.ts
-#EXTINF:-1,NL: Ziggo Sport Racing HD
-http://178.132.4.10:8000/live/feyenoord/feyenoord/1360.ts
-#EXTINF:-1,NL: Ziggo Sport Racing
-http://178.132.4.10:8000/live/feyenoord/feyenoord/7.ts
-#EXTINF:-1,NL: Ziggo Sport Golf HD
-http://178.132.4.10:8000/live/feyenoord/feyenoord/1370.ts
-#EXTINF:-1,NL: Ziggo Sport Golf
-http://178.132.4.10:8000/live/feyenoord/feyenoord/45.ts
-#EXTINF:-1,NL: Ziggo Sport Extra 2
-http://178.132.4.10:8000/live/feyenoord/feyenoord/47.ts
-#EXTINF:-1,NL: Ziggo Sport Extra 1
-http://178.132.4.10:8000/live/feyenoord/feyenoord/46.ts
-#EXTINF:-1,NL: FOX Sports 1 Eredivisie 720p
-http://178.132.4.10:8000/live/feyenoord/feyenoord/1.ts
-#EXTINF:-1,NL: FOX Sports 1 Eredivisie HD
-http://178.132.4.10:8000/live/feyenoord/feyenoord/809.ts
-#EXTINF:-1,NL: FOX Sports 2 Internationaal
-http://178.132.4.10:8000/live/feyenoord/feyenoord/2.ts
-#EXTINF:-1,NL: FOX Sports 2 HD
-http://178.132.4.10:8000/live/feyenoord/feyenoord/810.ts
-#EXTINF:-1,NL: FOX Sports 3 Eredivisie
-http://178.132.4.10:8000/live/feyenoord/feyenoord/3.ts
-#EXTINF:-1,NL: FOX Sports 3 Eredivisie HD
-http://178.132.4.10:8000/live/feyenoord/feyenoord/811.ts
-#EXTINF:-1,NL: FOX Sports 4 Internationaal
-http://178.132.4.10:8000/live/feyenoord/feyenoord/4.ts
-#EXTINF:-1,NL: FOX Sports 4 HD
-http://178.132.4.10:8000/live/feyenoord/feyenoord/812.ts
-#EXTINF:-1,NL: FOX Sports 5 Eredivisie
-http://178.132.4.10:8000/live/feyenoord/feyenoord/5.ts
-#EXTINF:-1,NL: FOX Sports 5 Eredivisie HD
-http://178.132.4.10:8000/live/feyenoord/feyenoord/813.ts
-#EXTINF:-1,NL: FOX Sports 6 Internationaal
-http://178.132.4.10:8000/live/feyenoord/feyenoord/6.ts
-#EXTINF:-1,NL: FOX Sports 6 HD
-http://178.132.4.10:8000/live/feyenoord/feyenoord/814.ts
-#EXTINF:-1,Extra Live Events in HD ( UFC WWE Sky Feeds )
-http://178.132.4.10:8000/live/feyenoord/feyenoord/1373.ts
-#EXTINF:-1,NL: Eurosport
-http://178.132.4.10:8000/live/feyenoord/feyenoord/848.ts
-#EXTINF:-1,NL: Eurosport 2
-http://178.132.4.10:8000/live/feyenoord/feyenoord/59.ts
-#EXTINF:-1,NL: ViceLand HD
-http://178.132.4.10:8000/live/feyenoord/feyenoord/1361.ts
-#EXTINF:-1,Sky Sports Cricket SD
-http://87.98.254.240:8080/live/cem/cem2/50.ts
-#EXTINF:-1,Sky Sports The Open SD
-http://87.98.254.240:8080/live/cem/cem2/54.ts
-#EXTINF:-1,Sky Sports F1 SD
-http://87.98.254.240:8080/live/cem/cem2/64.ts
-#EXTINF:-1,Sky Sports Action SD
-http://87.98.254.240:8080/live/cem/cem2/52.ts
-#EXTINF:-1,Sky Sports Arena HD (LOCAL)
-http://87.98.254.240:8080/live/cem/cem2/1872.ts
-#EXTINF:-1,Sky Sports News HQ
-http://87.98.254.240:8080/live/cem/cem2/1614.ts
-#EXTINF:-1,Sky Sports Mix SD
-http://87.98.254.240:8080/live/cem/cem2/222.ts
-#EXTINF:-1,NHK News HD
-http://87.98.254.240:8080/live/cem/cem2/71.ts
-#EXTINF:-1,Fox News
-http://87.98.254.240:8080/live/cem/cem2/72.ts
-#EXTINF:-1,Euronews
-http://87.98.254.240:8080/live/cem/cem2/73.ts
-#EXTINF:-1,UK: CNN
-http://87.98.254.240:8080/live/cem/cem2/12.ts
-#EXTINF:-1,Sky News UK
-http://87.98.254.240:8080/live/cem/cem2/66.ts
-#EXTINF:-1,Sky News HD
-http://87.98.254.240:8080/live/cem/cem2/67.ts
-#EXTINF:-1,Sky News Arabia
-http://87.98.254.240:8080/live/cem/cem2/68.ts
-#EXTINF:-1,Russia Today
-http://87.98.254.240:8080/live/cem/cem2/69.ts
-#EXTINF:-1,CNN
-http://87.98.254.240:8080/live/cem/cem2/74.ts
-#EXTINF:-1,CNBC Europe
-http://87.98.254.240:8080/live/cem/cem2/75.ts
-#EXTINF:-1,Bloomberg
-http://87.98.254.240:8080/live/cem/cem2/76.ts
-#EXTINF:-1,BBC World News
-http://87.98.254.240:8080/live/cem/cem2/77.ts
-#EXTINF:-1,BBC News UK
-http://87.98.254.240:8080/live/cem/cem2/78.ts
-#EXTINF:-1,Al Jazeera News English
-http://87.98.254.240:8080/live/cem/cem2/79.ts
-#EXTINF:-1,ABC News
-http://87.98.254.240:8080/live/cem/cem2/80.ts
-#EXTINF:-1,Russia Today HD
-http://87.98.254.240:8080/live/cem/cem2/1940.ts
-#EXTINF:-1,UK: British Eurosport 1 HD
-http://87.98.254.240:8080/live/cem/cem2/59.ts
-#EXTINF:-1,UK: British EuroSports 2
-http://87.98.254.240:8080/live/cem/cem2/58.ts
-#EXTINF:-1,UK: BT SPORT 1 SD
-http://87.98.254.240:8080/live/cem/cem2/511.ts
-#EXTINF:-1,UK: BT SPORT 2 SD
-http://87.98.254.240:8080/live/cem/cem2/512.ts
-#EXTINF:-1,UK: BT SPORT ESPN SD
-http://87.98.254.240:8080/live/cem/cem2/510.ts
-#EXTINF:-1,At The Races
-http://87.98.254.240:8080/live/cem/cem2/41.ts
-#EXTINF:-1,Racing Uk
-http://87.98.254.240:8080/live/cem/cem2/42.ts
-#EXTINF:-1,UK: BOX NATION HD
-http://87.98.254.240:8080/live/cem/cem2/1544.ts
-#EXTINF:-1,UK : Premier Sports HD
-http://87.98.254.240:8080/live/cem/cem2/61.ts
-#EXTINF:-1,Setanta Ireland HD
-http://87.98.254.240:8080/live/cem/cem2/63.ts
-#EXTINF:-1,VIP: Setanta HD
-http://87.98.254.240:8080/live/cem/cem2/60.ts
-#EXTINF:-1,UK: EIR SPORT 1
-http://87.98.254.240:8080/live/cem/cem2/1537.ts
-#EXTINF:-1,UK: EIR SPORT 2
-http://87.98.254.240:8080/live/cem/cem2/1538.ts
-#EXTINF:-1,OSN Sports 1 HD
-http://87.98.254.240:8080/live/cem/cem2/1521.ts
-#EXTINF:-1,OSN Sports 2 HD
-http://87.98.254.240:8080/live/cem/cem2/1522.ts
-#EXTINF:-1,OSN Sports 3 HD
-http://87.98.254.240:8080/live/cem/cem2/1523.ts
-#EXTINF:-1,OSN Sports 4 HD
-http://87.98.254.240:8080/live/cem/cem2/1524.ts
-#EXTINF:-1,VIP :MIO  ELEVEN PLUS 103 HD
-http://87.98.254.240:8080/live/cem/cem2/1520.ts
-#EXTINF:-1,VIP :MIO  ELEVEN HD
-http://87.98.254.240:8080/live/cem/cem2/1519.ts
-#EXTINF:-1,VIP : MIO ELEVEN SPORTS HD
-http://87.98.254.240:8080/live/cem/cem2/1518.ts
-#EXTINF:-1,VIP : MTV LIVE HD
-http://87.98.254.240:8080/live/cem/cem2/98.ts
-#EXTINF:-1,MUTV
-http://87.98.254.240:8080/live/cem/cem2/43.ts
-#EXTINF:-1,LIVERPOOL FC TV
-http://87.98.254.240:8080/live/cem/cem2/65.ts
-#EXTINF:-1,UK: CHELSEA TV HD
-http://87.98.254.240:8080/live/cem/cem2/1543.ts
-#EXTINF:-1,UK: CELTIC FC TV (Live for Matches)
-http://87.98.254.240:8080/live/cem/cem2/1540.ts
-#EXTINF:-1,BT SPORT EXTRA 6
-#EXTINF:-1,UK: RANGERS FC TV (Local)
-http://87.98.254.240:8080/live/cem/cem2/1539.ts
-#EXTINF:-1,BT Sport 3 SD
-http://87.98.254.240:8080/live/cem/cem2/2336.ts
-#EXTINF:-1,BT Sport ESPN HD
-http://87.98.254.240:8080/live/cem/cem2/251.ts
-#EXTINF:-1,3e
-http://87.98.254.240:8080/live/cem/cem2/110.ts
-#EXTINF:-1,Animal Planet
-http://87.98.254.240:8080/live/cem/cem2/509.ts
-#EXTINF:-1,BBC Alba
-http://87.98.254.240:8080/live/cem/cem2/1561.ts
-#EXTINF:-1,Boomerang
-http://87.98.254.240:8080/live/cem/cem2/87.ts
-#EXTINF:-1,CBeebies
-http://87.98.254.240:8080/live/cem/cem2/88.ts
-#EXTINF:-1,CBS Action
-http://87.98.254.240:8080/live/cem/cem2/104.ts
-#EXTINF:-1,CBBC
-http://87.98.254.240:8080/live/cem/cem2/89.ts
-#EXTINF:-1,UK: Disney Junior
-http://87.98.254.240:8080/live/cem/cem2/84.ts
-#EXTINF:-1,Cartoonito
-http://87.98.254.240:8080/live/cem/cem2/90.ts
-#EXTINF:-1,Disney Channel
-http://87.98.254.240:8080/live/cem/cem2/85.ts
-#EXTINF:-1,Discovery History
-http://87.98.254.240:8080/live/cem/cem2/18.ts
-#EXTINF:-1,Disney XD
-http://87.98.254.240:8080/live/cem/cem2/86.ts
-#EXTINF:-1,Cartoon Network UK
-http://87.98.254.240:8080/live/cem/cem2/91.ts
-#EXTINF:-1,Baby TV
-http://87.98.254.240:8080/live/cem/cem2/92.ts
-#EXTINF:-1,Fine Living Network
-http://87.98.254.240:8080/live/cem/cem2/103.ts
-#EXTINF:-1,FOX UK
-http://87.98.254.240:8080/live/cem/cem2/26.ts
-#EXTINF:-1,Fox HD UK
-http://87.98.254.240:8080/live/cem/cem2/262.ts
-#EXTINF:-1,DMAX
-http://87.98.254.240:8080/live/cem/cem2/101.ts
-#EXTINF:-1,GOLD
-http://87.98.254.240:8080/live/cem/cem2/19.ts
-#EXTINF:-1,MTV Classics
-http://87.98.254.240:8080/live/cem/cem2/93.ts
-#EXTINF:-1,MTV Base HD
-http://87.98.254.240:8080/live/cem/cem2/100.ts
-#EXTINF:-1,Sky Arts HD
-http://87.98.254.240:8080/live/cem/cem2/40.ts
-#EXTINF:-1,MTV Hits
-http://87.98.254.240:8080/live/cem/cem2/94.ts
-#EXTINF:-1,MTV Rocks HD
-http://87.98.254.240:8080/live/cem/cem2/99.ts
-#EXTINF:-1,More 4
-http://87.98.254.240:8080/live/cem/cem2/102.ts
-#EXTINF:-1,Nat Geo HD
-http://87.98.254.240:8080/live/cem/cem2/23.ts
-#EXTINF:-1,Pick
-http://87.98.254.240:8080/live/cem/cem2/113.ts
-#EXTINF:-1,NickToons
-http://87.98.254.240:8080/live/cem/cem2/81.ts
-#EXTINF:-1,Nick Junior
-http://87.98.254.240:8080/live/cem/cem2/83.ts
-#EXTINF:-1,Nick UK
-http://87.98.254.240:8080/live/cem/cem2/82.ts
-#EXTINF:-1,STV
-http://87.98.254.240:8080/live/cem/cem2/1601.ts
-#EXTINF:-1,Sky Living
-http://87.98.254.240:8080/live/cem/cem2/21.ts
-#EXTINF:-1,Sky Atlantic
-http://87.98.254.240:8080/live/cem/cem2/39.ts
-#EXTINF:-1,MTV HD
-http://87.98.254.240:8080/live/cem/cem2/95.ts
-#EXTINF:-1,Setanta Sports 1 / Premier Sports HD
-http://87.98.254.240:8080/live/cem/cem2/62.ts
-#EXTINF:-1,Sky One
-http://87.98.254.240:8080/live/cem/cem2/37.ts
-#EXTINF:-1,Sky One HD
-http://87.98.254.240:8080/live/cem/cem2/263.ts
-#EXTINF:-1,Spike UK
-http://87.98.254.240:8080/live/cem/cem2/112.ts
-#EXTINF:-1,MTV Dance
-http://87.98.254.240:8080/live/cem/cem2/97.ts
-#EXTINF:-1,UK: Comedy Central Extra
-http://87.98.254.240:8080/live/cem/cem2/31.ts
-#EXTINF:-1,UK: CBS Reality
-http://87.98.254.240:8080/live/cem/cem2/13.ts
-#EXTINF:-1,UK: CBS Drama
-http://87.98.254.240:8080/live/cem/cem2/14.ts
-#EXTINF:-1,True Entertainment
-http://87.98.254.240:8080/live/cem/cem2/34.ts
-#EXTINF:-1,Travel Channel
-http://87.98.254.240:8080/live/cem/cem2/35.ts
-#EXTINF:-1,UK : RTE ONE
-http://87.98.254.240:8080/live/cem/cem2/107.ts
-#EXTINF:-1,UK: 5 Star
-http://87.98.254.240:8080/live/cem/cem2/17.ts
-#EXTINF:-1,UK | Sky 1 HD Local
-http://87.98.254.240:8080/live/cem/cem2/252.ts
-#EXTINF:-1,UK : RTE TWO
-http://87.98.254.240:8080/live/cem/cem2/106.ts
-#EXTINF:-1,UK: AMC
-http://87.98.254.240:8080/live/cem/cem2/15.ts
-#EXTINF:-1,UK : RTE JUNIOR
-http://87.98.254.240:8080/live/cem/cem2/105.ts
-#EXTINF:-1,UK: Channel 4 HD
-http://87.98.254.240:8080/live/cem/cem2/1552.ts
-#EXTINF:-1,UK: BBC Parliament
-http://87.98.254.240:8080/live/cem/cem2/1560.ts
-#EXTINF:-1,UK: BBC 4 HD
-http://87.98.254.240:8080/live/cem/cem2/1555.ts
-#EXTINF:-1,UK: Crime and Investigation
-http://87.98.254.240:8080/live/cem/cem2/30.ts
-#EXTINF:-1,UK: BBC 1 HD
-http://87.98.254.240:8080/live/cem/cem2/1545.ts
-#EXTINF:-1,UK: BBC 2 HD
-http://87.98.254.240:8080/live/cem/cem2/1547.ts
-#EXTINF:-1,UK: BBC 3 HD
-http://87.98.254.240:8080/live/cem/cem2/1554.ts
-#EXTINF:-1,UK: BBC 2
-http://87.98.254.240:8080/live/cem/cem2/1546.ts
-#EXTINF:-1,UK: Alibi
-http://87.98.254.240:8080/live/cem/cem2/16.ts
-#EXTINF:-1,UK: Discovery Science
-http://87.98.254.240:8080/live/cem/cem2/27.ts
-#EXTINF:-1,UK: Discovery Channel
-http://87.98.254.240:8080/live/cem/cem2/29.ts
-#EXTINF:-1,UK: Investigation Discovery
-http://87.98.254.240:8080/live/cem/cem2/28.ts
-#EXTINF:-1,UK: Dave HD
-http://87.98.254.240:8080/live/cem/cem2/11.ts
-#EXTINF:-1,UK: Discovery Turbo
-http://87.98.254.240:8080/live/cem/cem2/24.ts
-#EXTINF:-1,UK: Discovery Shed
-http://87.98.254.240:8080/live/cem/cem2/25.ts
-#EXTINF:-1,UK: Eden
-http://87.98.254.240:8080/live/cem/cem2/20.ts
-#EXTINF:-1,UK: E!
-http://87.98.254.240:8080/live/cem/cem2/9.ts
-#EXTINF:-1,UK: E4
-http://87.98.254.240:8080/live/cem/cem2/8.ts
-#EXTINF:-1,UK: Drama
-http://87.98.254.240:8080/live/cem/cem2/10.ts
-#EXTINF:-1,UK: Food Network
-http://87.98.254.240:8080/live/cem/cem2/7.ts
-#EXTINF:-1,UK: H2
-http://87.98.254.240:8080/live/cem/cem2/6.ts
-#EXTINF:-1,UK: ITV 4
-http://87.98.254.240:8080/live/cem/cem2/1551.ts
-#EXTINF:-1,UK: History HD
-http://87.98.254.240:8080/live/cem/cem2/5.ts
-#EXTINF:-1,UK: ITV 1 HD
-http://87.98.254.240:8080/live/cem/cem2/1548.ts
-#EXTINF:-1,UK: ITV 2
-http://87.98.254.240:8080/live/cem/cem2/1549.ts
-#EXTINF:-1,UK: Really
-http://87.98.254.240:8080/live/cem/cem2/2.ts
-#EXTINF:-1,UK: Sky Living
-http://87.98.254.240:8080/live/cem/cem2/1.ts
-#EXTINF:-1,UK: Quest
-http://87.98.254.240:8080/live/cem/cem2/3.ts
-#EXTINF:-1,UK: Syfy
-http://87.98.254.240:8080/live/cem/cem2/36.ts
-#EXTINF:-1,VH1
-http://87.98.254.240:8080/live/cem/cem2/96.ts
-#EXTINF:-1,UK: ITV 3
-http://87.98.254.240:8080/live/cem/cem2/1550.ts
-#EXTINF:-1,UK: Home
-http://87.98.254.240:8080/live/cem/cem2/4.ts
-#EXTINF:-1,UK: ITV Be
-http://87.98.254.240:8080/live/cem/cem2/1557.ts
-#EXTINF:-1,UK: ITV Encore
-http://87.98.254.240:8080/live/cem/cem2/1558.ts
-#EXTINF:-1,UK: ITV Encore HD
-http://87.98.254.240:8080/live/cem/cem2/1553.ts
-#EXTINF:-1,UK: Nat Geo Wild
-http://87.98.254.240:8080/live/cem/cem2/22.ts
-#EXTINF:-1,UK: Five USA
-http://87.98.254.240:8080/live/cem/cem2/1556.ts
-#EXTINF:-1,Yesterday
-http://87.98.254.240:8080/live/cem/cem2/32.ts
-#EXTINF:-1,UK: CHANNEL 5 HD
-http://87.98.254.240:8080/live/cem/cem2/1559.ts
-#EXTINF:-1,Watch
-http://87.98.254.240:8080/live/cem/cem2/33.ts
-#EXTINF:-1,UK : RTE NEWS
-http://87.98.254.240:8080/live/cem/cem2/108.ts
-#EXTINF:-1,TG4
-http://87.98.254.240:8080/live/cem/cem2/111.ts
-#EXTINF:-1,Sky Two
-http://87.98.254.240:8080/live/cem/cem2/38.ts
-#EXTINF:-1,Comedy Central
-http://87.98.254.240:8080/live/cem/cem2/1613.ts
-#EXTINF:-1,Investigation Discovery +1
-http://87.98.254.240:8080/live/cem/cem2/1615.ts
-#EXTINF:-1,w
-http://87.98.254.240:8080/live/cem/cem2/1616.ts
-#EXTINF:-1,E! +1
-http://87.98.254.240:8080/live/cem/cem2/1621.ts
-#EXTINF:-1,ITV 1 +1
-http://87.98.254.240:8080/live/cem/cem2/1617.ts
-#EXTINF:-1,ITV 2 +1
-http://87.98.254.240:8080/live/cem/cem2/1618.ts
-#EXTINF:-1,ITV 3 +1
-http://87.98.254.240:8080/live/cem/cem2/1619.ts
-#EXTINF:-1,ITV 4 +1
-http://87.98.254.240:8080/live/cem/cem2/1620.ts
-#EXTINF:-1,Sky Atlantic +1
-http://87.98.254.240:8080/live/cem/cem2/1622.ts
-#EXTINF:-1,Food Network + 1
-http://87.98.254.240:8080/live/cem/cem2/1870.ts
-#EXTINF:-1,BBC 1 Scotland
-http://87.98.254.240:8080/live/cem/cem2/2069.ts
-#EXTINF:-1,ITV SD
-http://87.98.254.240:8080/live/cem/cem2/2329.ts
-#EXTINF:-1,BBC 1 SD
-http://87.98.254.240:8080/live/cem/cem2/2330.ts
-#EXTINF:-1,POP
-http://87.98.254.240:8080/live/cem/cem2/2332.ts
-#EXTINF:-1,Tiny Pop
-http://87.98.254.240:8080/live/cem/cem2/2334.ts
-#EXTINF:-1,Kix
-http://87.98.254.240:8080/live/cem/cem2/2333.ts
-#EXTINF:-1,TV-3 HD
-http://87.98.254.240:8080/live/cem/cem2/109.ts
-#EXTINF:-1,NBA Live 9
-http://87.98.254.240:8080/live/cem/cem2/220.ts
-#EXTINF:-1,NBA Live 10
-http://87.98.254.240:8080/live/cem/cem2/221.ts
-#EXTINF:-1,US: WWE HD
-http://87.98.254.240:8080/live/cem/cem2/152.ts
-#EXTINF:-1,USA: UFC Fight pass
-http://87.98.254.240:8080/live/cem/cem2/156.ts
-#EXTINF:-1,US: NBC SPORT
-http://87.98.254.240:8080/live/cem/cem2/154.ts
-#EXTINF:-1,US: NBC Golf HD
-http://87.98.254.240:8080/live/cem/cem2/155.ts
-#EXTINF:-1,NBA Live 8
-http://87.98.254.240:8080/live/cem/cem2/148.ts
-#EXTINF:-1,NBA Live 7
-http://87.98.254.240:8080/live/cem/cem2/147.ts
-#EXTINF:-1,NBA Live 6
-http://87.98.254.240:8080/live/cem/cem2/146.ts
-#EXTINF:-1,NBA Live 5
-http://87.98.254.240:8080/live/cem/cem2/145.ts
-#EXTINF:-1,NBA Live 4
-http://87.98.254.240:8080/live/cem/cem2/144.ts
-#EXTINF:-1,NBA Live 3
-http://87.98.254.240:8080/live/cem/cem2/143.ts
-#EXTINF:-1,NBA Live 2
-http://87.98.254.240:8080/live/cem/cem2/142.ts
-#EXTINF:-1,NBA Live 1
-http://87.98.254.240:8080/live/cem/cem2/141.ts
-#EXTINF:-1,USA: Fox Sports 2 HD
-http://87.98.254.240:8080/live/cem/cem2/126.ts
-#EXTINF:-1,USA | NFL NOW HD
-http://87.98.254.240:8080/live/cem/cem2/121.ts
-#EXTINF:-1,USA | MLB HD
-http://87.98.254.240:8080/live/cem/cem2/140.ts
-#EXTINF:-1,USA | LIVE NHL 9 HD
-http://87.98.254.240:8080/live/cem/cem2/139.ts
-#EXTINF:-1,USA | LIVE NHL 8 HD
-http://87.98.254.240:8080/live/cem/cem2/138.ts
-#EXTINF:-1,USA | LIVE NHL 7 HD
-http://87.98.254.240:8080/live/cem/cem2/137.ts
-#EXTINF:-1,USA | LIVE NHL 6 HD
-http://87.98.254.240:8080/live/cem/cem2/136.ts
-#EXTINF:-1,USA | LIVE NHL 5 HD
-http://87.98.254.240:8080/live/cem/cem2/135.ts
-#EXTINF:-1,USA | LIVE NHL 4 HD
-http://87.98.254.240:8080/live/cem/cem2/134.ts
-#EXTINF:-1,USA | LIVE NHL 3 HD
-http://87.98.254.240:8080/live/cem/cem2/133.ts
-#EXTINF:-1,USA | LIVE NHL 2 HD
-http://87.98.254.240:8080/live/cem/cem2/132.ts
-#EXTINF:-1,USA | LIVE NHL 13 HD
-http://87.98.254.240:8080/live/cem/cem2/131.ts
-#EXTINF:-1,USA | LIVE NHL 12 HD
-http://87.98.254.240:8080/live/cem/cem2/130.ts
-#EXTINF:-1,USA | LIVE NHL Ice EXTRA
-http://87.98.254.240:8080/live/cem/cem2/129.ts
-#EXTINF:-1,USA | LIVE NHL 10 HD
-http://87.98.254.240:8080/live/cem/cem2/128.ts
-#EXTINF:-1,USA | LIVE NHL 1 HD
-http://87.98.254.240:8080/live/cem/cem2/127.ts
-#EXTINF:-1,USA : Fox Sports 2 HD
-http://87.98.254.240:8080/live/cem/cem2/149.ts
-#EXTINF:-1,USA : Fox Sports 1 HD
-http://87.98.254.240:8080/live/cem/cem2/150.ts
-#EXTINF:-1,US: NFL Network HD
-http://87.98.254.240:8080/live/cem/cem2/125.ts
-#EXTINF:-1,US: NBA TV
-http://87.98.254.240:8080/live/cem/cem2/124.ts
-#EXTINF:-1,US: ESPN HD
-http://87.98.254.240:8080/live/cem/cem2/123.ts
-#EXTINF:-1,US: ESPN 2 HD
-http://87.98.254.240:8080/live/cem/cem2/122.ts
-#EXTINF:-1,US: ESPN
-http://87.98.254.240:8080/live/cem/cem2/151.ts
-#EXTINF:-1,CA: SPORTSNET WORLD
-http://87.98.254.240:8080/live/cem/cem2/120.ts
-#EXTINF:-1,CA: SPORTSNET WEST
-http://87.98.254.240:8080/live/cem/cem2/119.ts
-#EXTINF:-1,CA: SPORTSNET PACIFIC
-http://87.98.254.240:8080/live/cem/cem2/118.ts
-#EXTINF:-1,CA: SPORTSNET ONTARIO
-http://87.98.254.240:8080/live/cem/cem2/117.ts
-#EXTINF:-1,CA: SPORTSNET ONE
-http://87.98.254.240:8080/live/cem/cem2/116.ts
-#EXTINF:-1,CA: SPORTSNET EAST
-http://87.98.254.240:8080/live/cem/cem2/115.ts
-#EXTINF:-1,CA: SPORTSNET 360
-http://87.98.254.240:8080/live/cem/cem2/114.ts
-#EXTINF:-1,UFC NEXT
-http://87.98.254.240:8080/live/cem/cem2/1869.ts
-#EXTINF:-1,USA : NBC HD
-http://87.98.254.240:8080/live/cem/cem2/165.ts
-#EXTINF:-1,USA : DIY NETWORK HD**
-http://87.98.254.240:8080/live/cem/cem2/159.ts
-#EXTINF:-1,USA : CNBC HD
-http://87.98.254.240:8080/live/cem/cem2/162.ts
-#EXTINF:-1,USA: CINEMAX 5
-http://87.98.254.240:8080/live/cem/cem2/158.ts
-#EXTINF:-1,USA: COZI TV
-http://87.98.254.240:8080/live/cem/cem2/186.ts
-#EXTINF:-1,USA: antenna
-http://87.98.254.240:8080/live/cem/cem2/184.ts
-#EXTINF:-1,US: USA Network HD
-http://87.98.254.240:8080/live/cem/cem2/163.ts
-#EXTINF:-1,US: TBS HD
-http://87.98.254.240:8080/live/cem/cem2/164.ts
-#EXTINF:-1,US: SPIKE HD
-http://87.98.254.240:8080/live/cem/cem2/157.ts
-#EXTINF:-1,US: Showtime Showcase
-http://87.98.254.240:8080/live/cem/cem2/166.ts
-#EXTINF:-1,US: Showtime Extreme
-http://87.98.254.240:8080/live/cem/cem2/167.ts
-#EXTINF:-1,USA: ShowTime 2 HD
-http://87.98.254.240:8080/live/cem/cem2/168.ts
-#EXTINF:-1,US: ShowTime
-http://87.98.254.240:8080/live/cem/cem2/169.ts
-#EXTINF:-1,USA: OWN HD
-http://87.98.254.240:8080/live/cem/cem2/170.ts
-#EXTINF:-1,USA: NICKELODEN HD
-http://87.98.254.240:8080/live/cem/cem2/171.ts
-#EXTINF:-1,USA: Nat Geo Wild
-http://87.98.254.240:8080/live/cem/cem2/172.ts
-#EXTINF:-1,US: NAT GEO
-http://87.98.254.240:8080/live/cem/cem2/173.ts
-#EXTINF:-1,USA: Investigation Discovery
-http://87.98.254.240:8080/live/cem/cem2/174.ts
-#EXTINF:-1,USA: HISTORY
-http://87.98.254.240:8080/live/cem/cem2/175.ts
-#EXTINF:-1,US: HBO SIGNATURE
-http://87.98.254.240:8080/live/cem/cem2/176.ts
-#EXTINF:-1,US: HBO Family HD
-http://87.98.254.240:8080/live/cem/cem2/177.ts
-#EXTINF:-1,US: HBO
-http://87.98.254.240:8080/live/cem/cem2/178.ts
-#EXTINF:-1,USA: FX HD
-http://87.98.254.240:8080/live/cem/cem2/183.ts
-#EXTINF:-1,USA: FOX HD
-http://87.98.254.240:8080/live/cem/cem2/182.ts
-#EXTINF:-1,USA: Discovery Channel HD
-http://87.98.254.240:8080/live/cem/cem2/160.ts
-#EXTINF:-1,US: Cinemax East
-http://87.98.254.240:8080/live/cem/cem2/161.ts
-#EXTINF:-1,US: BRAVO HD
-http://87.98.254.240:8080/live/cem/cem2/181.ts
-#EXTINF:-1,USA: Bravo
-http://87.98.254.240:8080/live/cem/cem2/180.ts
-#EXTINF:-1,US: AMC HD
-http://87.98.254.240:8080/live/cem/cem2/179.ts
-#EXTINF:-1,FR: BEIN SPORTS 1 HD
-http://87.98.254.240:8080/live/cem/cem2/199.ts
-#EXTINF:-1,FR: BEIN SPORTS 2 HD
-http://87.98.254.240:8080/live/cem/cem2/200.ts
-#EXTINF:-1,FR: BEIN SPORTS 3 HD
-http://87.98.254.240:8080/live/cem/cem2/201.ts
-#EXTINF:-1,FR: BEIN SPORTS MAX 4 HD
-http://87.98.254.240:8080/live/cem/cem2/202.ts
-#EXTINF:-1,FR: BEIN SPORTS MAX 5 HD
-http://87.98.254.240:8080/live/cem/cem2/203.ts
-#EXTINF:-1,AR: BEIN SPORT 1 HD
-http://87.98.254.240:8080/live/cem/cem2/187.ts
-#EXTINF:-1,AR: BEIN SPORT 2 HD
-http://87.98.254.240:8080/live/cem/cem2/188.ts
-#EXTINF:-1,AR: BEIN SPORT 3 HD
-http://87.98.254.240:8080/live/cem/cem2/189.ts
-#EXTINF:-1,AR: BEIN SPORT 4 HD
-http://87.98.254.240:8080/live/cem/cem2/190.ts
-#EXTINF:-1,AR: BEIN SPORT 5 HD
-http://87.98.254.240:8080/live/cem/cem2/191.ts
-#EXTINF:-1,AR: BEIN SPORT 6 HD
-http://87.98.254.240:8080/live/cem/cem2/192.ts
-#EXTINF:-1,AR: BEIN SPORT 7 HD
-http://87.98.254.240:8080/live/cem/cem2/193.ts
-#EXTINF:-1,AR: BEIN SPORT 8 HD
-http://87.98.254.240:8080/live/cem/cem2/194.ts
-#EXTINF:-1,AR: BEIN SPORT 9 HD
-http://87.98.254.240:8080/live/cem/cem2/195.ts
-#EXTINF:-1,AR: BEIN SPORT 10 HD
-http://87.98.254.240:8080/live/cem/cem2/196.ts
-#EXTINF:-1,AR: BEIN SPORT 11 HD
-http://87.98.254.240:8080/live/cem/cem2/197.ts
-#EXTINF:-1,AR: BEIN SPORT 12 HD
-http://87.98.254.240:8080/live/cem/cem2/198.ts
-#EXTINF:-1,ES: REAL MADRID TV
-http://87.98.254.240:8080/live/cem/cem2/205.ts
-#EXTINF:-1,ES: CANAL LIGA TV
-http://87.98.254.240:8080/live/cem/cem2/206.ts
-#EXTINF:-1,ES: BARCA TV
-http://87.98.254.240:8080/live/cem/cem2/204.ts
-#EXTINF:-1,TR: Bein Sports 1 HD
-http://87.98.254.240:8080/live/cem/cem2/2938.ts
-#EXTINF:-1,TR: Bein Sports 2 HD
-http://87.98.254.240:8080/live/cem/cem2/2937.ts
-#EXTINF:-1,TR: Bein Sports 3 HD
-http://87.98.254.240:8080/live/cem/cem2/2936.ts
-#EXTINF:-1,TR: Bein Sports 4 HD
-http://87.98.254.240:8080/live/cem/cem2/2935.ts
-#EXTINF:-1,UK: SKY CINEMA PREMIER HD
-http://87.98.254.240:8080/live/cem/cem2/1525.ts
-#EXTINF:-1,Sky Drama & Romance HD
-http://87.98.254.240:8080/live/cem/cem2/249.ts
-#EXTINF:-1,Sky Cinema Select HD
-http://87.98.254.240:8080/live/cem/cem2/248.ts
-#EXTINF:-1,UK: Sky Family HD
-http://87.98.254.240:8080/live/cem/cem2/255.ts
-#EXTINF:-1,UK: Sky Cinema Sc-Fi & Horror HD
-http://87.98.254.240:8080/live/cem/cem2/256.ts
-#EXTINF:-1,UK: Sky CInema HERO HD (local)
-http://87.98.254.240:8080/live/cem/cem2/260.ts
-#EXTINF:-1,UK: Sky Cinema Hits HD Local
-http://87.98.254.240:8080/live/cem/cem2/259.ts
-#EXTINF:-1,UK: Sky Cinema Disney HD
-http://87.98.254.240:8080/live/cem/cem2/258.ts
-#EXTINF:-1,UK: Sky Cinema Comedy HD
-http://87.98.254.240:8080/live/cem/cem2/253.ts
-#EXTINF:-1,UK: Sky Cinema Action HD
-http://87.98.254.240:8080/live/cem/cem2/254.ts
-#EXTINF:-1,Sony Movies SD
-http://87.98.254.240:8080/live/cem/cem2/217.ts
-#EXTINF:-1,Sky Thriller Movies SD
-http://87.98.254.240:8080/live/cem/cem2/214.ts
-#EXTINF:-1,True Movies 2 SD
-http://87.98.254.240:8080/live/cem/cem2/219.ts
-#EXTINF:-1,True Movies 1 SD
-http://87.98.254.240:8080/live/cem/cem2/218.ts
-#EXTINF:-1,Sky Action Movies SD
-http://87.98.254.240:8080/live/cem/cem2/213.ts
-#EXTINF:-1,Sky Select Movies SD
-http://87.98.254.240:8080/live/cem/cem2/215.ts
-#EXTINF:-1,Sky ScFiHorror Movies SD
-http://87.98.254.240:8080/live/cem/cem2/216.ts
-#EXTINF:-1,Sky Premiere Movies SD
-http://87.98.254.240:8080/live/cem/cem2/207.ts
-#EXTINF:-1,Sky Movies Drama & Romance SD
-http://87.98.254.240:8080/live/cem/cem2/211.ts
-#EXTINF:-1,Sky Movies Disney SD
-http://87.98.254.240:8080/live/cem/cem2/208.ts
-#EXTINF:-1,Sky Hits Movies SD
-http://87.98.254.240:8080/live/cem/cem2/209.ts
-#EXTINF:-1,Sky Family Movies SD
-http://87.98.254.240:8080/live/cem/cem2/210.ts
-#EXTINF:-1,Sky Comedy Movies SD
-http://87.98.254.240:8080/live/cem/cem2/212.ts
-#EXTINF:-1,Sky Cinema Premier + 1
-http://87.98.254.240:8080/live/cem/cem2/1871.ts
-#EXTINF:-1,Film 4
-http://87.98.254.240:8080/live/cem/cem2/2335.ts
-#EXTINF:-1,SKY SPORTS Premier Leauge HD (local)
-http://87.98.254.240:8080/live/cem/cem2/245.ts
-#EXTINF:-1,SKY SPORTS The Open HD (local)
-http://87.98.254.240:8080/live/cem/cem2/244.ts
-#EXTINF:-1,SKY SPORTS Action HD (local)
-http://87.98.254.240:8080/live/cem/cem2/243.ts
-#EXTINF:-1,SKY SPORTS CRICKET HD (local)
-http://87.98.254.240:8080/live/cem/cem2/242.ts
-#EXTINF:-1,SKY SPORTS Main Event HD (local)
-http://87.98.254.240:8080/live/cem/cem2/241.ts
-#EXTINF:-1,NBC E.P.L XTRA 7 (LIVE DURING EPL)
-http://87.98.254.240:8080/live/cem/cem2/234.ts
-#EXTINF:-1,NBC E.P.L XTRA 6 (LIVE DURING EPL)
-http://87.98.254.240:8080/live/cem/cem2/233.ts
-#EXTINF:-1,NBC E.P.L XTRA 5 (LIVE DURING EPL)
-http://87.98.254.240:8080/live/cem/cem2/232.ts
-#EXTINF:-1,NBC E.P.L XTRA 4 (LIVE DURING EPL)
-http://87.98.254.240:8080/live/cem/cem2/231.ts
-#EXTINF:-1,NBC E.P.L XTRA 3 (LIVE DURING EPL)
-http://87.98.254.240:8080/live/cem/cem2/230.ts
-#EXTINF:-1,NBC E.P.L XTRA 2 (LIVE DURING EPL)
-http://87.98.254.240:8080/live/cem/cem2/229.ts
-#EXTINF:-1,NBC E.P.L XTRA 1 (LIVE DURING EPL)
-http://87.98.254.240:8080/live/cem/cem2/228.ts
-#EXTINF:-1,celtic tv LOCAL
-http://87.98.254.240:8080/live/cem/cem2/1623.ts
-#EXTINF:-1,Aberdeen TV
-http://87.98.254.240:8080/live/cem/cem2/1867.ts
-#EXTINF:-1,Discovery HD
-http://87.98.254.240:8080/live/cem/cem2/1597.ts
-#EXTINF:-1,UK: Sky Box Office (LOCAL) SD
-http://87.98.254.240:8080/live/cem/cem2/246.ts
-#EXTINF:-1,UK: Sky Box Office HD
-http://87.98.254.240:8080/live/cem/cem2/265.ts
-#EXTINF:-1,UK: Sky Box Office (On Events)
-http://87.98.254.240:8080/live/cem/cem2/270.ts
-#EXTINF:-1,UK: Box Office / PPV (LIVE ONLY ON EVENTS)
-http://87.98.254.240:8080/live/cem/cem2/267.ts
-#EXTINF:-1,PPV (LIVE ON EVENTS) OSN HD
-http://87.98.254.240:8080/live/cem/cem2/266.ts
-#EXTINF:-1,|UK| PPV BOX OFFICE HD (LOCAL)
-http://87.98.254.240:8080/live/cem/cem2/268.ts
-#EXTINF:-1,UK: Box Office / PPV (LIVE ONLY ON EVENTS) WWE
-http://87.98.254.240:8080/live/cem/cem2/1596.ts
-#EXTINF:-1,ITV PPV
-http://87.98.254.240:8080/live/cem/cem2/1624.ts
-#EXTINF:-1,ITV PPV 2
-http://87.98.254.240:8080/live/cem/cem2/1625.ts
-#EXTINF:-1,ITV PPV 3
-http://87.98.254.240:8080/live/cem/cem2/1626.ts
-#EXTINF:-1,ITV PPV 4
-http://87.98.254.240:8080/live/cem/cem2/1627.ts
-#EXTINF:-1,ITV PPV 5
-http://87.98.254.240:8080/live/cem/cem2/1628.ts
-#EXTINF:-1,Sky Box Office REPEAT (Bellew V hAYE)
-http://87.98.254.240:8080/live/cem/cem2/1802.ts
-#EXTINF:-1,1 - Football Fixtures
-http://87.98.254.240:8080/live/cem/cem2/2068.ts
-#EXTINF:-1,EPL 1 ( MATCH TIME )
-http://87.98.254.240:8080/live/cem/cem2/1583.ts
-#EXTINF:-1,EPL 2 ( MATCH TIME )
-http://87.98.254.240:8080/live/cem/cem2/1582.ts
-#EXTINF:-1,EPL 3 ( MATCH TIME )
-http://87.98.254.240:8080/live/cem/cem2/1581.ts
-#EXTINF:-1,EPL 4 ( MATCH TIME )
-http://87.98.254.240:8080/live/cem/cem2/1580.ts
-#EXTINF:-1,EPL 5 ( MATCH TIME )
-http://87.98.254.240:8080/live/cem/cem2/1579.ts
-#EXTINF:-1,EPL 6 ( MATCH TIME )
-http://87.98.254.240:8080/live/cem/cem2/1578.ts
-#EXTINF:-1,EPL 7 ( MATCH TIME )
-http://87.98.254.240:8080/live/cem/cem2/1577.ts
-#EXTINF:-1,EPL 8 ( MATCH TIME )
-http://87.98.254.240:8080/live/cem/cem2/1576.ts
-#EXTINF:-1,VIP : LE Sports Now HK 1 HD
-http://87.98.254.240:8080/live/cem/cem2/1574.ts
-#EXTINF:-1,VIP : LE Sports Now HK 2 HD
-http://87.98.254.240:8080/live/cem/cem2/1572.ts
-#EXTINF:-1,VIP : LE Sports Now HK 3 HD
-http://87.98.254.240:8080/live/cem/cem2/1571.ts
-#EXTINF:-1,VIP : LE Sports Now HK 4 HD
-http://87.98.254.240:8080/live/cem/cem2/1570.ts
-#EXTINF:-1,VIP : LE Sports Now HK 5 HD
-http://87.98.254.240:8080/live/cem/cem2/1569.ts
-#EXTINF:-1,VIP : LE Sports Now HK 6 HD
-http://87.98.254.240:8080/live/cem/cem2/1568.ts
-#EXTINF:-1,VIP : LE Sports Now HK 7 HD
-http://87.98.254.240:8080/live/cem/cem2/1567.ts
-#EXTINF:-1,VIP : LE Sports Now HK 8 HD
-http://87.98.254.240:8080/live/cem/cem2/1566.ts
-#EXTINF:-1,VIP : LE Sports Now HK 9 HD
-http://87.98.254.240:8080/live/cem/cem2/1565.ts
-#EXTINF:-1,NBC Sports Network!
-http://87.98.254.240:8080/live/cem/cem2/1575.ts
-#EXTINF:-1,3PM: NBC Sports Gold 1
-http://87.98.254.240:8080/live/cem/cem2/3727.ts
-#EXTINF:-1,3PM: NBC Sports Gold 2
-http://87.98.254.240:8080/live/cem/cem2/3726.ts
-#EXTINF:-1,3PM: NBC Sports Gold 3
-http://87.98.254.240:8080/live/cem/cem2/3725.ts
-#EXTINF:-1,3PM: NBC Sports Gold 4
-http://87.98.254.240:8080/live/cem/cem2/3724.ts
-#EXTINF:-1,3PM: NBC Sports Gold 5
-http://87.98.254.240:8080/live/cem/cem2/3723.ts
-#EXTINF:-1,3PM: NBC Sports Gold Goal Rush
-http://87.98.254.240:8080/live/cem/cem2/3722.ts
-#EXTINF:-1,Hearts TV
-http://87.98.254.240:8080/live/cem/cem2/1938.ts
-#EXTINF:-1,Hibs TV
-http://87.98.254.240:8080/live/cem/cem2/1939.ts
-#EXTINF:-1,UK: BET
-http://87.98.254.240:8080/live/cem/cem2/1610.ts
-#EXTINF:-1,UK: Nollywood
-http://87.98.254.240:8080/live/cem/cem2/1609.ts
-#EXTINF:-1,UK: Colours
-http://87.98.254.240:8080/live/cem/cem2/1608.ts
-#EXTINF:-1,UK: Sony Max
-http://87.98.254.240:8080/live/cem/cem2/1606.ts
-#EXTINF:-1,UK: Sony Movies
-http://87.98.254.240:8080/live/cem/cem2/1607.ts
-#EXTINF:-1,UK; Zee Cinema
-http://87.98.254.240:8080/live/cem/cem2/1605.ts
-#EXTINF:-1,UK: B4U Movies
-http://87.98.254.240:8080/live/cem/cem2/1602.ts
-#EXTINF:-1,UK: B4U Music
-http://87.98.254.240:8080/live/cem/cem2/1603.ts
-#EXTINF:-1,UK: ARY Digital
-http://87.98.254.240:8080/live/cem/cem2/1604.ts
-#EXTINF:-1,SONY CHANNEL
-http://87.98.254.240:8080/live/cem/cem2/2380.ts
-#EXTINF:-1,SONY CHANNEL  1
-http://87.98.254.240:8080/live/cem/cem2/2379.ts
-#EXTINF:-1,SONY SAB
-http://87.98.254.240:8080/live/cem/cem2/2368.ts
-#EXTINF:-1,SONY TV UK
-http://87.98.254.240:8080/live/cem/cem2/2369.ts
-#EXTINF:-1,ZING UK
-http://87.98.254.240:8080/live/cem/cem2/2378.ts
-#EXTINF:-1,COLORS
-http://87.98.254.240:8080/live/cem/cem2/2377.ts
-#EXTINF:-1,ZEE CINEMA UK
-http://87.98.254.240:8080/live/cem/cem2/2376.ts
-#EXTINF:-1,ZEE TV UK
-http://87.98.254.240:8080/live/cem/cem2/2370.ts
-#EXTINF:-1,STAR GOLD
-http://87.98.254.240:8080/live/cem/cem2/2375.ts
-#EXTINF:-1,STAR LIFE OK
-http://87.98.254.240:8080/live/cem/cem2/2371.ts
-#EXTINF:-1,STAR PLUS
-http://87.98.254.240:8080/live/cem/cem2/2374.ts
-#EXTINF:-1,STAR UTSAV
-http://87.98.254.240:8080/live/cem/cem2/2373.ts
-#EXTINF:-1,B4U PLUS
-http://87.98.254.240:8080/live/cem/cem2/2372.ts
-#EXTINF:-1,RISHTEY EUROPE
-http://87.98.254.240:8080/live/cem/cem2/2367.ts
-#EXTINF:-1,CHANNELS 24
-http://87.98.254.240:8080/live/cem/cem2/2366.ts
-#EXTINF:-1,ROK TV
-http://87.98.254.240:8080/live/cem/cem2/2365.ts
-#EXTINF:-1,TVC NEWS
-http://87.98.254.240:8080/live/cem/cem2/2364.ts
+#EXTM3U sulukway
+#EXTINF:-1,## WELCOME SULUKWAY WC_2018 (INTRO DULU BRO) ##
+http://163.172.39.167:25461/live/KodiBalkan/r2Q7LMYnNn/5.ts
+
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",14.06.18 22.00 RUSSIA Vs ARAB SAUDI SONYTEN2
+http://cshms3.airtel.tv/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225932/01.m3u8
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",14.06.18 22.00 RUSSIA Vs ARAB SAUDI SONYTEN2HD
+http://cshms4.airtel.tv/PLTV/88888888/224/3221226077/01.m3u8
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",14.06.18 22.00 RUSSIA Vs ARAB SAUDI CANALE 5
+http://hlslive.msf.ticdn.it/hls/CH13/live.m3u8 
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",14.06.18 22.00 RUSSIA Vs ARAB SAUDI CANALE 5
+http://live1-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch01)/Stream(04)/index.m3u8  
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",14.06.18 22.00 RUSSIA Vs ARAB SAUDI ITV
+https://ovh.easyview.eu/hls/itv.m3u8  
+
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",15.06.18 19.00 MESIR Vs URUGUAY SONYTEN2
+http://cshms3.airtel.tv/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225932/01.m3u8
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",15.06.18 19.00 MESIR Vs URUGUAY SONYTEN2HD
+http://cshms4.airtel.tv/PLTV/88888888/224/3221226077/01.m3u8
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",15.06.18 19.00 MESIR Vs URUGUAY ITALIA1
+http://hlslive.msf.ticdn.it/hls/CH14/live.m3u8   
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",15.06.18 19.00 MESIR Vs URUGUAY BBC ONE
+https://ovh.easyview.eu/hls/bbc1.m3u8
+
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",15.06.18 22.00 MAROKO Vs IRAN SONYTEN2
+http://cshms3.airtel.tv/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225932/01.m3u8
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",15.06.18 22.00 MAROKO Vs IRAN SONYTEN2HD
+http://cshms4.airtel.tv/PLTV/88888888/224/3221226077/01.m3u8
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",15.06.18 22.00 MAROKO Vs IRAN ITALIA1
+http://hlslive.msf.ticdn.it/hls/CH14/live.m3u8     
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",15.06.18 22.00 MAROKO Vs IRAN ITV
+https://ovh.easyview.eu/hls/itv.m3u8 
+
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",16.06.18 01.00 PORTUGAL Vs SPANYOL SONYTEN2
+http://cshms3.airtel.tv/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225932/01.m3u8
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",16.06.18 01.00 PORTUGAL Vs SPANYOL SONYTEN2HD
+http://cshms4.airtel.tv/PLTV/88888888/224/3221226077/01.m3u8
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",16.06.18 01.00 PORTUGAL Vs SPANYOL CANALE 5
+http://hlslive.msf.ticdn.it/hls/CH13/live.m3u8
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",16.06.18 01.00 PORTUGAL Vs SPANYOL CANALE 5
+http://live1-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch01)/Stream(04)/index.m3u8
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",16.06.18 01.00 PORTUGAL Vs SPANYOL BBC ONE
+https://ovh.easyview.eu/hls/bbc1.m3u8 
+  
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",16.06.18 17.00 PERANCIS Vs AUSTRALIA SONYTEN2
+http://cshms3.airtel.tv/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225932/01.m3u8
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",16.06.18 17.00 PERANCIS Vs AUSTRALIA SONYTEN2HD
+http://cshms4.airtel.tv/PLTV/88888888/224/3221226077/01.m3u8
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",16.06.18 17.00 PERANCIS Vs AUSTRALIA ITALIA1
+http://hlslive.msf.ticdn.it/hls/CH14/live.m3u8     
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",16.06.18 17.00 PERANCIS Vs AUSTRALIA BBC ONE
+https://ovh.easyview.eu/hls/bbc1.m3u8
+
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",16.06.18 20.00 ARGENTINA Vs ICELAND SONYTEN2
+http://cshms3.airtel.tv/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225932/01.m3u8
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",16.06.18 20.00 ARGENTINA Vs ICELAND SONYTEN2HD
+http://cshms4.airtel.tv/PLTV/88888888/224/3221226077/01.m3u8
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",16.06.18 20.00 ARGENTINA Vs ICELAND ITALIA1
+http://hlslive.msf.ticdn.it/hls/CH14/live.m3u8
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",16.06.18 20.00 ARGENTINA Vs ICELAND ITV
+https://ovh.easyview.eu/hls/itv.m3u8  
+  
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",16.06.18 23.00 PERU Vs DENMARK SONYTEN2
+http://cshms3.airtel.tv/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225932/01.m3u8
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",16.06.18 23.00 PERU Vs DENMARK SONYTEN2HD
+http://cshms4.airtel.tv/PLTV/88888888/224/3221226077/01.m3u8
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",16.06.18 23.00 PERU Vs DENMARK ITALIA1
+http://hlslive.msf.ticdn.it/hls/CH14/live.m3u8     
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",16.06.18 23.00 PERU Vs DENMARK BBC ONE
+https://ovh.easyview.eu/hls/bbc1.m3u8 
+  
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",17.06.18 02.00 KROASIA Vs NIGERIA SONYTEN2
+http://cshms3.airtel.tv/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225932/01.m3u8
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",17.06.18 02.00 KROASIA Vs NIGERIA SONYTEN2HD
+http://cshms4.airtel.tv/PLTV/88888888/224/3221226077/01.m3u8
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",17.06.18 02.00 KROASIA Vs NIGERIA ITALIA1
+http://hlslive.msf.ticdn.it/hls/CH14/live.m3u8
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",17.06.18 02.00 KROASIA Vs NIGERIA ITV
+https://ovh.easyview.eu/hls/itv.m3u8
+  
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",17.06.18 19.00 COSTA RICA Vs SERBIA SONYTEN2
+http://cshms3.airtel.tv/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225932/01.m3u8
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",17.06.18 19.00 COSTA RICA Vs SERBIA SONYTEN2HD
+http://cshms4.airtel.tv/PLTV/88888888/224/3221226077/01.m3u8
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",17.06.18 19.00 COSTA RICA Vs SERBIA ITALIA1
+http://hlslive.msf.ticdn.it/hls/CH14/live.m3u8
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",17.06.18 19.00 COSTA RICA Vs SERBIA ITV
+https://ovh.easyview.eu/hls/itv.m3u8 
+  
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",17.06.18 22.00 JERMAN Vs MEXICO SONYTEN2
+http://cshms3.airtel.tv/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225932/01.m3u8
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",17.06.18 22.00 JERMAN Vs MEXICO SONYTEN2HD
+http://cshms4.airtel.tv/PLTV/88888888/224/3221226077/01.m3u8
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",17.06.18 22.00 JERMAN Vs MEXICO ITALIA1
+http://hlslive.msf.ticdn.it/hls/CH14/live.m3u8   
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",17.06.18 22.00 JERMAN Vs MEXICO BBC ONE
+https://ovh.easyview.eu/hls/bbc1.m3u8
+  
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",18.06.18 01.00 BRASIL Vs SWISS SONYTEN2
+http://cshms3.airtel.tv/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225932/01.m3u8
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",18.06.18 01.00 BRASIL Vs SWISS SONYTEN2HD
+http://cshms4.airtel.tv/PLTV/88888888/224/3221226077/01.m3u8
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",18.06.18 01.00 BRASIL Vs SWISS CANALE 5
+http://hlslive.msf.ticdn.it/hls/CH13/live.m3u8 
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",18.06.18 01.00 BRASIL Vs SWISS CANALE 5
+http://live1-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch01)/Stream(04)/index.m3u8  
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",18.06.18 01.00 BRASIL Vs SWISS ITV
+https://ovh.easyview.eu/hls/itv.m3u8 
+  
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",18.06.18 19.00 SWISS Vs KORSEL SONYTEN2
+http://cshms3.airtel.tv/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225932/01.m3u8
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",18.06.18 19.00 SWISS Vs KORSEL SONYTEN2HD
+http://cshms4.airtel.tv/PLTV/88888888/224/3221226077/01.m3u8
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",18.06.18 19.00 SWISS Vs KORSEL ITALIA1
+http://hlslive.msf.ticdn.it/hls/CH14/live.m3u8
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",18.06.18 19.00 SWISS Vs KORSEL ITV
+https://ovh.easyview.eu/hls/itv.m3u8
+
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",18.06.18 22.00 BELGIA Vs PANAMA SONYTEN2
+http://cshms3.airtel.tv/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225932/01.m3u8
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",18.06.18 22.00 BELGIA Vs PANAMA SONYTEN2HD
+http://cshms4.airtel.tv/PLTV/88888888/224/3221226077/01.m3u8
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",18.06.18 22.00 BELGIA Vs PANAMA ITALIA1
+http://hlslive.msf.ticdn.it/hls/CH14/live.m3u8   
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",18.06.18 22.00 BELGIA Vs PANAMA BBC ONE
+https://ovh.easyview.eu/hls/bbc1.m3u8
+  
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",19.06.18 01.00 TUNISIA Vs INGGRIS SONYTEN2
+http://cshms3.airtel.tv/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225932/01.m3u8
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",19.06.18 01.00 TUNISIA Vs INGGRIS SONYTEN2HD
+http://cshms4.airtel.tv/PLTV/88888888/224/3221226077/01.m3u8
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",19.06.18 01.00 TUNISIA Vs INGGRIS ITALIA1
+http://hlslive.msf.ticdn.it/hls/CH14/live.m3u8   
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",19.06.18 01.00 TUNISIA Vs INGGRIS BBC ONE
+https://ovh.easyview.eu/hls/bbc1.m3u8
+ 
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",19.06.18 19.00 COLOMBIA Vs JEPANG SONYTEN2
+http://cshms3.airtel.tv/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225932/01.m3u8
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",19.06.18 19.00 COLOMBIA Vs JEPANG SONYTEN2HD
+http://cshms4.airtel.tv/PLTV/88888888/224/3221226077/01.m3u8
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",19.06.18 19.00 COLOMBIA Vs JEPANG ITALIA1
+http://hlslive.msf.ticdn.it/hls/CH14/live.m3u8   
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",19.06.18 19.00 COLOMBIA Vs JEPANG BBC ONE
+https://ovh.easyview.eu/hls/bbc1.m3u8
+ 
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",19.06.18 22.00 POLANDIA Vs SENEGAL SONYTEN2
+http://cshms3.airtel.tv/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225932/01.m3u8
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",19.06.18 22.00 POLANDIA Vs SENEGAL SONYTEN2HD
+http://cshms4.airtel.tv/PLTV/88888888/224/3221226077/01.m3u8
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",19.06.18 22.00 POLANDIA Vs SENEGAL ITALIA1
+http://hlslive.msf.ticdn.it/hls/CH14/live.m3u8
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",19.06.18 22.00 POLANDIA Vs SENEGAL ITV
+https://ovh.easyview.eu/hls/itv.m3u8
+
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",20.06.18 01.00 RUSSIA Vs MESIR SONYTEN2
+http://cshms3.airtel.tv/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225932/01.m3u8
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",20.06.18 01.00 RUSSIA Vs MESIR SONYTEN2HD
+http://cshms4.airtel.tv/PLTV/88888888/224/3221226077/01.m3u8
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",20.06.18 01.00 RUSSIA Vs MESIR ITALIA1
+http://hlslive.msf.ticdn.it/hls/CH14/live.m3u8  
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",20.06.18 01.00 RUSSIA Vs MESIR BBC ONE
+https://ovh.easyview.eu/hls/bbc1.m3u8
+
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",20.06.18 19.00 PORTUGAL Vs MAROKO SONYTEN2
+http://cshms3.airtel.tv/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225932/01.m3u8
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",20.06.18 19.00 PORTUGAL Vs MAROKO SONYTEN2HD
+http://cshms4.airtel.tv/PLTV/88888888/224/3221226077/01.m3u8
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",20.06.18 19.00 PORTUGAL Vs MAROKO ITALIA1
+http://hlslive.msf.ticdn.it/hls/CH14/live.m3u8  
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",20.06.18 19.00 PORTUGAL Vs MAROKO BBC ONE
+https://ovh.easyview.eu/hls/bbc1.m3u8
+
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",20.06.18 22.00 URUGUAY Vs ARAB SAUDI SONYTEN2
+http://cshms3.airtel.tv/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225932/01.m3u8
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",20.06.18 22.00 URUGUAY Vs ARAB SAUDI SONYTEN2HD
+http://cshms4.airtel.tv/PLTV/88888888/224/3221226077/01.m3u8
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",20.06.18 22.00 URUGUAY Vs ARAB SAUDI ITALIA1
+http://hlslive.msf.ticdn.it/hls/CH14/live.m3u8  
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",20.06.18 22.00 URUGUAY Vs ARAB SAUDI BBC ONE
+https://ovh.easyview.eu/hls/bbc1.m3u8
+ 
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",21.06.18 01.00 IRAN Vs SPANYOL SONYTEN2
+http://cshms3.airtel.tv/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225932/01.m3u8
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",21.06.18 01.00 IRAN Vs SPANYOL SONYTEN2HD
+http://cshms4.airtel.tv/PLTV/88888888/224/3221226077/01.m3u8
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",21.06.18 01.00 IRAN Vs SPANYOL ITALIA1
+http://hlslive.msf.ticdn.it/hls/CH14/live.m3u8  
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",21.06.18 01.00 IRAN Vs SPANYOL ITV
+https://ovh.easyview.eu/hls/itv.m3u8   
+
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",21.06.18 19.00 DENMARK vs AUSTRALIA SONYTEN2
+http://cshms3.airtel.tv/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225932/01.m3u8
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",21.06.18 19.00 DENMARK vs AUSTRALIA SONYTEN2HD
+http://cshms4.airtel.tv/PLTV/88888888/224/3221226077/01.m3u8
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",21.06.18 19.00 DENMARK vs AUSTRALIA ITV
+https://ovh.easyview.eu/hls/itv.m3u8  
+
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",21.06.18 22.00 PERANCIS vs PERU SONYTEN2
+http://cshms3.airtel.tv/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225932/01.m3u8
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",21.06.18 22.00 PERANCIS vs PERU SONYTEN2HD
+http://cshms4.airtel.tv/PLTV/88888888/224/3221226077/01.m3u8
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",21.06.18 22.00 PERANCIS vs PERU ITV
+https://ovh.easyview.eu/hls/itv.m3u8  
+
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",22.06.18 01.00 ARGENTINA vs KROASIA SONYTEN2
+http://cshms3.airtel.tv/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225932/01.m3u8
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",22.06.18 01.00 ARGENTINA vs KROASIA SONYTEN2HD
+http://cshms4.airtel.tv/PLTV/88888888/224/3221226077/01.m3u8
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",22.06.18 01.00 ARGENTINA vs KROASIA BBC ONE
+https://ovh.easyview.eu/hls/bbc1.m3u8 
+
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",22.06.18 19.00 BRAZIL vs COSTA RICA SONYTEN2
+http://cshms3.airtel.tv/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225932/01.m3u8
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",22.06.18 19.00 BRAZIL vs COSTA RICA SONYTEN2HD
+http://cshms4.airtel.tv/PLTV/88888888/224/3221226077/01.m3u8
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",22.06.18 19.00 BRAZIL vs COSTA RICA ITV
+https://ovh.easyview.eu/hls/itv.m3u8  
+
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",22.06.18 22.00 NIGERIA vs ISLANDIA SONYTEN2
+http://cshms3.airtel.tv/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225932/01.m3u8
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",22.06.18 22.00 NIGERIA vs ISLANDIA SONYTEN2HD
+http://cshms4.airtel.tv/PLTV/88888888/224/3221226077/01.m3u8
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",22.06.18 22.00 NIGERIA vs ISLANDIA BBC ONE
+https://ovh.easyview.eu/hls/bbc1.m3u8 
+ 
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",23.06.18 01.00 SERBIA vs SWISS SONYTEN2
+http://cshms3.airtel.tv/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225932/01.m3u8
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",23.06.18 01.00 SERBIA vs SWISS SONYTEN2HD
+http://cshms4.airtel.tv/PLTV/88888888/224/3221226077/01.m3u8
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",23.06.18 01.00 SERBIA vs SWISS BBC ONE
+https://ovh.easyview.eu/hls/bbc1.m3u8
+ 
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",23.06.18 19.00 BELGIA vs TUNISIA SONYTEN2
+http://cshms3.airtel.tv/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225932/01.m3u8
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",23.06.18 19.00 BELGIA vs TUNISIA SONYTEN2HD
+http://cshms4.airtel.tv/PLTV/88888888/224/3221226077/01.m3u8
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",23.06.18 19.00 BELGIA vs TUNISIA BBC ONE
+https://ovh.easyview.eu/hls/bbc1.m3u8 
+ 
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",23.06.18 22.00 KORSEL vs MEXICO SONYTEN2
+http://cshms3.airtel.tv/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225932/01.m3u8
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",23.06.18 22.00 KORSEL vs MEXICO SONYTEN2HD
+http://cshms4.airtel.tv/PLTV/88888888/224/3221226077/01.m3u8
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",23.06.18 22.00 KORSEL vs MEXICO ITV
+https://ovh.easyview.eu/hls/itv.m3u8  
+
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",24.06.18 01.00 JERMAN vs SWEDIA SONYTEN2
+http://cshms3.airtel.tv/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225932/01.m3u8
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",24.06.18 01.00 JERMAN vs SWEDIA SONYTEN2HD
+http://cshms4.airtel.tv/PLTV/88888888/224/3221226077/01.m3u8
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",24.06.18 01.00 JERMAN vs SWEDIA ITV
+https://ovh.easyview.eu/hls/itv.m3u8  
+
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",24.06.18 19.00 INGGRIS vs PANAMA SONYTEN2
+http://cshms3.airtel.tv/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225932/01.m3u8
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",24.06.18 19.00 INGGRIS vs PANAMA SONYTEN2HD
+http://cshms4.airtel.tv/PLTV/88888888/224/3221226077/01.m3u8
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",24.06.18 19.00 INGGRIS vs PANAMA BBC ONE
+https://ovh.easyview.eu/hls/bbc1.m3u8
+
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",24.06.18 22.00 JEPANG vs SENEGAL SONYTEN2
+http://cshms3.airtel.tv/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225932/01.m3u8
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",24.06.18 22.00 JEPANG vs SENEGAL SONYTEN2HD
+http://cshms4.airtel.tv/PLTV/88888888/224/3221226077/01.m3u8
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",24.06.18 22.00 JEPANG vs SENEGAL BBC ONE
+https://ovh.easyview.eu/hls/bbc1.m3u8
+ 
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",25.06.18 01.00 POLANDIAvs KOLOMBIA SONYTEN2
+http://cshms3.airtel.tv/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225932/01.m3u8
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",25.06.18 01.00 POLANDIAvs KOLOMBIA SONYTEN2HD
+http://cshms4.airtel.tv/PLTV/88888888/224/3221226077/01.m3u8
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",25.06.18 01.00 POLANDIAvs KOLOMBIA ITV
+https://ovh.easyview.eu/hls/itv.m3u8  
+
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",25.06.18 21.00 URUGUAY vs RUSIA SONYTEN2
+http://cshms3.airtel.tv/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225932/01.m3u8
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",25.06.18 21.00 URUGUAY vs RUSIA SONYTEN2HD
+http://cshms4.airtel.tv/PLTV/88888888/224/3221226077/01.m3u8
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",25.06.18 21.00 URUGUAY vs RUSIA ITV
+https://ovh.easyview.eu/hls/itv.m3u8 
+
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",25.06.18 21.00 ARAB SAUDI Vs MESIR SONYTEN2
+http://cshms3.airtel.tv/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225932/01.m3u8
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",25.06.18 21.00 ARAB SAUDI Vs MESIR SONYTEN2HD
+http://cshms4.airtel.tv/PLTV/88888888/224/3221226077/01.m3u8
+
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",26.06.18 01.00 IRAN Vs PORTUGAL SONYTEN2
+http://cshms3.airtel.tv/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225932/01.m3u8
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",26.06.18 01.00 IRAN Vs PORTUGAL SONYTEN2HD
+http://cshms4.airtel.tv/PLTV/88888888/224/3221226077/01.m3u8
+
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",26.06.18 01.00 SPANYOL Vs MAROKO SONYTEN2
+http://cshms3.airtel.tv/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225932/01.m3u8
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",26.06.18 01.00 SPANYOL Vs MAROKO SONYTEN2HD
+http://cshms4.airtel.tv/PLTV/88888888/224/3221226077/01.m3u8
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",26.06.18 01.00 SPANYOL Vs MAROKO ITALIA1
+http://hlslive.msf.ticdn.it/hls/CH14/live.m3u8
+
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",26.06.18 21.00 DENMARK vs PERANCIS SONYTEN2
+http://cshms3.airtel.tv/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225932/01.m3u8
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",26.06.18 21.00 DENMARK vs PERANCIS SONYTEN2HD
+http://cshms4.airtel.tv/PLTV/88888888/224/3221226077/01.m3u8
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",26.06.18 21.00 DENMARK vs PERANCIS ITV
+https://ovh.easyview.eu/hls/itv.m3u8  
+
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",26.06.18 21.00 AUSTRALIA Vs PERU SONYTEN2
+http://cshms3.airtel.tv/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225932/01.m3u8
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",26.06.18 21.00 AUSTRALIA Vs PERU SONYTEN2HD
+http://cshms4.airtel.tv/PLTV/88888888/224/3221226077/01.m3u8
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",26.06.18 21.00 AUSTRALIA Vs PERU ITV4
+https://ovh.easyview.eu/hls/itv4.m3u8 
+  
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",27.06.18 01.00 NIGERIA Vs ARGENTINA SONYTEN2
+http://cshms3.airtel.tv/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225932/01.m3u8
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",27.06.18 01.00 NIGERIA Vs ARGENTINA SONYTEN2HD
+http://cshms4.airtel.tv/PLTV/88888888/224/3221226077/01.m3u8
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",27.06.18 01.00 NIGERIA Vs ARGENTINA ITALIA1
+http://hlslive.msf.ticdn.it/hls/CH14/live.m3u8
+
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",27.06.18 01.00 ISLANDIA Vs KROASIA SONYTEN2
+http://cshms3.airtel.tv/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225932/01.m3u8
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",27.06.18 01.00 ISLANDIA Vs KROASIA SONYTEN2HD
+http://cshms4.airtel.tv/PLTV/88888888/224/3221226077/01.m3u8
+
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",27.06.18 21.00 KORSEL Vs JERMAN SONYTEN2
+http://cshms3.airtel.tv/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225932/01.m3u8
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",27.06.18 21.00 KORSEL Vs JERMAN SONYTEN2HD
+http://cshms4.airtel.tv/PLTV/88888888/224/3221226077/01.m3u8
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",27.06.18 21.00 KORSEL Vs JERMAN ITALIA1
+http://hlslive.msf.ticdn.it/hls/CH14/live.m3u8
+
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",27.06.18 21.00 MEXICO Vs SWEDIA SONYTEN2
+http://cshms3.airtel.tv/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225932/01.m3u8
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",27.06.18 21.00 MEXICO Vs SWEDIA SONYTEN2HD
+http://cshms4.airtel.tv/PLTV/88888888/224/3221226077/01.m3u8
+
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",28.06.18 01.00 SERBIA Vs BRASIL SONYTEN2
+http://cshms3.airtel.tv/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225932/01.m3u8
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",28.06.18 01.00 SERBIA Vs BRASIL SONYTEN2HD
+http://cshms4.airtel.tv/PLTV/88888888/224/3221226077/01.m3u8
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",28.06.18 01.00 SERBIA Vs BRASIL ITALIA1
+http://hlslive.msf.ticdn.it/hls/CH14/live.m3u8
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",28.06.18 01.00 SERBIA Vs BRASIL ITV
+https://ovh.easyview.eu/hls/itv.m3u8 
+
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",28.06.18 01.00 SWISS Vs COSTA RICA SONYTEN2
+http://cshms3.airtel.tv/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225932/01.m3u8
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",28.06.18 01.00 SWISS Vs COSTA RICA SONYTEN2HD
+http://cshms4.airtel.tv/PLTV/88888888/224/3221226077/01.m3u8
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",28.06.18 01.00 SWISS Vs COSTA RICA ITV4
+https://ovh.easyview.eu/hls/itv4.m3u8
+
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",28.06.18 21.00 JEPANG Vs POLANDIASONYTEN2
+http://cshms3.airtel.tv/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225932/01.m3u8
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",28.06.18 21.00 JEPANG Vs POLANDIASONYTEN2HD
+http://cshms4.airtel.tv/PLTV/88888888/224/3221226077/01.m3u8
+
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",28.06.18 21.00 SENEGAL Vs COLOMBIA SONYTEN2
+http://cshms3.airtel.tv/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225932/01.m3u8
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",28.06.18 21.00 SENEGAL Vs COLOMBIA SONYTEN2HD
+http://cshms4.airtel.tv/PLTV/88888888/224/3221226077/01.m3u8
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",28.06.18 21.00 SENEGAL Vs COLOMBIA ITALIA1
+http://hlslive.msf.ticdn.it/hls/CH14/live.m3u8
+
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",29.06.18 01.00 INGGRIS Vs BELGIA SONYTEN2
+http://cshms3.airtel.tv/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225932/01.m3u8
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",29.06.18 01.00 INGGRIS Vs BELGIA SONYTEN2HD
+http://cshms4.airtel.tv/PLTV/88888888/224/3221226077/01.m3u8
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",29.06.18 01.00 INGGRIS Vs BELGIA ITALIA1
+http://hlslive.msf.ticdn.it/hls/CH14/live.m3u8
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",29.06.18 01.00 INGGRIS Vs BELGIA ITV
+https://ovh.easyview.eu/hls/itv.m3u8
+  
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",29.06.18 01.00 PANAMA Vs TUNISIA SONYTEN2
+http://cshms3.airtel.tv/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225932/01.m3u8
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",29.06.18 01.00 PANAMA Vs TUNISIA SONYTEN2HD
+http://cshms4.airtel.tv/PLTV/88888888/224/3221226077/01.m3u8
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",29.06.18 01.00 PANAMA Vs TUNISIA ITV4
+https://ovh.easyview.eu/hls/itv4.m3u8
+
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",30.06.18 21.00 GRUP C Vs GRUP D(Babak  1/8) SONYTEN2
+http://cshms3.airtel.tv/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225932/01.m3u8
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",30.06.18 21.00 GRUP C Vs GRUP D(Babak  1/8) SONYTEN2HD
+http://cshms4.airtel.tv/PLTV/88888888/224/3221226077/01.m3u8
+
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",01.07.18 01.00 GRUP A Vs GRUP B(Babak  1/8) SONYTEN2
+http://cshms3.airtel.tv/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225932/01.m3u8
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",01.07.18 01.00 GRUP A Vs GRUP B(Babak  1/8) SONYTEN2HD
+http://cshms4.airtel.tv/PLTV/88888888/224/3221226077/01.m3u8
+
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",01.07.18 21.00 GRUP B Vs GRUP A(Babak  1/8) SONYTEN2
+http://cshms3.airtel.tv/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225932/01.m3u8
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",01.07.18 21.00 GRUP B Vs GRUP A(Babak  1/8) SONYTEN2HD
+http://cshms4.airtel.tv/PLTV/88888888/224/3221226077/01.m3u8
+
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",02.07.18 01.00 GRUP D Vs GRUP C(Babak  1/8) SONYTEN2
+http://cshms3.airtel.tv/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225932/01.m3u8
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",02.07.18 01.00 GRUP D Vs GRUP C(Babak  1/8) SONYTEN2HD
+http://cshms4.airtel.tv/PLTV/88888888/224/3221226077/01.m3u8
+
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",02.07.18 21.00 GRUP E Vs GRUP F(Babak  1/8) SONYTEN2
+http://cshms3.airtel.tv/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225932/01.m3u8
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",02.07.18 21.00 GRUP E Vs GRUP F(Babak  1/8) SONYTEN2HD
+http://cshms4.airtel.tv/PLTV/88888888/224/3221226077/01.m3u8
+
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",03.07.18 01.00 GRUP G Vs GRUP H(Babak  1/8) SONYTEN2
+http://cshms3.airtel.tv/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225932/01.m3u8
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",03.07.18 01.00 GRUP G Vs GRUP H(Babak  1/8) SONYTEN2HD
+http://cshms4.airtel.tv/PLTV/88888888/224/3221226077/01.m3u8
+
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",03.07.18 21.00 GRUP F Vs GRUP E(Babak  1/8) SONYTEN2
+http://cshms3.airtel.tv/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225932/01.m3u8
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",03.07.18 21.00 GRUP F Vs GRUP E(Babak  1/8) SONYTEN2HD
+http://cshms4.airtel.tv/PLTV/88888888/224/3221226077/01.m3u8
+
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",04.07.18 01.00 GRUP H Vs GRUP G(Babak  1/8) SONYTEN2
+http://cshms3.airtel.tv/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225932/01.m3u8
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",04.07.18 01.00 GRUP H Vs GRUP G(Babak  1/8) SONYTEN2HD
+http://cshms4.airtel.tv/PLTV/88888888/224/3221226077/01.m3u8
+
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",06.07.18 21.00 QF1 Vs QF2(Per4 final) SONYTEN2
+http://cshms3.airtel.tv/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225932/01.m3u8
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",06.07.18 21.00 QF1 Vs QF2(Per4 final) SONYTEN2HD
+http://cshms4.airtel.tv/PLTV/88888888/224/3221226077/01.m3u8
+
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",07.07.18 01.00 QF5 Vs QF6(Per4 final) SONYTEN2
+http://cshms3.airtel.tv/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225932/01.m3u8
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",07.07.18 01.00 QF5 Vs QF6(Per4 final) SONYTEN2HD
+http://cshms4.airtel.tv/PLTV/88888888/224/3221226077/01.m3u8
+
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",07.07.18 19.00 QF7 Vs QF8(Per4 final) SONYTEN2
+http://cshms3.airtel.tv/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225932/01.m3u8
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",07.07.18 19.00 QF7 Vs QF8(Per4 final) SONYTEN2HD
+http://cshms4.airtel.tv/PLTV/88888888/224/3221226077/01.m3u8
+
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",08.07.18 01.00 QF3 Vs QF4(Per4 final) SONYTEN2
+http://cshms3.airtel.tv/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225932/01.m3u8
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",08.07.18 01.00 QF3 Vs QF4(Per4 final) SONYTEN2HD
+http://cshms4.airtel.tv/PLTV/88888888/224/3221226077/01.m3u8
+
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",11.07.18 01.00 SF1 Vs SF2(Semi-final) SONYTEN2
+http://cshms3.airtel.tv/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225932/01.m3u8
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",11.07.18 01.00 SF1 Vs SF2(Semi-final) SONYTEN2HD
+http://cshms4.airtel.tv/PLTV/88888888/224/3221226077/01.m3u8
+
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",12.07.18 01.00 SF3 Vs SF4(Semi-final) SONYTEN2
+http://cshms3.airtel.tv/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225932/01.m3u8
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",12.07.18 01.00 SF3 Vs SF4(Semi-final) SONYTEN2HD
+http://cshms4.airtel.tv/PLTV/88888888/224/3221226077/01.m3u8
+
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",14.07.18 21.00(Final Juara 3) SONYTEN2
+http://cshms3.airtel.tv/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225932/01.m3u8
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",14.07.18 21.00(Final Juara 3) SONYTEN2HD
+http://cshms4.airtel.tv/PLTV/88888888/224/3221226077/01.m3u8
+
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",15.07.18 22.00(Final) SONYTEN2
+http://cshms3.airtel.tv/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225932/01.m3u8
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",15.07.18 22.00(Final) SONYTEN2HD
+http://cshms4.airtel.tv/PLTV/88888888/224/3221226077/01.m3u8
+#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",15.07.18 22.00(Final) BBC ONE
+https://ovh.easyview.eu/hls/bbc1.m3u8
+
+#EXTINF:-1 group-title="Sports", SONY TEN1 
+http://cshms3.airtel.tv/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225931/01.m3u8
+#EXTINF:-1 group-title="Sports", SONY TEN1 HD
+http://cshms3.airtel.tv/wh7f454c46tw2224230268_1388919955/PLTV/88888888/224/3221225875/01.m3u8
+#EXTINF:-1 group-title="Sports", SONY TEN2 
+http://cshms3.airtel.tv/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225932/01.m3u8
+#EXTINF:-1 group-title="Sports", SONY TEN2 HD
+http://cshms4.airtel.tv/PLTV/88888888/224/3221226077/01.m3u8
+#EXTINF:-1 group-title="Sports", SONY TEN3 
+http://cshms3.airtel.tv/wh7f454c46tw2717373403_526904823/PLTV/88888888/224/3221225933/01.m3u8
+#EXTINF:-1 group-title="Sports", SONY TEN3 HD
+http://cshms4.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226330/04.m3u8
+#EXTINF:-1 group-title="Sports", SONY SIX 
+http://cshms3.airtel.tv/wh7f454c46tw2717373403_526904823/PLTV/88888888/224/3221225827/01.m3u8
+#EXTINF:-1 group-title="Sports", SONY SIX HD
+http://cshms4.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221225780/01.m3u8
+#EXTINF:-1 group-title="Sports", SONY ESPN
+http://cshms3.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221225805/01.m3u8
+#EXTINF:-1 group-title="Sports", SONY ESPN HD
+http://cshms3.airtel.tv/wh7f454c46tw1200204061_952100745/PLTV/88888888/224/3221226076/01.m3u8
+#EXTINF:-1 group-title="Sports", NeoPrime
+http://cshms4.airtel.tv/PLTV/88888888/224/3221225789/01.m3u8
+#EXTINF:-1 group-title="Sports", NeoSports
+http://cshms4.airtel.tv/PLTV/88888888/224/3221225791/01.m3u8
+#EXTINF:-1 group-title="Sports", DD Sports
+http://mhms9.airtel.tv/wh7f454c46tw872912663_877861895/PLTV/88888888/224/3221226346/01.m3u8
+#EXTINF:-1 group-title="Sports", DSports HD
+http://cshms4.airtel.tv/wh7f454c46tw2959729406_596421737/PLTV/88888888/224/3221226484/04.m3u8
+#EXTINF:-1 group-title="Sports", DSports L1
+http://mhms8.airtel.tv/wh7f454c46tw2201796875_990797628/PLTV/88888888/224/3221226392/06.m3u8
+#EXTINF:-1 group-title="Sports", DSports L2
+http://cshms4.airtel.tv/PLTV/88888888/224/3221226392/06.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/lnd1p01502554851.png" tvg-id=" group-title="Sports",SKY SPORTS FOOTBALL HD
+http://sportsbar.pw/lba/ODg5ZjMyOGE0ZGJiNzZjN2YzNDA3Nzk5ZWE1NjE4NmY=/g10/SkyFootball.m3u8
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/kf0oba1502554875.png" tvg-id=" group-title="Sports",SKY SPORTS ACTION
+http://sportsbar.pw/lba/ODg5ZjMyOGE0ZGJiNzZjN2YzNDA3Nzk5ZWE1NjE4NmY=/g5/SkyAction.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BT1.png" tvg-id=" group-title="Sports",BT SPORT 1
+http://sportsbar.pw/lba/ODg5ZjMyOGE0ZGJiNzZjN2YzNDA3Nzk5ZWE1NjE4NmY=/g2/BTSport1.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BT2.png" tvg-id=" group-title="Sports",BT SPORT 2
+http://sportsbar.pw/lba/ODg5ZjMyOGE0ZGJiNzZjN2YzNDA3Nzk5ZWE1NjE4NmY=/g3/BTSport2.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BTESPN.png" tvg-id=" group-title="Sports",BT SPORT ESPN HD
+http://sportsbar.pw/lba/ODg5ZjMyOGE0ZGJiNzZjN2YzNDA3Nzk5ZWE1NjE4NmY=/g6/btsportespn.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV1HD.png" tvg-id="sporttv1.pt" group-title="Sports",SPORT TV 1 HD
+http://sportsbar.pw/lba/ODg5ZjMyOGE0ZGJiNzZjN2YzNDA3Nzk5ZWE1NjE4NmY=/g1/SportTV1.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV3HD.png" tvg-id="sporttv3.pt" group-title="Sports",SPORT TV 3 HD
+http://sportsbar.pw/lba/ODg5ZjMyOGE0ZGJiNzZjN2YzNDA3Nzk5ZWE1NjE4NmY=/g3/SportTV3.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV5HD.png" tvg-id="sporttv5.pt" group-title="Sports",SPORT TV 5 HD
+http://sportsbar.pw/lba/ODg5ZjMyOGE0ZGJiNzZjN2YzNDA3Nzk5ZWE1NjE4NmY=/g9/SportTV5.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ZJ8xW1t.png" tvg-id=" group-title="Sports",TSN1
+http://sportsbar.pw/lba/ODg5ZjMyOGE0ZGJiNzZjN2YzNDA3Nzk5ZWE1NjE4NmY=/g2/TSN1.m3u8
+
+#EXTINF:-1 group-title="Sports",Наш Футбол 
+http://playlist.onlybest.tv/ru/channel/ccd1cc9adb89911e86a241fe67161617/13/index.m3u8
+#EXTINF:-1 group-title="Sports",Наш Футбол HD 
+http://playlist.onlybest.tv/ru/channel/ccd1cc9adb89911e86a241fe67161617/25/index.m3u8
+#EXTINF:-1 group-title="Sports",КХЛ ТВ 
+http://playlist.onlybest.tv/ru/channel/ccd1cc9adb89911e86a241fe67161617/17/index.m3u8
+#EXTINF:-1 group-title="Sports",КХЛ HD 
+http://playlist.onlybest.tv/ru/channel/ccd1cc9adb89911e86a241fe67161617/291/index.m3u8
+#EXTINF:-1 group-title="Sports",Конный Мир HD 
+http://playlist.onlybest.tv/ru/channel/ccd1cc9adb89911e86a241fe67161617/112/index.m3u8
+#EXTINF:-1 group-title="Sports",Eurosport 1 
+http://playlist.onlybest.tv/ru/channel/ccd1cc9adb89911e86a241fe67161617/174/index.m3u8
+#EXTINF:-1 group-title="Sports",Eurosport 1 HD 
+http://playlist.onlybest.tv/ru/channel/ccd1cc9adb89911e86a241fe67161617/159/index.m3u8
+#EXTINF:-1 group-title="Sports",Eurosport 2 HD 
+http://playlist.onlybest.tv/ru/channel/ccd1cc9adb89911e86a241fe67161617/77/index.m3u8
+#EXTINF:-1 group-title="Sports",Viasat Sport East 
+http://playlist.onlybest.tv/ru/channel/ccd1cc9adb89911e86a241fe67161617/44/index.m3u8
+#EXTINF:-1 group-title="Sports",Viasat Sport East HD 
+http://playlist.onlybest.tv/ru/channel/ccd1cc9adb89911e86a241fe67161617/75/index.m3u8
+#EXTINF:-1 group-title="Sports",Viasat Sport 
+http://persik.by/stream/3903/293564/10249.m3u8 
+#EXTINF:-1 group-title="Sports",Extreme Sports 
+http://persik.by/stream/3903/293564/10309.m3u8 
+#EXTINF:-1 group-title="BEin Sports",beINSport 1 HD
+http://163.172.105.25/live?channelId=178&uid=171&deviceUser=seanmccarr&devicePass=120817
+#EXTINF:-1 group-title="BEin Sports",beINSport 2 HD
+http://163.172.105.25/live?channelId=179&uid=171&deviceUser=seanmccarr&devicePass=120817
+#EXTINF:-1 group-title="BEin Sports",beINSport 3 HD
+http://163.172.105.25/live?channelId=180&uid=171&deviceUser=seanmccarr&devicePass=120817
+#EXTINF:-1 group-title="BEin Sports",beINSport 4 HD
+http://163.172.105.25/live?channelId=181&uid=171&deviceUser=seanmccarr&devicePass=120817
+#EXTINF:-1 group-title="BEin Sports",beINSport 5 HD
+http://163.172.105.25/live?channelId=182&uid=171&deviceUser=seanmccarr&devicePass=120817
+#EXTINF:-1 group-title="BEin Sports",beINSport 6 HD
+http://163.172.105.25/live?channelId=183&uid=171&deviceUser=seanmccarr&devicePass=120817
+#EXTINF:-1 group-title="BEin Sports",beINSport 7 HD
+http://163.172.105.25/live?channelId=184&uid=171&deviceUser=seanmccarr&devicePass=120817
+#EXTINF:-1 group-title="BEin Sports",beINSport 8 HD
+http://163.172.105.25/live?channelId=185&uid=171&deviceUser=seanmccarr&devicePass=120817
+#EXTINF:-1 group-title="BEin Sports",beINSport 9 HD
+http://163.172.105.25/live?channelId=186&uid=171&deviceUser=seanmccarr&devicePass=120817
+#EXTINF:-1 group-title="BEin Sports",beINSport 10 HD
+http://163.172.105.25/live?channelId=187&uid=171&deviceUser=seanmccarr&devicePass=120817
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BEINSPORTSLALIGA.png" group-title="BEin Sports",BEIN SPORTS LALIGA
+http://playlist.onlybest.tv/ru/channel/93308c1d4668223e600a223a8004a665/574/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BEINSPORTSLALIGA.png" group-title="BEin Sports",BEIN SPORTS LALIGA HD
+http://playlist.onlybest.tv/ru/channel/93308c1d4668223e600a223a8004a665/574/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BEINSPORTS1MAX.png" group-title="BEin Sports",BEIN SPORTS MAX 1 HD
+http://playlist.onlybest.tv/ru/channel/93308c1d4668223e600a223a8004a665/574/index.m3u8
+
+#EXTINF:-1 group-title="TV by DoBaoChinh" tvg-logo="https://i.imgur.com/sBIwAmn.jpg",VTV1 HD
+http://baochinh.ml/iptv-nexttv.php?kenh=vtv1
+#EXTINF:-1 group-title="TV by DoBaoChinh" tvg-logo="https://i.imgur.com/29FDRXW.jpg",VTV2 HD
+http://baochinh.ml/iptv-nexttv.php?kenh=vtv2
+#EXTINF:-1 group-title="TV by DoBaoChinh" tvg-logo="https://i.imgur.com/8P3vbP2.jpg",VTV3 HD
+http://baochinh.ml/iptv-nexttv.php?kenh=vtv3
+#EXTINF:-1 group-title="TV by DoBaoChinh" tvg-logo="https://i.imgur.com/dWy3awY.jpg",VTV4 HD
+http://baochinh.ml/iptv-nexttv.php?kenh=vtv4
+#EXTINF:-1 group-title="TV by DoBaoChinh" tvg-logo="https://i.imgur.com/fWkhuBF.jpg",VTV5 HD
+http://baochinh.ml/iptv-nexttv.php?kenh=vtv5
+#EXTINF:-1 group-title="TV by DoBaoChinh" tvg-logo="https://i.imgur.com/xvqCQT6.jpg",VTV6 HD
+http://baochinh.ml/iptv-nexttv.php?kenh=vtv6
+#EXTINF:-1 group-title="TV by DoBaoChinh" tvg-logo="https://i.imgur.com/7hC1wSG.jpg",VTV7 HD
+http://baochinh.ml/iptv-nexttv.php?kenh=vtv7
+#EXTINF:-1 group-title="TV by DoBaoChinh" tvg-logo="https://i.imgur.com/hG4PSqS.jpg",VTV8 HD
+http://baochinh.ml/iptv-nexttv.php?kenh=vtv8
+#EXTINF:-1 group-title="TV by DoBaoChinh" tvg-logo="https://i.imgur.com/b5Ukwdm.jpg",VTV9 HD
+http://baochinh.ml/iptv-nexttv.php?kenh=vtv9
+#EXTINF:-1 group-title="TV by DoBaoChinh" tvg-logo="http://img.htvonline.com.vn/livetv/14102016/htv1_51761476437549.png",HTV1
+http://baochinh.ml/iptv-hplus.php?kenh=htv1
+#EXTINF:-1 group-title="TV by DoBaoChinh" tvg-logo="http://img.hplus.com.vn/355x200/poster/2016/10/10/996898-htv2hd.png",HTV2 HD
+http://baochinh.ml/iptv-hplus.php?kenh=htv2hd
+#EXTINF:-1 group-title="TV by DoBaoChinh" tvg-logo="http://img.htvonline.com.vn/livetv/14102016/htv3_42031476437556.png",HTV3
+http://baochinh.ml/iptv-hplus.php?kenh=htv3
+#EXTINF:-1 group-title="TV by DoBaoChinh" tvg-logo="http://img.htvonline.com.vn/livetv/14102016/htv4_39331476437563.png",HTV4
+http://baochinh.ml/iptv-hplus.php?kenh=htv4
+#EXTINF:-1 group-title="TV by DoBaoChinh" tvg-logo="http://img.htvonline.com.vn/livetv/16082017/htv7-hd-new_20261502855715.png",HTV7 HD
+http://baochinh.ml/iptv-hplus.php?kenh=htv7hd
+#EXTINF:-1 group-title="TV by DoBaoChinh" tvg-logo="http://img.htvonline.com.vn/livetv/14102016/htv9-hd_54971476437480.png",HTV9 HD
+http://baochinh.ml/iptv-hplus.php?kenh=htv9hd
+#EXTINF:-1 group-title="TV by DoBaoChinh" tvg-logo="http://img.htvonline.com.vn/livetv/20042017/phim_48561492680416.png",HTVC Phim HD
+http://baochinh.ml/iptv-hplus.php?kenh=htvc-phimhd
+#EXTINF:-1 group-title="TV by DoBaoChinh" tvg-logo="http://img.hplus.com.vn/355x200/poster/2017/04/20/593179-Canhac_FullHD.png",HTVC Ca Nhạc
+http://baochinh.ml/iptv-hplus.php?kenh=htvc-canhachd
+#EXTINF:-1 group-title="TV by DoBaoChinh" tvg-logo="http://img.hplus.com.vn/355x200/poster/2016/09/28/371877-htvc_gia_dinh.png",HTVC Gia Đình
+http://baochinh.ml/iptv-hplus.php?kenh=htvc-giadinhhd
+#EXTINF:-1 group-title="TV by DoBaoChinh" tvg-logo="http://img.hplus.com.vn/355x200/poster/2016/10/10/402957-htvtthd.png",HTVC Thể Thao HD
+http://baochinh.ml/iptv-hplus.php?kenh=htvc-thethaohd
+#EXTINF:-1 group-title="TV by DoBaoChinh" tvg-logo="http://img.hplus.com.vn/355x200/poster/2016/10/20/162111-phu_nu_hd.png",HTVC Phụ Nữ
+http://baochinh.ml/iptv-hplus.php?kenh=htvc-phunuhd
+#EXTINF:-1 group-title="TV by DoBaoChinh" tvg-logo="http://img.hplus.com.vn/355x200/poster/2016/07/01/423779-THUANVIETHD-NEW_1.png",HTVC Thuần Việt HD
+http://baochinh.ml/iptv-hplus.php?kenh=htvc-thuanviethd
+#EXTINF:-1 group-title="TV by DoBaoChinh" tvg-logo="http://img.hplus.com.vn/355x200/poster/2016/09/28/813147-htvc_dulich.cuocsong_.png",HTVC Du Lịch
+http://baochinh.ml/iptv-hplus.php?kenh=htvc-dulichhd
+#EXTINF:-1 group-title="TV by DoBaoChinh" tvg-logo="http://img.htvonline.com.vn/livetv/24072017/htvc_plus_33191500861714.png",HTVC Plus
+http://baochinh.ml/iptv-hplus.php?kenh=htvc-plushd
+#EXTINF:-1 group-title="TV by DoBaoChinh" tvg-logo="http://img.hplus.com.vn/355x200/banner/2015/02/26/661481-FBNC.png",HTVC FBNC
+http://baochinh.ml/iptv-hplus.php?kenh=htvc-fbnchd
+#EXTINF:-1 group-title="TV by DoBaoChinh" tvg-logo="http://img.htvonline.com.vn/livetv/20042017/shopping_38991492680357.png",HTVC Shopping
+http://baochinh.ml/iptv-hplus.php?kenh=htvc-muasam
+
+#EXTINF:-1 group-title="TV by DoBaoChinh" tvg-logo="https://i.imgur.com/aouhz9S.png",VTC1 HD
+http://baochinh.ml/iptv-nexttv.php?kenh=vtc1
+#EXTINF:-1 group-title="TV by DoBaoChinh" tvg-logo="https://i.imgur.com/T3geo1o.jpg",VTC2
+http://baochinh.ml/iptv-nexttv.php?kenh=vtc2
+#EXTINF:-1 group-title="TV by DoBaoChinh" tvg-logo="https://i.imgur.com/olGqfAv.jpg",VTC3 HD
+http://baochinh.ml/iptv-nexttv.php?kenh=vtc3
+#EXTINF:-1 group-title="TV by DoBaoChinh" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_yeah1-family-vtc4_146312575079.png",VTC4 - Yeah1 Family
+http://baochinh.ml/iptv-nexttv.php?kenh=vtc4
+#EXTINF:-1 group-title="TV by DoBaoChinh" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtc5_150226870197.jpg",VTC5 - TV Blue
+http://baochinh.ml/iptv-nexttv.php?kenh=vtc5
+#EXTINF:-1 group-title="TV by DoBaoChinh" tvg-logo="https://i.imgur.com/i2lTGf9.jpg",VTC6
+http://baochinh.ml/iptv-nexttv.php?kenh=vtc6
+#EXTINF:-1 group-title="TV by DoBaoChinh" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtc7-todaytv_145673310065.jpg",VTC7 - Today TV
+http://baochinh.ml/iptv-nexttv.php?kenh=vtc7
+#EXTINF:-1 group-title="TV by DoBaoChinh" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtc8_145792090102.jpg",VTC8 - View TV
+http://baochinh.ml/iptv-nexttv.php?kenh=vtc8
+#EXTINF:-1 group-title="TV by DoBaoChinh" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_lets-viet_145673303543.jpg",VTC9
+http://baochinh.ml/iptv-nexttv.php?kenh=vtc9
+#EXTINF:-1 group-title="TV by DoBaoChinh" tvg-logo="https://i.imgur.com/k6fjc5d.png",VTC10
+http://baochinh.ml/iptv-nexttv.php?kenh=vtc10
+#EXTINF:-1 group-title="TV by DoBaoChinh" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtc11-thieu-nhi_146293779839.png",VTC11 - Kids TV
+http://baochinh.ml/iptv-nexttv.php?kenh=vtc11
+#EXTINF:-1 group-title="TV by DoBaoChinh" tvg-logo="https://i.imgur.com/Y3sCiZ0.jpg",VTC12
+http://baochinh.ml/iptv-nexttv.php?kenh=vtc12
+#EXTINF:-1 group-title="TV by DoBaoChinh" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_itv_145578605209.png",iTV HD
+http://baochinh.ml/iptv-nexttv.php?kenh=itv
+#EXTINF:-1 group-title="TV by DoBaoChinh" tvg-logo="http://image2.cdn.i-com.vn/thumb/600x400/crop//Uploads/images/kenh/vtc14.jpg",VTC14
+http://baochinh.ml/iptv-nexttv.php?kenh=vtc14
+#EXTINF:-1 group-title="TV by DoBaoChinh" tvg-logo="https://i.imgur.com/xlH2Riq.jpg",VTC16
+http://baochinh.ml/iptv-nexttv.php?kenh=vtc16
+
+#EXTINF:-1 group-title="TV by DoBaoChinh" tvg-logo="http://img.iptv-hplus.com.vn/355x200/poster/2017/08/09/416777-AXN.png",AXN SD
+http://baochinh.ml/iptv-hplus.php?kenh=axn
+#EXTINF:-1 group-title="TV by DoBaoChinh" tvg-logo="https://api.mytvnet.vn/static/channel/40.png",HBO SD
+
+#EXTINF:-1 group-title="TV by DoBaoChinh" tvg-logo="http://img.hplus.com.vn/355x200/poster/2017/10/25/692435-FOX-Movies.png",Fox Movies HD
+http://baochinh.ml/iptv-hplus.php?kenh=foxmovies-hd
+#EXTINF:-1 group-title="TV by DoBaoChinh" tvg-logo="http://img.hplus.com.vn/355x200/poster/2017/10/25/361072-FOX-Life.png",Fox Life HD
+http://baochinh.ml/iptv-hplus.php?kenh=foxlife-hd
+#EXTINF:-1 group-title="TV by DoBaoChinh" tvg-logo="http://img.hplus.com.vn/320x180/banner/2017/08//09/399210-max-by-HBO.png",Max By HBO
+
+#EXTINF:-1 group-title="TV by DoBaoChinh" tvg-logo="http://img.hplus.com.vn/355x200/poster/2017/08/09/363762-red-by-HBO.png",Red By HBO
+http://baochinh.ml/iptv-hplus.php?kenh=redbyhbo
+#EXTINF:-1 group-title="TV by DoBaoChinh" tvg-logo="http://img.hplus.com.vn/320x180/banner/2017/10/17/462892-FOX-HD.png",Fox HD
+http://baochinh.ml/iptv-hplus.php?kenh=foxhd
+#EXTINF:-1 group-title="TV by DoBaoChinh" tvg-logo="http://img.hplus.com.vn/320x180/banner/2017/10/17/463862-Fox-Family-Movies.png",Fox Family Movies
+http://baochinh.ml/iptv-hplus.php?kenh=foxfamilymovies
+#EXTINF:-1 group-title="TV by DoBaoChinh" tvg-logo="http://img.hplus.com.vn/355x200/poster/2017/08/09/503539-cinemaworld.png",Cinema World
+http://baochinh.ml/iptv-hplus.php?kenh=cinema-world
+#EXTINF:-1 group-title="TV by DoBaoChinh" tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/04/09/203777-zeetv-logo.png",Zee TV
+http://baochinh.ml/iptv-hplus.php?kenh=zeetv
+#EXTINF:-1 group-title="TV by DoBaoChinh" tvg-logo="http://img.hplus.com.vn/355x200/poster/2017/08/09/120786-Cartoon-Netword-HD.png",Cartoon Network
+http://baochinh.ml/iptv-hplus.php?kenh=cartoon
+#EXTINF:-1 group-title="TV by DoBaoChinh" tvg-logo="http://img.hplus.com.vn/355x200/poster/2017/08/09/602255-tonami.png",Boomerang
+http://baochinh.ml/iptv-hplus.php?kenh=boomerang
+#EXTINF:-1 group-title="TV by DoBaoChinh" tvg-logo="https://api.mytvnet.vn/static/channel/45.png",Disney Channel
+
+#EXTINF:-1 group-title="TV by DoBaoChinh" tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/05/25/585539-cbee.png",BBC Cbeebies
+http://baochinh.ml/iptv-hplus.php?kenh=cbeebies
+#EXTINF:-1 group-title="TV by DoBaoChinh" tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/05/25/866934-babyfirst.png",Baby First
+http://baochinh.ml/iptv-hplus.php?kenh=baby-first
+#EXTINF:-1 group-title="TV by DoBaoChinh" tvg-logo="http://img.hplus.com.vn/355x200/poster/2017/08/09/712174-WARNER-tv.png",Warner TV
+http://baochinh.ml/iptv-hplus.php?kenh=warner-tv
+#EXTINF:-1 group-title="TV by DoBaoChinh" tvg-logo="http://img.hplus.com.vn/355x200/banner/2015/03/13/405224-FOX-Sports-1-HD.png",Fox Sports HD
+http://baochinh.ml/iptv-hplus.php?kenh=foxsport-1hd
+#EXTINF:-1 group-title="TV by DoBaoChinh" tvg-logo="http://img.hplus.com.vn/355x200/banner/2015/03/13/534600-FOX-Sport-2-HD.png",Fox Sports 2
+
+#EXTINF:-1 group-title="TV by DoBaoChinh" tvg-logo="http://img.hplus.com.vn/355x200/banner/2015/02/26/379565-MTV.png",MTV
+http://baochinh.ml/iptv-hplus.php?kenh=mtv
+#EXTINF:-1 group-title="TV by DoBaoChinh" tvg-logo="http://img.hplus.com.vn/355x200/banner/2015/03/11/191147-Channel_V_Logo.png",Channel V HD
+http://baochinh.ml/iptv-hplus.php?kenh=channelv-hd
+#EXTINF:-1 group-title="TV by DoBaoChinh" tvg-logo="http://img.hplus.com.vn/355x200/banner/2015/03/06/106233-NationalGeographicChannelHD.png",National Geographic HD
+http://baochinh.ml/iptv-hplus.php?kenh=ngc-hd
+#EXTINF:-1 group-title="TV by DoBaoChinh" tvg-logo="http://img.hplus.com.vn/355x200/poster/2017/08/09/605803-BBC-World-News.png",BBC World News
+http://baochinh.ml/iptv-hplus.php?kenh=bbc-wn
+#EXTINF:-1 group-title="TV by DoBaoChinh" tvg-logo="http://img.hplus.com.vn/355x200/poster/2017/08/09/989949-BBC-Lifestyle.png",BBC Lifestyle
+http://baochinh.ml/iptv-hplus.php?kenh=bbc-ls
+#EXTINF:-1 group-title="TV by DoBaoChinh" tvg-logo="http://img.hplus.com.vn/355x200/poster/2017/08/09/568947-BBC-Earth.png",BBC Earth
+http://baochinh.ml/iptv-hplus.php?kenh=bbc-e
+#EXTINF:-1 group-title="TV by DoBaoChinh" tvg-logo="http://img.hplus.com.vn/355x200/poster/2017/08/09/748952-australia-Plus.png",AUSTRALIA Plus
+http://baochinh.ml/iptv-hplus.php?kenh=australia-plus
+#EXTINF:-1 group-title="TV by DoBaoChinh" tvg-logo="http://img.hplus.com.vn/355x200/poster/2017/08/09/863201-CNN.png",CNN
+http://baochinh.ml/iptv-hplus.php?kenh=cnn
+#EXTINF:-1 group-title="TV by DoBaoChinh" tvg-logo="http://img.hplus.com.vn/355x200/poster/2015/11/06/716117-KBS-World.png",KBS World
+http://baochinh.ml/iptv-hplus.php?kenh=kbs-world
+#EXTINF:-1 group-title="TV by DoBaoChinh" tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/04/11/370895-NHK-logo-web.png",NHK World
+http://baochinh.ml/iptv-hplus.php?kenh=nhk
+#EXTINF:-1 group-title="TV by DoBaoChinh" tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/04/11/530198-DW-logo.png",DW
+http://baochinh.ml/iptv-hplus.php?kenh=dw
+#EXTINF:-1 group-title="TV by DoBaoChinh" tvg-logo="http://img.hplus.com.vn/355x200/poster/2017/08/09/323296-Bloomberg.png",Bloomberg
+http://baochinh.ml/iptv-hplus.php?kenh=bloomberg
+#EXTINF:-1 group-title="TV by DoBaoChinh" tvg-logo="http://iptv-mobion.vn/Files/Image/admin/2017/12/08/temp_4096267081535225.jpg",Channel News Asia
+http://baochinh.ml/iptv-mobion.php?id=channelnewsasia
+
+#EXTINF:-1 group-title="TV by DoBaoChinh" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vinh-long-1_145673001289.jpg",Vĩnh Long 1 HD
+#EXTINF:-1 group-title="TV by DoBaoChinh" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_binh-duong-1_145672698207.jpg",BTV1
+http://baochinh.ml/iptv-nexttv.php?kenh=binhduong1
+#EXTINF:-1 group-title="TV by DoBaoChinh" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_binh-duong-2_14567269985.jpg",BTV2
+http://baochinh.ml/iptv-nexttv.php?kenh=binhduong2
+#EXTINF:-1 group-title="TV by DoBaoChinh" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_binh-duong-4-hd_146312577314.png",BTV4 - iMovies
+http://baochinh.ml/iptv-nexttv.php?kenh=binhduong4
+#EXTINF:-1 group-title="RUSIAtv",Cartoon Network 
+http://109.248.219.251:89/channel41.m3u8
+#EXTINF:-1 group-title="RUSIAtv",DaVinci Learning 
+http://109.248.219.251:89/channel102.m3u8
+#EXTINF:-1 group-title="RUSIAtv",Disney 
+http://109.248.219.251:89/channel37.m3u8
+#EXTINF:-1 group-title="RUSIAtv",EuroNews 
+http://109.248.219.251:89/channel136.m3u8
+#EXTINF:-1 group-title="RUSIAtv",Eurosport 1 
+http://109.248.219.251:89/channel73.m3u8
+#EXTINF:-1 group-title="RUSIAtv",Eurosport 2 
+http://109.248.219.251:89/channel74.m3u8
+#EXTINF:-1 group-title="RUSIAtv",Fashion TV 
+http://109.248.219.251:88/channel38.m3u8
+#EXTINF:-1 group-title="RUSIAtv",FOX 
+http://109.248.219.251:89/channel66.m3u8
+#EXTINF:-1 group-title="RUSIAtv",Fox Life 
+http://109.248.219.251:89/channel65.m3u8
+#EXTINF:-1 group-title="RUSIAtv",Gakku 
+http://109.248.219.251:88/channel131.m3u8
+#EXTINF:-1 group-title="RUSIAtv",Gulli 
+http://109.248.219.251:89/channel110.m3u8
+#EXTINF:-1 group-title="RUSIAtv",Hit TV 
+http://109.248.219.251:88/channel20.m3u8
+#EXTINF:-1 group-title="RUSIAtv",IDxtra 
+http://109.248.219.251:89/channel94.m3u8
+#EXTINF:-1 group-title="RUSIAtv",Kazakh TV 
+http://109.248.219.251:88/channel18.m3u8
+#EXTINF:-1 group-title="RUSIAtv",KazSport 
+http://109.248.219.251:88/channel17.m3u8
+#EXTINF:-1 group-title="RUSIAtv",KuhnyaTV 
+http://109.248.219.251:89/channel61.m3u8
+#EXTINF:-1 group-title="RUSIAtv",Mezzo 
+http://109.248.219.251:88/channel134.m3u8
+#EXTINF:-1 group-title="RUSIAtv",MTV 
+http://109.248.219.251:89/channel133.m3u8
+#EXTINF:-1 group-title="RUSIAtv",MTV Rocks 
+http://109.248.219.251:89/channel132.m3u8
+#EXTINF:-1 group-title="RUSIAtv",Muz Zone 
+http://109.248.219.251:88/channel21.m3u8
+#EXTINF:-1 group-title="RUSIAtv",Nickelodeon 
+http://109.248.219.251:89/channel45.m3u8
+#EXTINF:-1 group-title="RUSIAtv",Ocean-TV 
+http://109.248.219.251:89/channel119.m3u8
+#EXTINF:-1 group-title="RUSIAtv",Paramount Comedy 
+http://109.248.219.251:89/channel47.m3u8
+#EXTINF:-1 group-title="RUSIAtv",Rusong TV 
+http://109.248.219.251:89/channel118.m3u8
+#EXTINF:-1 group-title="RUSIAtv",RuTV 
+http://109.248.219.251:88/channel25.m3u8
+#EXTINF:-1 group-title="RUSIAtv",Setanta Sports 
+http://109.248.219.251:89/channel43.m3u8
+#EXTINF:-1 group-title="RUSIAtv",Tiji 
+http://109.248.219.251:89/channel86.m3u8
+#EXTINF:-1 group-title="RUSIAtv",TLC 
+http://109.248.219.251:89/channel82.m3u8
+#EXTINF:-1 group-title="RUSIAtv",TV 1000 
+http://109.248.219.251:89/channel99.m3u8
+#EXTINF:-1 group-title="RUSIAtv",TV 1000 Action 
+http://109.248.219.251:89/channel97.m3u8
+#EXTINF:-1 group-title="RUSIAtv",TV1000 Русское кино 
+http://109.248.219.251:89/channel104.m3u8
+#EXTINF:-1 group-title="RUSIAtv",VH-1 Classic 
+http://109.248.219.251:89/channel122.m3u8
+
+
+#EXTINF:-1 group-title="JEPANGtv",Discovey sc
+http://203.162.235.41:17803
+#EXTINF:-1 group-title="JEPANGtv",NHK
+http://203.162.235.41:17801
+#EXTINF:-1 group-title="JEPANGtv",TBS news
+http://203.162.235.41:17807
+#EXTINF:-1 group-title="JEPANGtv",News 24
+http://203.162.235.41:17805
+#EXTINF:-1 group-title="JEPANGtv",CNBC
+http://203.162.235.41:17819
+#EXTINF:-1 group-title="JEPANGtv",WOWOW
+http://203.162.235.41:17816
+#EXTINF:-1 group-title="JEPANGtv",SHOP JAPAN
+http://203.162.235.41:17824
+#EXTINF:-1 group-title="JEPANGtv",BBC WORLD NEWS
+http://203.162.235.41:17817
+#EXTINF:-1 group-title="JEPANGtv",BS-TBS s1
+http://203.162.235.41:17813
+#EXTINF:-1 group-title="JEPANGtv",BS-TBS s2
+http://203.162.235.41:17815
+#EXTINF:-1 group-title="JEPANGtv",BS
+http://203.162.235.41:17811
+#EXTINF:-1 group-title="JEPANGtv",CNN
+http://203.162.235.41:17818
+#EXTINF:-1 group-title="JEPANGtv",SPORTS
+http://203.162.235.41:17809
+#EXTINF:-1 group-title="JEPANGtv",JAPAN 1
+http://203.162.235.41:17804
+#EXTINF:-1 group-title="JEPANGtv",JAPAN 2
+http://203.162.235.41:17812
+#EXTINF:-1 group-title="JEPANGtv",JAPAN 3
+http://203.162.235.41:17810
+#EXTINF:-1 group-title="JEPANGtv",JAPAN 4
+http://203.162.235.41:17808
+#EXTINF:-1 group-title="JEPANGtv",JAPAN 5
+http://203.162.235.41:17814
+#EXTINF:-1 group-title="JEPANGtv",JAPAN 6
+http://203.162.235.41:17806
+
+#EXTINF:-1 group-title="ChinaTV",CCTV-1 
+http://www.szmgiptv.com:14437/hls/1.m3u8
+#EXTINF:-1 group-title="ChinaTV",CCTV-1 
+http://183.207.249.71/PLTV/3/224/3221226316/index.m3u8
+#EXTINF:-1 group-title="ChinaTV",CCTV-2 
+http://120.221.2.42:8089/PLTV/88888888/224/3221225559/1.m3u8
+#EXTINF:-1 group-title="ChinaTV",CCTV-3 
+http://223.110.243.136/PLTV/3/224/3221227206/index.m3u8
+#EXTINF:-1 group-title="ChinaTV",CCTV-4 
+http://223.110.243.173/PLTV/3/224/3221225534/index.m3u8
+#EXTINF:-1 group-title="ChinaTV",CCTV-4 
+http://61.58.60.247:9000/live/220.m3u8
+#EXTINF:-1 group-title="ChinaTV",CCTV-13 
+http://223.110.243.150/PLTV/3/224/3221225560/index.m3u8
+#EXTINF:-1 group-title="ChinaTV",CGTN 
+https://live.cgtn.com/1000f/prog_index.m3u8
+#EXTINF:-1 group-title="ChinaTV",CGTN 
+https://live.cgtn.com/1000e/prog_index.m3u8
+#EXTINF:-1 group-title="ChinaTV",CGTN 
+https://live.cgtn.com/1000a/prog_index.m3u8
+#EXTINF:-1 group-title="ChinaTV",CGTN 
+https://live.cgtn.com/1000r/prog_index.m3u8
+#EXTINF:-1 group-title="ChinaTV",OKTO
+http://tgloktoh-i.akamaihd.net/hls/live/566482/ctv/02.m3u8
+#EXTINF:-1 group-title="ChinaTV",Asia Travel
+http://live.italkdd.com/ts027/channel_036.m3u8
+#EXTINF:-1 group-title="ChinaTV",Asian Food Channel
+http://61.58.60.247:9000/live/176.m3u8
+#EXTINF:-1 group-title="ChinaTV",DIVA
+http://61.58.60.247:9000/live/178.m3u8
+#EXTINF:-1 group-title="ChinaTV",Channel E
+http://61.58.60.247:9000/live/180.m3u8
+#EXTINF:-1 group-title="ChinaTV",TRUE MOVIE
+http://61.218.59.193/live/ch102/index.m3u8
+#EXTINF:-1 group-title="ChinaTV",GOODTV
+http://live.streamingfast.net/osmflivech5.m3u8
+#EXTINF:-1 group-title="ChinaTV",GOODTV 
+http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-3.m3u8
+#EXTINF:-1 group-title="ChinaTV",GOODTV 
+http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch5-2.m3u8
+#EXTINF:-1 group-title="ChinaTV",GOODTV 
+http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch14-2.m3u8
+#EXTINF:-1 group-title="ChinaTV",GOODTV 
+http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch13-2.m3u8
+#EXTINF:-1 group-title="ChinaTV",GOODTV 
+http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch3-2.m3u8
+#EXTINF:-1 group-title="ChinaTV",GOODTV2 
+http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-1.m3u8
+#EXTINF:-1 group-title="ChinaTV",CGTN Documentary
+http://live.cgtn.com/cctv-d.m3u8
+#EXTINF:-1 group-title="ChinaTV", Phim 1
+http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225771/index.m3u8
+#EXTINF:-1 group-title="ChinaTV", Phim 2
+http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225772/index.m3u8
+#EXTINF:-1 group-title="ChinaTV", Phim 3
+http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225773/index.m3u8
+#EXTINF:-1 group-title="ChinaTV",TVBS News HD
+https://bcsecurelivehls-i.akamaihd.net/hls/live/510713/4862438529001/index.m3u8
+#EXTINF:-1 group-title="ChinaTV",Hello TV
+http://live-ws-hls.huomaotv.cn/live/jade/playlist.m3u8 
+
+
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/asfyrTm.png" tvg-id="73bbb9ad1b3d0f01b1fd53bf161c0fab",SBS 플러스
+http://175.115.38.192:9981/stream/channelid/767146867?ticket=57272DE6BD5B1C1B3628332B9763876124B0EF36&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/nLxw0LW.png" tvg-id="a2a2ecbe769a2a947a1d61f8f823aa05",홈&쇼핑
+http://175.115.38.192:9981/stream/channelid/1055695522?ticket=E8DAF79CEDB54FC3A1169447F0C22326DD578E47&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/nLxw0LW.png" tvg-id="e0c796ccc7f9aa656c56c1318e41e0ab",홈&쇼핑
+http://175.115.38.192:9981/stream/channelid/1284949984?ticket=1FF1C9EDBAC17974CD4A7A0EEE339C50EA5A9E46&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/K2ztoDT.png" tvg-id="2c7d97c6b08f519260e9c5309db903fc",SBS
+http://175.115.38.192:9981/stream/channelid/1184333100?ticket=5D296C306BC77A4C6691F37CE0C8CF6BDF8E65CA&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/K2ztoDT.png" tvg-id="d9733fc855b7b89505e0bb62f1365748",SBS
+http://175.115.38.192:9981/stream/channelid/1212117977?ticket=5E931FFD744086F5113F63CABF33B4413FFF5C9C&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/K2ztoDT.png" tvg-id="a451736dc59887d1b0bb45196fc78843",SBS
+http://175.115.38.192:9981/stream/channelid/1836274084?ticket=FB3ED8DECBABFD8E20024E5BD9363B0E3D10AC77&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/K2ztoDT.png" tvg-id="6024cc4e3aabfb6337bcdd1bf2957243",SBS_knn
+http://175.115.38.192:9981/stream/channelid/1322001504?ticket=6BE1713F659E6AB09F336F8A2001A2CA13D2E27C&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/9JAy4Bu.png" tvg-id="9fc83b68dbbf34bff47ea4b826965bb1",TJB 대전방송
+http://175.115.38.192:9981/stream/channelid/1748748447?ticket=E47E1DA50DFD1B75AECADF2298FA2F31AB07F711&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/uBClUx6.png" tvg-id="9c392b18d9e41e84c5aeed4ddf447232",CJ오쇼핑
+http://175.115.38.192:9981/stream/channelid/405485980?ticket=5E8819B2909A71C849DF03FDD41F961E3C1276E9&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/uBClUx6.png" tvg-id="b6df2d43bac974902f85039e8147dcf3",CJ오쇼핑
+http://175.115.38.192:9981/stream/channelid/1127079862?ticket=E893236B3D98AF0F3CB077366FC84810B5E3D8C4&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/XgibZbD.png" tvg-id="7ce486f5dd134d39a1cfb2b4d71650cc",KBS2
+http://175.115.38.192:9981/stream/channelid/1971774588?ticket=CE12E3F5AE4AD26BEE084659A3D760BF83A07BBD&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/87fdrA5.png" tvg-id="e0d150751747383937849bf3eefc578d",현대홈쇼핑
+http://175.115.38.192:9981/stream/channelid/1968230880?ticket=8A2C2A67FE22A52CFBDD76DCC95A13A1273FDF07&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/e31o5gw.png" tvg-id="8d5a92be64ba15d8eec88b3a84a167a7",KBS1
+http://175.115.38.192:9981/stream/channelid/1049778829?ticket=C89A320FF2A0A7F32125565F00D2306358F50C98&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/e31o5gw.png" tvg-id="c0ed31c731a29d3467b6644365e1c974",KBS1
+http://175.115.38.192:9981/stream/channelid/1194454464?ticket=304228D9EF53A0904CBE5739B60F1FB77F2EABF3&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/e31o5gw.png" tvg-id="f9fb15cdc5c7db29fd139433f68caa94",KBS1
+http://175.115.38.192:9981/stream/channelid/1293286393?ticket=32CDD2E433886D3EDA1D0D1D1E29EE3A56C8C6B1&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/e31o5gw.png" tvg-id="69f4295debd32a568289de1fe5fcdbd8",KBS1
+http://175.115.38.192:9981/stream/channelid/1563030633?ticket=82A98A4A656E2C7D970E0D8DD95F8CD2EAB4FA5D&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/e31o5gw.png" tvg-id="1f412afedc368c2fe8a56c9791c08b5f",KBS1
+http://175.115.38.192:9981/stream/channelid/2116698399?ticket=DE8160DA3E419B28246ADC5282E3AD98A648BABA&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/2bCfj0y.png" tvg-id="9ff82deba95d3c70d61f576157c4a493",롯데홈쇼핑
+http://175.115.38.192:9981/stream/channelid/1798174879?ticket=799CFDE59015B26E4D365BDF0A87472F89529B03&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/duig32i.png" tvg-id="e1bf7f12c08faa1fd5fbf3e052ae7073",MBC
+http://175.115.38.192:9981/stream/channelid/310362081?ticket=9B96A69B267ADC67B33B4902FD641BFFE39646BC&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/duig32i.png" tvg-id="bd0f54adde11ba9d2cb51fc6cd2b9113",MBC
+http://175.115.38.192:9981/stream/channelid/760483773?ticket=813BCE3D7BBEDB0FA9374E43E55968DBFADB3CCA&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/duig32i.png" tvg-id="1f2e527fa6a8e10e824f7e110208d741",MBC
+http://175.115.38.192:9981/stream/channelid/2136092191?ticket=72484B3950ECC41E811C097466728A51022D6069&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/duig32i.png" tvg-id="8ccdd3affb61efd8a8b28c9990b0c362",광주 MBC
+http://175.115.38.192:9981/stream/channelid/802409868?ticket=64168DE1807006548DDDCDF72D6E7ECF046DCFC4&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/duig32i.png" tvg-id="06ffae7c68dd439cb14eeb87744bfe2f",광주 MBC
+http://175.115.38.192:9981/stream/channelid/2091843334?ticket=CEC19F3260B9A7B09822EA306EB7444B7BB9BC96&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/duig32i.png" tvg-id="236abbc43d3bacb42539f4420a106c2a",부산 MBC
+http://175.115.38.192:9981/stream/channelid/1153133091?ticket=84D8D99843470DCC504B35E55A4736469305563A&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/tz88mYd.png" tvg-id="85eb599c474db5a893122e74d16cf72a",GS SHOP
+http://175.115.38.192:9981/stream/channelid/475655045?ticket=C9B29091BEEA18FBB0CF377B92AE0B96D5D79900&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/tz88mYd.png" tvg-id="10fe8976f8712531c019dba7eeddce88",GS SHOP
+http://175.115.38.192:9981/stream/channelid/1988754960?ticket=E797E6036E71A97870C3F4402FA1BD99AB4FF308&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/UD1yoj1.png" tvg-id="c42f3fa369ab3e0a3053bae9d76f8a9c",NS홈쇼핑
+http://175.115.38.192:9981/stream/channelid/591343556?ticket=363C207C5B44215B5B46C9898BF2A014D7C78F7E&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/YOYosLG.png" tvg-id="4b887aba3bf6d39dac3b177cacad7d59",JTBC
+http://175.115.38.192:9981/stream/channelid/981108811?ticket=6BA5F993D28FA627D34813E724F6BD421D78D2F4&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/p0mvIJN.png" tvg-id="3a0ac41c30a3939687ea9e8cce096d45",MBN
+http://175.115.38.192:9981/stream/channelid/482609722?ticket=E41FD5CB4439C982EFACB4548A07860CE358BA59&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/OJ9A8fZ.png" tvg-id="52687ba3e49df7921f34dda5a1b79f65",tvN
+http://175.115.38.192:9981/stream/channelid/595290194?ticket=58DCB59EDCC94D3C6B45023BD05950D3CE9394FA&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/xti35f5.png" tvg-id="ab71bd25854e128a28b2cf3f2e799495",채널A
+http://175.115.38.192:9981/stream/channelid/633172395?ticket=3E912676ED8E5743408DDE214AE59385A83C6B36&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/ShJ5joR.png" tvg-id="d1e868f2034d0ec3b9921927761f963c",TV조선
+http://175.115.38.192:9981/stream/channelid/1919477969?ticket=3BA49A766FDADD584CB3262855FAFD058E668EBF&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/DJHN8M6.png" tvg-id="e866ba12699309d2d785d520fc2ea29c",OBS
+http://175.115.38.192:9981/stream/channelid/314205928?ticket=16892AD00EE5E9C81FCCFE65C9C7932DBF19247B&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/ZhYaqpt.png" tvg-id="74ab59118a6753623ee0ad145eaf5c50",신세계쇼핑
+http://175.115.38.192:9981/stream/channelid/291089268?ticket=3BA82293EDC6695610ED586728978640D623739F&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/KlTCP8V.png" tvg-id="e7cad7946e261a19223a2a0505c1b76b",연합뉴스TV
+http://175.115.38.192:9981/stream/channelid/349686503?ticket=20A1294CEB5EEABF8DEB12270F5948B89DEA9AD7&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/ByeeX5e.png" tvg-id="cd7d58aa1a87b5a5fa4d886637a8f9a3",YTN
+http://175.115.38.192:9981/stream/channelid/710442445?ticket=7CFDC6DE681A4188D1ADB4B94642CE63956FC997&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/6ORm0Rz.png" tvg-id="dc4bc723446b33a368fa8def3d0cac78",K쇼핑
+http://175.115.38.192:9981/stream/channelid/600263644?ticket=B1840D1106FC725923D6EC5DF1A852A3649FDDA9&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/SfDs4qN.png" tvg-id="c66092ba87b9b9e87212c6907611c8dd",SBS CNBC
+http://175.115.38.192:9981/stream/channelid/982671558?ticket=E272A9F4780F1B68605DF879807CB39F6FDD7DAF&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/putHm2b.png" tvg-id="19af6f9bb2d0965cc16df8c72d533bbe",M.net
+http://175.115.38.192:9981/stream/channelid/460304153?ticket=3A44613D47CFD42BC660C9E829B8A3794C91EA48&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/oOnpFes.png" tvg-id="d9e531234a58e57fc8ce078207c051ee",MBC Every1
+http://175.115.38.192:9981/stream/channelid/590472665?ticket=C9F3DF8E15377DEE8E941D3B470A7B616F2D1D1E&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/0Y0pRW4.png" tvg-id="514cb8c111c4b3d145b90013ed7fcc46",GS MY SHOP
+http://175.115.38.192:9981/stream/channelid/1102597201?ticket=36DD68DC40E95CDB33F72E4BB0C8A70A15FF3C02&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/CrLMIEQ.png" tvg-id="2b64cb43e9f9f615921faccaae9c1b7b",KBS 드라마
+http://175.115.38.192:9981/stream/channelid/1137402923?ticket=6741C0FD7521AB095D2A7B5FB094069FCC5FEE02&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/VBMFcZ3.png" tvg-id="617852d439c2a936e98130faa7817d99",MBC 드라마
+http://175.115.38.192:9981/stream/channelid/1414690913?ticket=4F9E59ED7D52854C92276CD921DA7E2CE94AD374&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/0SMl3O5.png" tvg-id="24f1e9536e20a9ddad65cd7ce280dee0",O tvN
+http://175.115.38.192:9981/stream/channelid/1407840548?ticket=153C7C12C377A07D426D9AB7A9A82A8B5D39A409&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/Cged9ve.png" tvg-id="70a2ecfd25988f4a1a96a165fe6b9f35",W쇼핑
+http://175.115.38.192:9981/stream/channelid/2112660080?ticket=D3B26EE9A30C8686EE662547882D637F41BAAE56&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/e9BTUAb.png" tvg-id="7b643686b90b2bba3f6735500837634e",sky Drama
+http://175.115.38.192:9981/stream/channelid/104227963?ticket=7E6398990C43B07D0CA7559A5F3B3152234A6965&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/e9BTUAb.png" tvg-id="566bf539120e9932b0378b1cad24334d",sky Drama
+http://175.115.38.192:9981/stream/channelid/972385110?ticket=F2EC9DA952557EC2300FE48635BAC9F9DA2A007A&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/ipGXgEK.png" tvg-id="2426aca5b25db7d55543458c1ac2ed43",NS Shop+
+http://175.115.38.192:9981/stream/channelid/632038948?ticket=3EBCE9682188C6D9D3AF38D0F1AF5600DE2F3B59&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/V9CQ4A6.png" tvg-id="94689ad2e6892e49993aa7d8efb523d9",Highlight TV
+http://175.115.38.192:9981/stream/channelid/1385851028?ticket=C72B50EE83D7A87FB37F9BB146831B52441CF687&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/lCGq3v1.png" tvg-id="3e7dbab5d64357320c9e95ca26282999",CNTV
+http://175.115.38.192:9981/stream/channelid/901414206?ticket=F6EAFB56A05EE03C372B1AB4DFE9C0239C669738&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/gsnjG4A.png" tvg-id="ae43a3e9364617ae02668f9c20a891f6",EDGE TV
+http://175.115.38.192:9981/stream/channelid/1772307374?ticket=5DC4A17FB1376F252AF87A671464D582B6696E6A&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/xT7pVuI.png" tvg-id="7fa69fe068ee9fc2a9117926af1f7c03",드라마H
+http://175.115.38.192:9981/stream/channelid/1621075583?ticket=84D4593F3983E69C8DBC8769D11FB9CFBF4D6F15&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/fwjRwkx.png" tvg-id="45e9738b7d109e2ddcea04f53df40ac1",Ch CGV
+http://175.115.38.192:9981/stream/channelid/192145733?ticket=8D078BB2C5CDA9A0A3089589CA6A2610C2EC3AF5&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/IXh6dwo.png" tvg-id="711ba0f80eed3f4a468f3040690feac5",OCN
+http://175.115.38.192:9981/stream/channelid/2023758705?ticket=165964455CEB3654E90639DB7A807D1673EDCE64&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/D9PzDBr.png" tvg-id="4cf52ace452b9673bde7413a3b03fce1",SUPER ACTION
+http://175.115.38.192:9981/stream/channelid/1311438156?ticket=1570063051887C3F4FC233CDE1E497D3B85E3A8B&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/dOOBYJm.png" tvg-id="130cfa30e91b3fe4a0f5a5083653e6a4",Mplex
+http://175.115.38.192:9981/stream/channelid/821693459?ticket=A0AD3523462FF6E4F57FFC225ACDEB502BDFB9E6&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/D1o9by9.png" tvg-id="9c5fd90d0f04c5f2575b10dfc7d58386",KBS joy
+http://175.115.38.192:9981/stream/channelid/232349596?ticket=710B6F00A0789226C00BEB9AA95740AF9DE2A555&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/D1EYJmr.png" tvg-id="9f870e5b91e999fe8653d03472fa14c3",SBS fun E
+http://175.115.38.192:9981/stream/channelid/1527678879?ticket=55AD96142358153B51833B4A0935519C66C99ED0&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/WtXDuFU.png" tvg-id="3e70e440acc39a27ca07253329cb823c",jtbc2
+http://175.115.38.192:9981/stream/channelid/1088712766?ticket=AB15BA1594ABEDB4830D2318664C9CD4DF853893&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/0WmEGB4.png" tvg-id="90e504f35f511b361050ebc608286d0e",E채널
+http://175.115.38.192:9981/stream/channelid/1929700752?ticket=3DBD621A5C8D223772672ADF83BD93F48A9B2290&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/hGwA39y.png" tvg-id="08dfc93763f2881f3f1c00a0ed78afb7",XTM
+http://175.115.38.192:9981/stream/channelid/935976712?ticket=85CF91748BCA94C2CDF40BC093C79CACCF6E5907&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/2FwWidb.png" tvg-id="8b13a1c93fff70765baf6ff8cadc5d32",C TIME
+http://175.115.38.192:9981/stream/channelid/1235293067?ticket=9DA7494B6EFCCBE1FA1370B36C203008D4F38A1F&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/5VMBbSq.png" tvg-id="a5cefb9b17f768a5dfb9a08b6db4bcab",K star
+http://175.115.38.192:9981/stream/channelid/469487269?ticket=CAB198F890B082020DC9A84DCC2C1D0B87E59A55&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/xvEjFJa.png" tvg-id="fadcf1021a88ba8236d8311fbccc395c",CUBE TV
+http://175.115.38.192:9981/stream/channelid/49405178?ticket=F07C86450489E21EC1C50BC630F3B7EA79F5F495&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/fNuqGzR.png" tvg-id="e0321f34e884f9c36405ed9cda7bf8d9",CMC 가족오락TV
+http://175.115.38.192:9981/stream/channelid/874459872?ticket=C1CD7E8A6CD25583EA7C59531955476C5836B6A3&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/BH3DnrW.png" tvg-id="7e2faccd2cee87fb19b69a58910cecb4",DIA TV
+http://175.115.38.192:9981/stream/channelid/1303129982?ticket=3FD4F85B8B52DA8F50086B2D61E51DD68472497D&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/cJ1B77S.png" tvg-id="61aa019d7a70edcd5b36886e38640b8c",AMC
+http://175.115.38.192:9981/stream/channelid/486648417?ticket=340428B5221B447B27BCA7205649EE9E566507E4&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/8usDWOC.png" tvg-id="3fbc0a73dd2f6b002aef12b076079939",FOX
+http://175.115.38.192:9981/stream/channelid/1930083391?ticket=59B6B141C0E05180C5090615CFAEF7D420B90C90&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/gleMSFq.png" tvg-id="c504eed5a776e59478d0d78ea4a05408",Asia N
+http://175.115.38.192:9981/stream/channelid/1441662149?ticket=006067BC4E928BC640688D5F4DB43058402A7CDB&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/cIpIf6b.png" tvg-id="b696caacdf397538d1b89b96a02dc8a1",SPOTV
+http://175.115.38.192:9981/stream/channelid/751474358?ticket=AF87ED06BA0ECADE8E65729231E39DD59A551AD3&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/xspD7UE.png" tvg-id="4d84a3b55d6a02a1501b35096a80ea51",KBSN 스포츠
+http://175.115.38.192:9981/stream/channelid/899908685?ticket=A42431FD670C1181C173AC9E902DC77E263C07D5&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/j1vHAu6.png" tvg-id="9e01f2ca989740892c835d907f476ccb",SBS Sports
+http://175.115.38.192:9981/stream/channelid/1257374110?ticket=1CE4BD378D15DC75D54E657F1CD47A4A60CFB966&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/Su21uj3.png" tvg-id="6606a4257ed8fb90e0e6bae8fbcc7007",MBC Sports+
+http://175.115.38.192:9981/stream/channelid/631506534?ticket=4B86329D5614FC4DD5FB865C494999D9A97368FA&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/frAuUS3.png" tvg-id="530f2d0aa1d188f7ed003b72259d0fca",MBC SPORTS+2
+http://175.115.38.192:9981/stream/channelid/170725203?ticket=17758B80CE30C9DD9B8EDE988DCE45C449096353&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/QHV9bdA.png" tvg-id="aa4c83b909fec41d60648d04d143106e",sky Sports
+http://175.115.38.192:9981/stream/channelid/964906154?ticket=2DB86BEF36D532D353CD5A7BA417B5F65D97EBF3&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/KvGwEc1.png" tvg-id="aea44f6d95bf23edca4b9578171896b1",JTBC3 FOXSPORTS
+http://175.115.38.192:9981/stream/channelid/1833936046?ticket=57DBB790D43AA65D4A39116E7FC73909C161474F&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/wOOQEC1.png" tvg-id="30cbc8cc2e4cfc1b732428d651665234",IB Sports
+http://175.115.38.192:9981/stream/channelid/1288227632?ticket=6B244A8E02420D92D053625D0845BE6E6F5B5CBB&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/HdS0GNV.png" tvg-id="a4b5db129499263d7c800c6697804a29",SBS GOLF
+http://175.115.38.192:9981/stream/channelid/316388772?ticket=22621770473BD2D8378DC4F2A58274F08C6593C8&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/3VlCrJ7.png" tvg-id="0398777aa07aab26af2a2442365a197a",Golf Channel Korea
+http://175.115.38.192:9981/stream/channelid/2054658051?ticket=609D122EAAB10D760952B2135D2F7B91084BCFC8&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/tLtSTaq.png" tvg-id="2fa094fa7502f3a86931914323881a42",OGN
+http://175.115.38.192:9981/stream/channelid/2056560687?ticket=08B356C7E4F1518C9C88B7CAA62B3EF8126D6CB8&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/dVWy3Ex.png" tvg-id="9f5d406a85f18c24d9f8e35801c72d83",토마토TV
+http://175.115.38.192:9981/stream/channelid/1782603167?ticket=5D34C5396923DFF0B8E7E0B37FB75CD3EA479AFC&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/dVWy3Ex.png" tvg-id="45ed8bf8b1f9b2a1e1c9b63b566fbd07",토마토TV
+http://175.115.38.192:9981/stream/channelid/2022436165?ticket=0C852160DD8866B408E0B68BACBD3EF3F0C265FD&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/ChnD0FT.png" tvg-id="555efed11ad7fe1e9c6de38ffca3e396",한국경제TV
+http://175.115.38.192:9981/stream/channelid/1375624789?ticket=BFB56F1E80F785CE73B7CC5F489A20AE78895031&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/joWd14j.png" tvg-id="7c1418dd0e2e8f158fe65cce0d19a04b",MTN
+http://175.115.38.192:9981/stream/channelid/1561859196?ticket=7C4CE8B872085EBD8C18ED5BD3409B95A1A98A9C&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/a4PwnPm.png" tvg-id="8756e246e2a35cf1b903c88c46de9a5e",매일경제TV
+http://175.115.38.192:9981/stream/channelid/1189238407?ticket=28C8902BCD1E5B8FD66B7F63A227664EE97D883A&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/2D6WoS8.png" tvg-id="789b3ded43f3bf18437064e0af2a84bb",아시아경제TV
+http://175.115.38.192:9981/stream/channelid/1832754040?ticket=D57E5D58A2522DDF8B1148F9EA1A4E4F876287A4&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/W90Hw2p.png" tvg-id="06ee0cb047b3ce65ea4998f08a68b35b",이데일리TV
+http://175.115.38.192:9981/stream/channelid/806153734?ticket=0CF98D25D202FBC559C9BA5BACE6E009680AFFAC&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/EL6i9mA.png" tvg-id="2e83fc8af8c25bf27becef0c507a290b",CNN US
+http://175.115.38.192:9981/stream/channelid/184320814?ticket=30459EB76D0137B2B5C59A87B086C03404AFF124&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/VUqSOjx.png" tvg-id="beadb7f270c4d133ca7a39bd4810811a",Tooniverse
+http://175.115.38.192:9981/stream/channelid/1924640190?ticket=4E2B991B816C8E4A6244FD8F058BE1D19E1F2AA0&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/qZdqeZo.png" tvg-id="fe15dd2caad4b1b5fa283fca91ebedc1",디즈니채널
+http://175.115.38.192:9981/stream/channelid/752686590?ticket=B454FE202286A25E2CB783FEAB2D1C61CB40B579&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/EGiEKhj.png" tvg-id="dd28e449c7490cae61818f8850650e1b",디즈니주니어
+http://175.115.38.192:9981/stream/channelid/1239689437?ticket=209AE88799CFA4F1B57BC65C2332C27A2F734EDD&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/6pWpFCX.png" tvg-id="64adcc90c3c1558d8cc36f0377d19bda",Nickelodeon
+http://175.115.38.192:9981/stream/channelid/281849188?ticket=52A2470D1E1793553EBE3F9CF93E9B2DE94987B7&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/7RKoOZq.png" tvg-id="95e92ed6323a4942ab32ad26476af66b",애니플러스
+http://175.115.38.192:9981/stream/channelid/1445915029?ticket=55F9BFCF64D1D87A5786EAD4D688A022E884CBE9&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/ipM9AXe.png" tvg-id="bf09b6d34c40ee93f9a9d290ab054995",애니박스
+http://175.115.38.192:9981/stream/channelid/1404438975?ticket=2A09911672136E47F38C8A058DE08F519F0A397B&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/Jcfjs9E.png" tvg-id="b317f0241d227f7bb5c98d7ce194e572",KBS KIDS
+http://175.115.38.192:9981/stream/channelid/619714483?ticket=98EEBD67FBD968684AD37D5E8A252386BD073524&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/CETWIE6.png" tvg-id="c33f033119561a72aa6ebbb1e59cbecd",어린이TV
+http://175.115.38.192:9981/stream/channelid/822296515?ticket=241FB3370F4197468BD4ACB5C5E1359AB8E8C633&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/RIgVjvP.png" tvg-id="8dac36140ae7e507feaa2d1852237282",EBSu
+http://175.115.38.192:9981/stream/channelid/339127437?ticket=A41F343629CBDB6524064C017DD5ADC7E01D2EA8&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/WGlWiWy.png" tvg-id="ae6d87b8b21642af45a48856887ba3bb",EBS +1
+http://175.115.38.192:9981/stream/channelid/948399534?ticket=120C7187FE6407BF305A375B28AC3805A3A7EFEE&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/QPq2wcg.png" tvg-id="bf25e43581a449b2e3ec15c0762ab241",EBS +2
+http://175.115.38.192:9981/stream/channelid/904144319?ticket=C096E1B7F012989A95E929331FEF86CFC58B5659&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/9brMDfR.png" tvg-id="38bf5cdfadf750f53be3165a70e3fc06",On style
+http://175.115.38.192:9981/stream/channelid/1599913784?ticket=94F4F074E1474E65A230B7E6BC13AD04A6D73ED4&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/F9Rb9SA.png" tvg-id="f4a3de4ec030cc9477e270534fa2023e",Food TV
+http://175.115.38.192:9981/stream/channelid/1323213812?ticket=BF85A9A43EFCC97C82A7C29E65D4C41FD7BB7DC7&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/sVqBczs.png" tvg-id="155c1d6425f5d04abfee64c9dcd37c11",KBS W
+http://175.115.38.192:9981/stream/channelid/1679645717?ticket=2DD9DFB5AF60613D5A649727FFAD47E6A1D5BD7A&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/AlmV8jS.png" tvg-id="1509210b681da80449be99879258e634",동아TV
+http://175.115.38.192:9981/stream/channelid/186714389?ticket=9014A70BD39DC1D3E778B58703F01813F94201A1&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/OeSJ9Ik.png" tvg-id="0ef23b933dfd3f2316a0e619f463980a",SBS MTV
+http://175.115.38.192:9981/stream/channelid/322695694?ticket=B155760CFB5CCB8F47B9D33C12A083319F62EE09&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/6g56RDx.png" tvg-id="45f3ff9561e278414086d548c9d43ab0",MBC Music
+http://175.115.38.192:9981/stream/channelid/369095493?ticket=F60E27080F99402AA8AA661DE6A79153746E1241&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/zReu7df.png" tvg-id="d577d3e3af78e63b19ddec5a26fd7924",Arte TV
+http://175.115.38.192:9981/stream/channelid/1674803157?ticket=508D14040F132F04EBA71C68CD0B3AA81ED12A8E&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/jbRu8T2.png" tvg-id="5a55769bdaf60d5075c160dd3a6f0927",바둑TV
+http://175.115.38.192:9981/stream/channelid/460739930?ticket=FD265D5F5FAD62B19010E59D27BF953F063F7666&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/EAk5ySy.png" tvg-id="fa7916471c711395ea13b87130eb40d8",K-바둑
+http://175.115.38.192:9981/stream/channelid/1192655354?ticket=715F051CE7C0541D4C684520CE52A69487AD08DD&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/eI9wGgS.png" tvg-id="ea84cc98c1c43ebcce0cbd492cecee8e",FTV
+http://175.115.38.192:9981/stream/channelid/416056554?ticket=376B2DE1DAF75B11FEA061BDBE8C924A2355DBAE&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/Go4FdK1.png" tvg-id="fdd972675c61b06ee7a108260402106d",FISHING TV
+http://175.115.38.192:9981/stream/channelid/1735580157?ticket=F6B4A73E29FA8B58972E0FFC65E2682F48C5942A&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/fAJgmna.png" tvg-id="ae33e0083b9a3de9dbcf487a8a0de4c0",SkyTravel
+http://175.115.38.192:9981/stream/channelid/148911022?ticket=36B7DEEBD13C493D5B58B735960B24A90C0334D6&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/4nLYnVC.png" tvg-id="b0fe3bbb83ab16fce1b92acd87d20bf1",Mountain TV
+http://175.115.38.192:9981/stream/channelid/993787568?ticket=647F4109EE5BE43C6F91F437609369326DE61B14&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/aghufJ7.png" tvg-id="ce422559d62a050a48080b414526d31c",폴라리스TV
+http://175.115.38.192:9981/stream/channelid/1495614158?ticket=BDCE9FE166DEB64F145E0B88F62E2F42C1CD7AD0&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/gwDHYGf.png" tvg-id="15a4bc3ce50be98e9e3422708a2004f0",YTN 사이언스
+http://175.115.38.192:9981/stream/channelid/1018995733?ticket=90D2A064E80A40AC7166355AB60843752A931815&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/M4nh0Rk.png" tvg-id="466ebfa51e446b417624718d63b16eae",Natgeo Wild HD
+http://175.115.38.192:9981/stream/channelid/633302598?ticket=3D3049FBA0771E85BABF2514A4F7C2D82BB9210F&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/vsxRuFh.png" tvg-id="37bec4e863ba31d5f2e6c8e9eea2a0a2",헬스메디TV
+http://175.115.38.192:9981/stream/channelid/1757724215?ticket=DAF676C22044A98FF91E9C05DA991337CDA918C3&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/nFWWIFP.png" tvg-id="30847e98036b2c967e72418aef6c54ea",아리랑TV
+http://175.115.38.192:9981/stream/channelid/410944560?ticket=76A2BEB03E57F4C07F2854C8859558FD3E3F4F8C&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/yUk2RhO.png" tvg-id="4eda56cc29b8dfeb229402f9ffa379cc",KTV
+http://175.115.38.192:9981/stream/channelid/1280760398?ticket=C4F59F31EE65025915D9A9256C5177ADAA1F9FAA&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/yUk2RhO.png" tvg-id="f6cd69539c9906367f478cb0cdda547b",KTV
+http://175.115.38.192:9981/stream/channelid/1399442934?ticket=899FD25E2643E61810F90142B57DC4520716B738&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/l1OEn7O.png" tvg-id="62cc0eadadcbe9cffc52e683af4e0415",국회방송
+http://175.115.38.192:9981/stream/channelid/755944546?ticket=D3D9CFFA45376E3889873EE0EB2E0063C7061448&profile=pass
+#EXTINF:-1 group-title="KoreaTV" tvg-logo="http://i.imgur.com/SFouN1c.png" tvg-id="b4cfa0091cd204675944e323fd2e0d06",C채널
+http://175.115.38.192:9981/stream/channelid/161533876?ticket=92A89693DE5BDB297A7665C3EA9FE2FB8B25B1AB&profile=pass
+
+#EXTINF:-1 group-title="ThaiTV",BLUESKY CHANNEL
+http://live.blueskychannel.tv:1935/bluesky_live/myStream/playlist.m3u8
+#EXTINF:-1 group-title="ThaiTV",CABLE TV
+http://202.173.216.8:1935/live/ch8/playlist.m3u8
+#EXTINF:-1 group-title="ThaiTV",CHANNEL 13
+http://stream.13livetv.com:1935/live/13livetv/playlist.m3u8
+#EXTINF:-1 group-title="ThaiTV",CHANNEL 2
+http://stream.rs.co.th/ch2-hi/index.m3u8
+#EXTINF:-1 group-title="ThaiTV",CHANNEL 5
+http://27.254.62.62:8081/live/tv5stream/playlist.m3u8
+#EXTINF:-1 group-title="ThaiTV",CHANNEL 7
+http://edge160.bugaboo.tv/liveedgech7_partner/_definst_/smil:auto.smil/playlist.m3u8
+#EXTINF:-1 group-title="ThaiTV",CHANNEL 8
+http://usa.login.in.th:1935/ch8/ch8/playlist.m3u8
+#EXTINF:-1 group-title="ThaiTV",CHANNEL 9
+http://lb-media.mcot.net:1935/9mcot_edge/smil:9mcot.smil/playlist.m3u8
+#EXTINF:-1 group-title="ThaiTV",DDTV
+http://203.156.63.20:1935/live/ddtv/playlist.m3u8
+#EXTINF:-1 group-title="ThaiTV",ETV
+http://61.19.244.112:1935/live/livestream/playlist.m3u8
+#EXTINF:-1 group-title="ThaiTV",M CHANNEL
+http://www.m-channel.com:1935/live/my_stream.sdp/playlist.m3u8
+#EXTINF:-1 group-title="ThaiTV",POLICE TV
+http://live.netdesignhost.com/policetvlive/policetvlive/playlist.m3u8
+#EXTINF:-1 group-title="ThaiTV",SABAIDEE TV
+http://stream.rs.co.th/sbd-low/index.m3u8
+#EXTINF:-1 group-title="ThaiTV",SPRING NEWS
+http://1457077260.cat-cdn.i-iptv.com/T1457077260/ngrp:livestream_all/playlist.m3u8
+#EXTINF:-1 group-title="ThaiTV",THAIRATH TV
+http://live.thairath.co.th/trtv2/playlist.m3u8
+#EXTINF:-1 group-title="ThaiTV",YOU CHANNEL
+http://stream.rs.co.th/you-hi/index.m3u8
+
+#EXTINF:-1 group-title="India",Animal Planet HD
+http://mhms5.airtel.tv/PLTV/88888888/224/3221226201/01.m3u8
+#EXTINF:-1 group-title="India",SONY ROX MUSIC HD
+http://mhms5.airtel.tv/PLTV/88888888/224/3221226204/01.m3u8
+#EXTINF:-1 group-title="India",Discovery WORLD HD
+http://mhms5.airtel.tv/PLTV/88888888/224/3221226205/01.m3u8
+#EXTINF:-1 group-title="India",LF FOOD HD
+http://mhms8.airtel.tv/wh7f454c46tw2162781931_1815925993/PLTV/88888888/224/3221226329/03.m3u8
+#EXTINF:-1 group-title="India",Discovery WORLD HD
+http://mhms5.airtel.tv/PLTV/88888888/224/3221226205/01.m3u8
+#EXTINF:-1 group-title="India",Discovery TV
+http://cshms3.airtel.tv/PLTV/88888888/224/3221225874/01.m3u8
+#EXTINF:-1 group-title="India",Discovery TURBO
+http://cshms3.airtel.tv/PLTV/88888888/224/3221225782/01.m3u8
+#EXTINF:-1 group-title="India",Discovery Science
+http://cshms3.airtel.tv/PLTV/88888888/224/3221225778/01.m3u8
+#EXTINF:-1 group-title="India",Discovery Kids
+http://cshms3.airtel.tv/PLTV/88888888/224/3221225775/01.m3u8
+#EXTINF:-1 group-title="India",Animal Planet
+http://cshms3.airtel.tv/PLTV/88888888/224/3221225872/01.m3u8
+#EXTINF:-1 group-title="India",TLC
+http://cshms3.airtel.tv/PLTV/88888888/224/3221225819/01.m3u8
+#EXTINF:-1 group-title="India",SONY BBC EARTH
+http://cshms3.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226068/03.m3u8
+#EXTINF:-1 group-title="India",SONY BBC EARTH HD
+http://mhms8.airtel.tv/wh7f454c46tw133991019_1870526460/PLTV/88888888/224/3221226280/03.m3u8
+#EXTINF:-1 group-title="India",Animal Planet HD
+http://mhms5.airtel.tv/PLTV/88888888/224/3221226201/01.m3u8
+#EXTINF:-1 group-title="India",NDTV Goodtimes
+http://cshms4.airtel.tv/PLTV/88888888/224/3221225774/01.m3u8
+#EXTINF:-1 group-title="India",FTV
+http://cshms4.airtel.tv/PLTV/88888888/224/3221226086/01.m3u8
+#EXTINF:-1 group-title="India",TRAVELXP SD
+http://cshms4.airtel.tv/PLTV/88888888/224/3221225813/01.m3u8
+#EXTINF:-1 group-title="India", AXN HD
+http://cshms4.airtel.tv/wh7f454c46tw2959729406_596421737/PLTV/88888888/224/3221226485/04.m3u8
+#EXTINF:-1 group-title="India", AXN SD
+http://cshms3.airtel.tv/wh7f454c46tw501677772_1439149542/PLTV/88888888/224/3221226443/04.m3u8
+#EXTINF:-1 group-title="India", SONYPIX HD
+http://cshms4.airtel.tv/wh7f454c46tw2959729406_596421737/PLTV/88888888/224/3221226486/04.m3u8
+#EXTINF:-1 group-title="India", SONYPIX SD
+http://cshms3.airtel.tv/wh7f454c46tw708965953_498209345/PLTV/88888888/224/3221226442/04.m3u8
+#EXTINF:-1 group-title="India", SONY PLEX HD TV
+http://mhms7.airtel.tv/wh7f454c46tw1749079137_988046400/PLTV/88888888/224/3221226446/01.m3u8
+#EXTINF:-1 group-title="India",DD1
+http://mhms9.airtel.tv/wh7f454c46tw3723233184_323017196/PLTV/88888888/224/3221226296/06.m3u8
+#EXTINF:-1 group-title="India", DD ODIA
+http://cshms4.airtel.tv/PLTV/88888888/224/3221226302/06.m3u8
+#EXTINF:-1 group-title="India", Taranga TV
+http://cshms3.airtel.tv/PLTV/88888888/224/3221226032/01.m3u8
+#EXTINF:-1 group-title="India", Taranga Music
+http://cshms3.airtel.tv/PLTV/88888888/224/3221226023/01.m3u8
+#EXTINF:-1 group-title="India", Prathana TV
+http://cshms3.airtel.tv/PLTV/88888888/224/3221226033/01.m3u8
+#EXTINF:-1 group-title="India",Alankar TV
+http://cshms3.airtel.tv/PLTV/88888888/224/3221226042/06.m3u8
+#EXTINF:-1 group-title="India",MBC Odia TV
+http://mhms9.airtel.tv/wh7f454c46tw3612331058_1550720847/PLTV/88888888/224/3221226335/06.m3u8
+#EXTINF:-1 group-title="India",ZEE Sarthak TV
+http://cshms3.airtel.tv/PLTV/88888888/224/3221226107/01.m3u8
+#EXTINF:-1 group-title="India",ZEE Kalinga
+http://cshms3.airtel.tv/PLTV/88888888/224/3221225937/01.m3u8
+#EXTINF:-1 group-title="India", NEWS world ODISHA TV
+http://cshms3.airtel.tv/PLTV/88888888/224/3221226034/01.m3u8
+#EXTINF:-1 group-title="India",Republic TV
+http://cshms4.airtel.tv/PLTV/88888888/224/3221226000/01.m3u8
+#EXTINF:-1 group-title="India",WION NEWS
+http://cshms4.airtel.tv/PLTV/88888888/224/3221226363/01.m3u8
+#EXTINF:-1 group-title="India",BBC NEWS
+http://cshms4.airtel.tv/PLTV/88888888/224/3221226051/01.m3u8
+#EXTINF:-1 group-title="India",Bloomberg
+http://cshms4.airtel.tv/PLTV/88888888/224/3221226082/01.m3u8
+#EXTINF:-1 group-title="India",NEWSX
+http://cshms4.airtel.tv/PLTV/88888888/224/3221225796/01.m3u8
+#EXTINF:-1 group-title="India",ZEE NEWS
+http://cshms3.airtel.tv/PLTV/88888888/224/3221225922/01.m3u8
+#EXTINF:-1 group-title="India",ZEE Business
+http://cshms3.airtel.tv/PLTV/88888888/224/3221225930/01.m3u8
+#EXTINF:-1 group-title="India",IBC24 NEWS
+http://cshms3.airtel.tv/PLTV/88888888/224/3221226102/01.m3u8
+#EXTINF:-1 group-title="India",TLC WORLD HD
+http://cshms2.airtel.tv/PLTV/88888888/224/3221226279/01.m3u8
+#EXTINF:-1 group-title="India", AND TV HD
+http://cshms4.airtel.tv/PLTV/88888888/224/3221226084/03.m3u8
+#EXTINF:-1 group-title="India", Sony TV HD
+http://cshms4.airtel.tv/wh7f454c46tw1375599167_1532996093/PLTV/88888888/224/3221225772/01.m3u8
+#EXTINF:-1 group-title="India", ZeeTV HD
+http://cshms3.airtel.tv/wh7f454c46tw2717373403_526904823/PLTV/88888888/224/3221225942/01.m3u8
+#EXTINF:-1 group-title="India", SonyMAX HD
+http://cshms4.airtel.tv/wh7f454c46tw288508750_687813938/PLTV/88888888/224/3221225776/01.m3u8
+#EXTINF:-1 group-title="India", SONYSAB HD
+http://cshms4.airtel.tv/PLTV/88888888/224/3221226078/01.m3u8
+#EXTINF:-1 group-title="India", ZEECINEMA HD
+http://cshms4.airtel.tv/PLTV/88888888/224/3221226083/01.m3u8
+#EXTINF:-1 group-title="India",And Picture HD
+http://mhms7.airtel.tv/wh7f454c46tw3697671574_1750568037/PLTV/88888888/224/3221226203/02.m3u8
+#EXTINF:-1 group-title="India",SONY ROX MUSIC HD
+http://mhms5.airtel.tv/PLTV/88888888/224/3221226204/01.m3u8
+#EXTINF:-1 group-title="India",DISCOVERY Jeet HD
+http://cshms1.airtel.tv/wh7f454c46tw1565302381_1163892044/PLTV/88888888/224/3221226479/01.m3u8
+#EXTINF:-1 group-title="India", Sony TV
+http://cshms3.airtel.tv/wh7f454c46tw2717373403_526904823/PLTV/88888888/224/3221225803/01.m3u8
+#EXTINF:-1 group-title="India", Zee Cinema
+http://cshms3.airtel.tv/PLTV/88888888/224/3221225935/01.m3u8
+#EXTINF:-1 group-title="India", Zee Classic
+http://cshms4.airtel.tv/PLTV/88888888/224/3221226067/01.m3u8
+#EXTINF:-1 group-title="India", Sony MAX
+http://cshms3.airtel.tv/PLTV/88888888/224/3221225811/02.m3u8
+#EXTINF:-1 group-title="India", Sony Sab
+http://cshms3.airtel.tv/PLTV/88888888/224/3221225825/01.m3u8
+#EXTINF:-1 group-title="India", B4U Movies
+http://cshms3.airtel.tv/PLTV/88888888/224/3221226118/01.m3u8
+#EXTINF:-1 group-title="India", SetMaX2
+http://cshms3.airtel.tv/PLTV/88888888/224/3221225812/01.m3u8
+#EXTINF:-1 group-title="India", SetWAH
+http://mhms9.airtel.tv/wh7f454c46tw175355988_1612456563/PLTV/88888888/224/3221226413/01.m3u8
+#EXTINF:-1 group-title="India", SetPAL
+http://mhms9.airtel.tv/wh7f454c46tw175355988_1612456563/PLTV/88888888/224/3221226200/04.m3u8
+#EXTINF:-1 group-title="India", AND TV
+http://cshms3.airtel.tv/wh7f454c46tw3798502344_146685544/PLTV/88888888/224/3221226048/01.m3u8
+#EXTINF:-1 group-title="India", AND Picture
+http://cshms3.airtel.tv/PLTV/88888888/224/3221226049/01.m3u8
+#EXTINF:-1 group-title="India", BIGMAGIC
+http://cshms3.airtel.tv/PLTV/88888888/224/3221225745/01.m3u8
+#EXTINF:-1 group-title="India", SONY MIX MUSIC
+http://cshms3.airtel.tv/PLTV/88888888/224/3221225816/01.m3u8
+#EXTINF:-1 group-title="India",Wow Hindi Music
+http://cshms3.airtel.tv/wh7f454c46tw2509066654_38357389/PLTV/88888888/224/3221226477/01.m3u8
+#EXTINF:-1 group-title="India", B4U Music
+http://cshms4.airtel.tv/wh7f454c46tw2783999742_1460436464/PLTV/88888888/224/3221226055/01.m3u8
+#EXTINF:-1 group-title="India", MASTII MUSIC
+http://54.255.155.24:1935//Live/_definst_/amlst:sweetbcha1novD254L240P/playlist.m3u8
+#EXTINF:-1 group-title="India", ZEE Anmol
+http://mhms9.airtel.tv/wh7f454c46tw1620127263_47575185/PLTV/88888888/224/3221226199/04.m3u8
+#EXTINF:-1 group-title="India", ZEE ETC
+http://mhms7.airtel.tv/wh7f454c46tw3349910653_749941675/PLTV/88888888/224/3221226353/01.m3u8
+#EXTINF:-1 group-title="India", ZEE Action
+http://mhms9.airtel.tv/wh7f454c46tw3857929647_579493363/PLTV/88888888/224/3221226331/06.m3u8
+#EXTINF:-1 group-title="India",ZEETV SD
+http://cshms3.airtel.tv/PLTV/88888888/224/3221225878/01.m3u8
+#EXTINF:-1 group-title="India", WOW Cinema
+http://mhms9.airtel.tv/wh7f454c46tw3857929647_579493363/PLTV/88888888/224/3221226263/06.m3u8
+#EXTINF:-1 group-title="India", Cinema TV
+http://mhms8.airtel.tv/wh7f454c46tw3749195007_759815032/PLTV/88888888/224/3221226246/06.m3u8
+#EXTINF:-1 group-title="India", B4u Movies
+http://cshms1.airtel.tv/wh7f454c46tw1856578274_592848553/PLTV/88888888/224/3221226118/01.m3u8
+#EXTINF:-1 group-title="India", Multiplex Movies
+http://mhms6.airtel.tv/wh7f454c46tw2556218885_1310146652/PLTV/88888888/224/3221226209/06.m3u8
+#EXTINF:-1 group-title="India",Maha Movie
+http://mhms9.airtel.tv/wh7f454c46tw3857929647_579493363/PLTV/88888888/224/3221226225/06.m3u8
+#EXTINF:-1 group-title="India", skystar movies
+http://mhms9.airtel.tv/wh7f454c46tw3857929647_579493363/PLTV/88888888/224/3221226215/06.m3u8
+#EXTINF:-1 group-title="India",Manoranjan Movies
+http://mhms9.airtel.tv/wh7f454c46tw3857929647_579493363/PLTV/88888888/224/3221226226/06.m3u8
+#EXTINF:-1 group-title="India",Manoranjan TV
+http://mhms9.airtel.tv/wh7f454c46tw3857929647_579493363/PLTV/88888888/224/3221226227/06.m3u8
+#EXTINF:-1 group-title="India", E24 TV
+http://cshms4.airtel.tv/PLTV/88888888/224/3221226010/01.m3u8
+#EXTINF:-1 group-title="India",9X Music
+http://cshms4.airtel.tv/PLTV/88888888/224/3221226053/01.m3u8
+#EXTINF:-1 group-title="India",9X JALWA
+http://cshms4.airtel.tv/PLTV/88888888/224/3221226011/01.m3u8
+#EXTINF:-1 group-title="India",ZING
+http://cshms4.airtel.tv/PLTV/88888888/224/3221226080/01.m3u8
+#EXTINF:-1 group-title="India", 9XO MUSIC
+http://cshms3.airtel.tv/PLTV/88888888/224/3221226028/01.m3u8
+#EXTINF:-1 group-title="India", Desi Channel
+http://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/playlist.m3u8
+#EXTINF:-1 group-title="India", FOOD FOOD TV
+http://cshms3.airtel.tv/PLTV/88888888/224/3221225836/01.m3u8
+#EXTINF:-1 group-title="India", Pitaara TV
+http://cshms3.airtel.tv/PLTV/88888888/224/3221226122/01.m3u8
+#EXTINF:-1 group-title="India", SONY TEN1 HD
+http://cshms3.airtel.tv/wh7f454c46tw2224230268_1388919955/PLTV/88888888/224/3221225875/01.m3u8
+#EXTINF:-1 group-title="India", SONY TEN2 HD
+http://cshms4.airtel.tv/PLTV/88888888/224/3221226077/01.m3u8
+#EXTINF:-1 group-title="India", SONY TEN3 HD
+http://cshms4.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226330/04.m3u8
+#EXTINF:-1 group-title="India", SONY SIX HD
+http://cshms4.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221225780/01.m3u8
+#EXTINF:-1 group-title="India", SONY ESPN HD
+http://cshms3.airtel.tv/wh7f454c46tw1200204061_952100745/PLTV/88888888/224/3221226076/01.m3u8
+#EXTINF:-1 group-title="India", SONY TEN1 SD
+http://cshms3.airtel.tv/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225931/01.m3u8
+#EXTINF:-1 group-title="India", SONY TEN2 SD
+http://cshms3.airtel.tv/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225932/01.m3u8
+#EXTINF:-1 group-title="India", SONY TEN3 SD
+http://cshms3.airtel.tv/wh7f454c46tw2717373403_526904823/PLTV/88888888/224/3221225933/01.m3u8
+#EXTINF:-1 group-title="India", SONY SIX SD
+http://cshms3.airtel.tv/wh7f454c46tw2717373403_526904823/PLTV/88888888/224/3221225827/01.m3u8
+#EXTINF:-1 group-title="India", SONY ESPN
+http://cshms3.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221225805/01.m3u8
+#EXTINF:-1 group-title="India", NeoPrime
+http://cshms4.airtel.tv/PLTV/88888888/224/3221225789/01.m3u8
+#EXTINF:-1 group-title="India", NeoSports
+http://cshms4.airtel.tv/PLTV/88888888/224/3221225791/01.m3u8
+#EXTINF:-1 group-title="India", DD Sports
+http://mhms9.airtel.tv/wh7f454c46tw872912663_877861895/PLTV/88888888/224/3221226346/01.m3u8
+#EXTINF:-1 group-title="India", DSports HD
+http://cshms4.airtel.tv/wh7f454c46tw2959729406_596421737/PLTV/88888888/224/3221226484/04.m3u8
+#EXTINF:-1 group-title="India", DSports L1
+http://mhms8.airtel.tv/wh7f454c46tw2201796875_990797628/PLTV/88888888/224/3221226392/06.m3u8
+#EXTINF:-1 group-title="India", DSports L2
+http://cshms4.airtel.tv/PLTV/88888888/224/3221226392/06.m3u8
+
