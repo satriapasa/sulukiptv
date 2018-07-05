@@ -1,609 +1,246 @@
 #EXTM3U sulukway
-#EXTINF:-1,## WELCOME SULUKWAY WC_2018 (INTRO DULU BRO) ##
-http://163.172.39.167:25461/live/KodiBalkan/r2Q7LMYnNn/5.ts
 
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",14.06.18 22.00 RUSSIA Vs ARAB SAUDI SONYTEN2
-http://cshms3.airtel.tv/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225932/01.m3u8
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",14.06.18 22.00 RUSSIA Vs ARAB SAUDI SONYTEN2HD
-http://cshms4.airtel.tv/PLTV/88888888/224/3221226077/01.m3u8
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",14.06.18 22.00 RUSSIA Vs ARAB SAUDI CANALE 5
-http://hlslive.msf.ticdn.it/hls/CH13/live.m3u8 
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",14.06.18 22.00 RUSSIA Vs ARAB SAUDI CANALE 5
-http://live1-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch01)/Stream(04)/index.m3u8  
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",14.06.18 22.00 RUSSIA Vs ARAB SAUDI ITV
-https://ovh.easyview.eu/hls/itv.m3u8  
-
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",15.06.18 19.00 MESIR Vs URUGUAY SONYTEN2
-http://cshms3.airtel.tv/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225932/01.m3u8
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",15.06.18 19.00 MESIR Vs URUGUAY SONYTEN2HD
-http://cshms4.airtel.tv/PLTV/88888888/224/3221226077/01.m3u8
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",15.06.18 19.00 MESIR Vs URUGUAY ITALIA1
-http://hlslive.msf.ticdn.it/hls/CH14/live.m3u8   
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",15.06.18 19.00 MESIR Vs URUGUAY BBC ONE
-https://ovh.easyview.eu/hls/bbc1.m3u8
-
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",15.06.18 22.00 MAROKO Vs IRAN SONYTEN2
-http://cshms3.airtel.tv/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225932/01.m3u8
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",15.06.18 22.00 MAROKO Vs IRAN SONYTEN2HD
-http://cshms4.airtel.tv/PLTV/88888888/224/3221226077/01.m3u8
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",15.06.18 22.00 MAROKO Vs IRAN ITALIA1
-http://hlslive.msf.ticdn.it/hls/CH14/live.m3u8     
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",15.06.18 22.00 MAROKO Vs IRAN ITV
-https://ovh.easyview.eu/hls/itv.m3u8 
-
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",16.06.18 01.00 PORTUGAL Vs SPANYOL SONYTEN2
-http://cshms3.airtel.tv/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225932/01.m3u8
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",16.06.18 01.00 PORTUGAL Vs SPANYOL SONYTEN2HD
-http://cshms4.airtel.tv/PLTV/88888888/224/3221226077/01.m3u8
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",16.06.18 01.00 PORTUGAL Vs SPANYOL CANALE 5
-http://hlslive.msf.ticdn.it/hls/CH13/live.m3u8
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",16.06.18 01.00 PORTUGAL Vs SPANYOL CANALE 5
-http://live1-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch01)/Stream(04)/index.m3u8
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",16.06.18 01.00 PORTUGAL Vs SPANYOL BBC ONE
-https://ovh.easyview.eu/hls/bbc1.m3u8 
-  
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",16.06.18 17.00 PERANCIS Vs AUSTRALIA SONYTEN2
-http://cshms3.airtel.tv/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225932/01.m3u8
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",16.06.18 17.00 PERANCIS Vs AUSTRALIA SONYTEN2HD
-http://cshms4.airtel.tv/PLTV/88888888/224/3221226077/01.m3u8
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",16.06.18 17.00 PERANCIS Vs AUSTRALIA ITALIA1
-http://hlslive.msf.ticdn.it/hls/CH14/live.m3u8     
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",16.06.18 17.00 PERANCIS Vs AUSTRALIA BBC ONE
-https://ovh.easyview.eu/hls/bbc1.m3u8
-
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",16.06.18 20.00 ARGENTINA Vs ICELAND SONYTEN2
-http://cshms3.airtel.tv/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225932/01.m3u8
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",16.06.18 20.00 ARGENTINA Vs ICELAND SONYTEN2HD
-http://cshms4.airtel.tv/PLTV/88888888/224/3221226077/01.m3u8
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",16.06.18 20.00 ARGENTINA Vs ICELAND ITALIA1
-http://hlslive.msf.ticdn.it/hls/CH14/live.m3u8
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",16.06.18 20.00 ARGENTINA Vs ICELAND ITV
-https://ovh.easyview.eu/hls/itv.m3u8  
-  
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",16.06.18 23.00 PERU Vs DENMARK SONYTEN2
-http://cshms3.airtel.tv/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225932/01.m3u8
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",16.06.18 23.00 PERU Vs DENMARK SONYTEN2HD
-http://cshms4.airtel.tv/PLTV/88888888/224/3221226077/01.m3u8
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",16.06.18 23.00 PERU Vs DENMARK ITALIA1
-http://hlslive.msf.ticdn.it/hls/CH14/live.m3u8     
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",16.06.18 23.00 PERU Vs DENMARK BBC ONE
-https://ovh.easyview.eu/hls/bbc1.m3u8 
-  
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",17.06.18 02.00 KROASIA Vs NIGERIA SONYTEN2
-http://cshms3.airtel.tv/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225932/01.m3u8
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",17.06.18 02.00 KROASIA Vs NIGERIA SONYTEN2HD
-http://cshms4.airtel.tv/PLTV/88888888/224/3221226077/01.m3u8
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",17.06.18 02.00 KROASIA Vs NIGERIA ITALIA1
-http://hlslive.msf.ticdn.it/hls/CH14/live.m3u8
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",17.06.18 02.00 KROASIA Vs NIGERIA ITV
-https://ovh.easyview.eu/hls/itv.m3u8
-  
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",17.06.18 19.00 COSTA RICA Vs SERBIA SONYTEN2
-http://cshms3.airtel.tv/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225932/01.m3u8
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",17.06.18 19.00 COSTA RICA Vs SERBIA SONYTEN2HD
-http://cshms4.airtel.tv/PLTV/88888888/224/3221226077/01.m3u8
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",17.06.18 19.00 COSTA RICA Vs SERBIA ITALIA1
-http://hlslive.msf.ticdn.it/hls/CH14/live.m3u8
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",17.06.18 19.00 COSTA RICA Vs SERBIA ITV
-https://ovh.easyview.eu/hls/itv.m3u8 
-  
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",17.06.18 22.00 JERMAN Vs MEXICO SONYTEN2
-http://cshms3.airtel.tv/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225932/01.m3u8
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",17.06.18 22.00 JERMAN Vs MEXICO SONYTEN2HD
-http://cshms4.airtel.tv/PLTV/88888888/224/3221226077/01.m3u8
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",17.06.18 22.00 JERMAN Vs MEXICO ITALIA1
-http://hlslive.msf.ticdn.it/hls/CH14/live.m3u8   
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",17.06.18 22.00 JERMAN Vs MEXICO BBC ONE
-https://ovh.easyview.eu/hls/bbc1.m3u8
-  
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",18.06.18 01.00 BRASIL Vs SWISS SONYTEN2
-http://cshms3.airtel.tv/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225932/01.m3u8
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",18.06.18 01.00 BRASIL Vs SWISS SONYTEN2HD
-http://cshms4.airtel.tv/PLTV/88888888/224/3221226077/01.m3u8
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",18.06.18 01.00 BRASIL Vs SWISS CANALE 5
-http://hlslive.msf.ticdn.it/hls/CH13/live.m3u8 
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",18.06.18 01.00 BRASIL Vs SWISS CANALE 5
-http://live1-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch01)/Stream(04)/index.m3u8  
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",18.06.18 01.00 BRASIL Vs SWISS ITV
-https://ovh.easyview.eu/hls/itv.m3u8 
-  
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",18.06.18 19.00 SWISS Vs KORSEL SONYTEN2
-http://cshms3.airtel.tv/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225932/01.m3u8
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",18.06.18 19.00 SWISS Vs KORSEL SONYTEN2HD
-http://cshms4.airtel.tv/PLTV/88888888/224/3221226077/01.m3u8
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",18.06.18 19.00 SWISS Vs KORSEL ITALIA1
-http://hlslive.msf.ticdn.it/hls/CH14/live.m3u8
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",18.06.18 19.00 SWISS Vs KORSEL ITV
-https://ovh.easyview.eu/hls/itv.m3u8
-
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",18.06.18 22.00 BELGIA Vs PANAMA SONYTEN2
-http://cshms3.airtel.tv/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225932/01.m3u8
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",18.06.18 22.00 BELGIA Vs PANAMA SONYTEN2HD
-http://cshms4.airtel.tv/PLTV/88888888/224/3221226077/01.m3u8
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",18.06.18 22.00 BELGIA Vs PANAMA ITALIA1
-http://hlslive.msf.ticdn.it/hls/CH14/live.m3u8   
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",18.06.18 22.00 BELGIA Vs PANAMA BBC ONE
-https://ovh.easyview.eu/hls/bbc1.m3u8
-  
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",19.06.18 01.00 TUNISIA Vs INGGRIS SONYTEN2
-http://cshms3.airtel.tv/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225932/01.m3u8
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",19.06.18 01.00 TUNISIA Vs INGGRIS SONYTEN2HD
-http://cshms4.airtel.tv/PLTV/88888888/224/3221226077/01.m3u8
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",19.06.18 01.00 TUNISIA Vs INGGRIS ITALIA1
-http://hlslive.msf.ticdn.it/hls/CH14/live.m3u8   
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",19.06.18 01.00 TUNISIA Vs INGGRIS BBC ONE
-https://ovh.easyview.eu/hls/bbc1.m3u8
- 
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",19.06.18 19.00 COLOMBIA Vs JEPANG SONYTEN2
-http://cshms3.airtel.tv/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225932/01.m3u8
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",19.06.18 19.00 COLOMBIA Vs JEPANG SONYTEN2HD
-http://cshms4.airtel.tv/PLTV/88888888/224/3221226077/01.m3u8
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",19.06.18 19.00 COLOMBIA Vs JEPANG ITALIA1
-http://hlslive.msf.ticdn.it/hls/CH14/live.m3u8   
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",19.06.18 19.00 COLOMBIA Vs JEPANG BBC ONE
-https://ovh.easyview.eu/hls/bbc1.m3u8
- 
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",19.06.18 22.00 POLANDIA Vs SENEGAL SONYTEN2
-http://cshms3.airtel.tv/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225932/01.m3u8
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",19.06.18 22.00 POLANDIA Vs SENEGAL SONYTEN2HD
-http://cshms4.airtel.tv/PLTV/88888888/224/3221226077/01.m3u8
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",19.06.18 22.00 POLANDIA Vs SENEGAL ITALIA1
-http://hlslive.msf.ticdn.it/hls/CH14/live.m3u8
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",19.06.18 22.00 POLANDIA Vs SENEGAL ITV
-https://ovh.easyview.eu/hls/itv.m3u8
-
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",20.06.18 01.00 RUSSIA Vs MESIR SONYTEN2
-http://cshms3.airtel.tv/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225932/01.m3u8
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",20.06.18 01.00 RUSSIA Vs MESIR SONYTEN2HD
-http://cshms4.airtel.tv/PLTV/88888888/224/3221226077/01.m3u8
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",20.06.18 01.00 RUSSIA Vs MESIR ITALIA1
-http://hlslive.msf.ticdn.it/hls/CH14/live.m3u8  
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",20.06.18 01.00 RUSSIA Vs MESIR BBC ONE
-https://ovh.easyview.eu/hls/bbc1.m3u8
-
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",20.06.18 19.00 PORTUGAL Vs MAROKO SONYTEN2
-http://cshms3.airtel.tv/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225932/01.m3u8
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",20.06.18 19.00 PORTUGAL Vs MAROKO SONYTEN2HD
-http://cshms4.airtel.tv/PLTV/88888888/224/3221226077/01.m3u8
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",20.06.18 19.00 PORTUGAL Vs MAROKO ITALIA1
-http://hlslive.msf.ticdn.it/hls/CH14/live.m3u8  
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",20.06.18 19.00 PORTUGAL Vs MAROKO BBC ONE
-https://ovh.easyview.eu/hls/bbc1.m3u8
-
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",20.06.18 22.00 URUGUAY Vs ARAB SAUDI SONYTEN2
-http://cshms3.airtel.tv/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225932/01.m3u8
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",20.06.18 22.00 URUGUAY Vs ARAB SAUDI SONYTEN2HD
-http://cshms4.airtel.tv/PLTV/88888888/224/3221226077/01.m3u8
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",20.06.18 22.00 URUGUAY Vs ARAB SAUDI ITALIA1
-http://hlslive.msf.ticdn.it/hls/CH14/live.m3u8  
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",20.06.18 22.00 URUGUAY Vs ARAB SAUDI BBC ONE
-https://ovh.easyview.eu/hls/bbc1.m3u8
- 
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",21.06.18 01.00 IRAN Vs SPANYOL SONYTEN2
-http://cshms3.airtel.tv/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225932/01.m3u8
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",21.06.18 01.00 IRAN Vs SPANYOL SONYTEN2HD
-http://cshms4.airtel.tv/PLTV/88888888/224/3221226077/01.m3u8
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",21.06.18 01.00 IRAN Vs SPANYOL ITALIA1
-http://hlslive.msf.ticdn.it/hls/CH14/live.m3u8  
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",21.06.18 01.00 IRAN Vs SPANYOL ITV
-https://ovh.easyview.eu/hls/itv.m3u8   
-
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",21.06.18 19.00 DENMARK vs AUSTRALIA SONYTEN2
-http://cshms3.airtel.tv/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225932/01.m3u8
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",21.06.18 19.00 DENMARK vs AUSTRALIA SONYTEN2HD
-http://cshms4.airtel.tv/PLTV/88888888/224/3221226077/01.m3u8
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",21.06.18 19.00 DENMARK vs AUSTRALIA ITV
-https://ovh.easyview.eu/hls/itv.m3u8  
-
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",21.06.18 22.00 PERANCIS vs PERU SONYTEN2
-http://cshms3.airtel.tv/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225932/01.m3u8
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",21.06.18 22.00 PERANCIS vs PERU SONYTEN2HD
-http://cshms4.airtel.tv/PLTV/88888888/224/3221226077/01.m3u8
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",21.06.18 22.00 PERANCIS vs PERU ITV
-https://ovh.easyview.eu/hls/itv.m3u8  
-
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",22.06.18 01.00 ARGENTINA vs KROASIA SONYTEN2
-http://cshms3.airtel.tv/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225932/01.m3u8
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",22.06.18 01.00 ARGENTINA vs KROASIA SONYTEN2HD
-http://cshms4.airtel.tv/PLTV/88888888/224/3221226077/01.m3u8
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",22.06.18 01.00 ARGENTINA vs KROASIA BBC ONE
-https://ovh.easyview.eu/hls/bbc1.m3u8 
-
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",22.06.18 19.00 BRAZIL vs COSTA RICA SONYTEN2
-http://cshms3.airtel.tv/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225932/01.m3u8
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",22.06.18 19.00 BRAZIL vs COSTA RICA SONYTEN2HD
-http://cshms4.airtel.tv/PLTV/88888888/224/3221226077/01.m3u8
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",22.06.18 19.00 BRAZIL vs COSTA RICA ITV
-https://ovh.easyview.eu/hls/itv.m3u8  
-
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",22.06.18 22.00 NIGERIA vs ISLANDIA SONYTEN2
-http://cshms3.airtel.tv/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225932/01.m3u8
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",22.06.18 22.00 NIGERIA vs ISLANDIA SONYTEN2HD
-http://cshms4.airtel.tv/PLTV/88888888/224/3221226077/01.m3u8
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",22.06.18 22.00 NIGERIA vs ISLANDIA BBC ONE
-https://ovh.easyview.eu/hls/bbc1.m3u8 
- 
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",23.06.18 01.00 SERBIA vs SWISS SONYTEN2
-http://cshms3.airtel.tv/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225932/01.m3u8
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",23.06.18 01.00 SERBIA vs SWISS SONYTEN2HD
-http://cshms4.airtel.tv/PLTV/88888888/224/3221226077/01.m3u8
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",23.06.18 01.00 SERBIA vs SWISS BBC ONE
-https://ovh.easyview.eu/hls/bbc1.m3u8
- 
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",23.06.18 19.00 BELGIA vs TUNISIA SONYTEN2
-http://cshms3.airtel.tv/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225932/01.m3u8
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",23.06.18 19.00 BELGIA vs TUNISIA SONYTEN2HD
-http://cshms4.airtel.tv/PLTV/88888888/224/3221226077/01.m3u8
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",23.06.18 19.00 BELGIA vs TUNISIA BBC ONE
-https://ovh.easyview.eu/hls/bbc1.m3u8 
- 
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",23.06.18 22.00 KORSEL vs MEXICO SONYTEN2
-http://cshms3.airtel.tv/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225932/01.m3u8
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",23.06.18 22.00 KORSEL vs MEXICO SONYTEN2HD
-http://cshms4.airtel.tv/PLTV/88888888/224/3221226077/01.m3u8
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",23.06.18 22.00 KORSEL vs MEXICO ITV
-https://ovh.easyview.eu/hls/itv.m3u8  
-
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",24.06.18 01.00 JERMAN vs SWEDIA SONYTEN2
-http://cshms3.airtel.tv/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225932/01.m3u8
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",24.06.18 01.00 JERMAN vs SWEDIA SONYTEN2HD
-http://cshms4.airtel.tv/PLTV/88888888/224/3221226077/01.m3u8
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",24.06.18 01.00 JERMAN vs SWEDIA ITV
-https://ovh.easyview.eu/hls/itv.m3u8  
-
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",24.06.18 19.00 INGGRIS vs PANAMA SONYTEN2
-http://cshms3.airtel.tv/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225932/01.m3u8
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",24.06.18 19.00 INGGRIS vs PANAMA SONYTEN2HD
-http://cshms4.airtel.tv/PLTV/88888888/224/3221226077/01.m3u8
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",24.06.18 19.00 INGGRIS vs PANAMA BBC ONE
-https://ovh.easyview.eu/hls/bbc1.m3u8
-
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",24.06.18 22.00 JEPANG vs SENEGAL SONYTEN2
-http://cshms3.airtel.tv/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225932/01.m3u8
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",24.06.18 22.00 JEPANG vs SENEGAL SONYTEN2HD
-http://cshms4.airtel.tv/PLTV/88888888/224/3221226077/01.m3u8
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",24.06.18 22.00 JEPANG vs SENEGAL BBC ONE
-https://ovh.easyview.eu/hls/bbc1.m3u8
- 
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",25.06.18 01.00 POLANDIAvs KOLOMBIA SONYTEN2
-http://cshms3.airtel.tv/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225932/01.m3u8
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",25.06.18 01.00 POLANDIAvs KOLOMBIA SONYTEN2HD
-http://cshms4.airtel.tv/PLTV/88888888/224/3221226077/01.m3u8
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",25.06.18 01.00 POLANDIAvs KOLOMBIA ITV
-https://ovh.easyview.eu/hls/itv.m3u8  
-
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",25.06.18 21.00 URUGUAY vs RUSIA SONYTEN2
-http://cshms3.airtel.tv/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225932/01.m3u8
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",25.06.18 21.00 URUGUAY vs RUSIA SONYTEN2HD
-http://cshms4.airtel.tv/PLTV/88888888/224/3221226077/01.m3u8
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",25.06.18 21.00 URUGUAY vs RUSIA ITV
-https://ovh.easyview.eu/hls/itv.m3u8 
-
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",25.06.18 21.00 ARAB SAUDI Vs MESIR SONYTEN2
-http://cshms3.airtel.tv/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225932/01.m3u8
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",25.06.18 21.00 ARAB SAUDI Vs MESIR SONYTEN2HD
-http://cshms4.airtel.tv/PLTV/88888888/224/3221226077/01.m3u8
-
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",26.06.18 01.00 IRAN Vs PORTUGAL SONYTEN2
-http://cshms3.airtel.tv/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225932/01.m3u8
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",26.06.18 01.00 IRAN Vs PORTUGAL SONYTEN2HD
-http://cshms4.airtel.tv/PLTV/88888888/224/3221226077/01.m3u8
-
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",26.06.18 01.00 SPANYOL Vs MAROKO SONYTEN2
-http://cshms3.airtel.tv/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225932/01.m3u8
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",26.06.18 01.00 SPANYOL Vs MAROKO SONYTEN2HD
-http://cshms4.airtel.tv/PLTV/88888888/224/3221226077/01.m3u8
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",26.06.18 01.00 SPANYOL Vs MAROKO ITALIA1
-http://hlslive.msf.ticdn.it/hls/CH14/live.m3u8
-
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",26.06.18 21.00 DENMARK vs PERANCIS SONYTEN2
-http://cshms3.airtel.tv/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225932/01.m3u8
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",26.06.18 21.00 DENMARK vs PERANCIS SONYTEN2HD
-http://cshms4.airtel.tv/PLTV/88888888/224/3221226077/01.m3u8
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",26.06.18 21.00 DENMARK vs PERANCIS ITV
-https://ovh.easyview.eu/hls/itv.m3u8  
-
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",26.06.18 21.00 AUSTRALIA Vs PERU SONYTEN2
-http://cshms3.airtel.tv/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225932/01.m3u8
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",26.06.18 21.00 AUSTRALIA Vs PERU SONYTEN2HD
-http://cshms4.airtel.tv/PLTV/88888888/224/3221226077/01.m3u8
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",26.06.18 21.00 AUSTRALIA Vs PERU ITV4
-https://ovh.easyview.eu/hls/itv4.m3u8 
-  
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",27.06.18 01.00 NIGERIA Vs ARGENTINA SONYTEN2
-http://cshms3.airtel.tv/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225932/01.m3u8
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",27.06.18 01.00 NIGERIA Vs ARGENTINA SONYTEN2HD
-http://cshms4.airtel.tv/PLTV/88888888/224/3221226077/01.m3u8
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",27.06.18 01.00 NIGERIA Vs ARGENTINA ITALIA1
-http://hlslive.msf.ticdn.it/hls/CH14/live.m3u8
-
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",27.06.18 01.00 ISLANDIA Vs KROASIA SONYTEN2
-http://cshms3.airtel.tv/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225932/01.m3u8
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",27.06.18 01.00 ISLANDIA Vs KROASIA SONYTEN2HD
-http://cshms4.airtel.tv/PLTV/88888888/224/3221226077/01.m3u8
-
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",27.06.18 21.00 KORSEL Vs JERMAN SONYTEN2
-http://cshms3.airtel.tv/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225932/01.m3u8
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",27.06.18 21.00 KORSEL Vs JERMAN SONYTEN2HD
-http://cshms4.airtel.tv/PLTV/88888888/224/3221226077/01.m3u8
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",27.06.18 21.00 KORSEL Vs JERMAN ITALIA1
-http://hlslive.msf.ticdn.it/hls/CH14/live.m3u8
-
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",27.06.18 21.00 MEXICO Vs SWEDIA SONYTEN2
-http://cshms3.airtel.tv/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225932/01.m3u8
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",27.06.18 21.00 MEXICO Vs SWEDIA SONYTEN2HD
-http://cshms4.airtel.tv/PLTV/88888888/224/3221226077/01.m3u8
-
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",28.06.18 01.00 SERBIA Vs BRASIL SONYTEN2
-http://cshms3.airtel.tv/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225932/01.m3u8
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",28.06.18 01.00 SERBIA Vs BRASIL SONYTEN2HD
-http://cshms4.airtel.tv/PLTV/88888888/224/3221226077/01.m3u8
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",28.06.18 01.00 SERBIA Vs BRASIL ITALIA1
-http://hlslive.msf.ticdn.it/hls/CH14/live.m3u8
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",28.06.18 01.00 SERBIA Vs BRASIL ITV
-https://ovh.easyview.eu/hls/itv.m3u8 
-
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",28.06.18 01.00 SWISS Vs COSTA RICA SONYTEN2
-http://cshms3.airtel.tv/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225932/01.m3u8
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",28.06.18 01.00 SWISS Vs COSTA RICA SONYTEN2HD
-http://cshms4.airtel.tv/PLTV/88888888/224/3221226077/01.m3u8
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",28.06.18 01.00 SWISS Vs COSTA RICA ITV4
-https://ovh.easyview.eu/hls/itv4.m3u8
-
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",28.06.18 21.00 JEPANG Vs POLANDIASONYTEN2
-http://cshms3.airtel.tv/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225932/01.m3u8
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",28.06.18 21.00 JEPANG Vs POLANDIASONYTEN2HD
-http://cshms4.airtel.tv/PLTV/88888888/224/3221226077/01.m3u8
-
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",28.06.18 21.00 SENEGAL Vs COLOMBIA SONYTEN2
-http://cshms3.airtel.tv/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225932/01.m3u8
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",28.06.18 21.00 SENEGAL Vs COLOMBIA SONYTEN2HD
-http://cshms4.airtel.tv/PLTV/88888888/224/3221226077/01.m3u8
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",28.06.18 21.00 SENEGAL Vs COLOMBIA ITALIA1
-http://hlslive.msf.ticdn.it/hls/CH14/live.m3u8
-
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",29.06.18 01.00 INGGRIS Vs BELGIA SONYTEN2
-http://cshms3.airtel.tv/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225932/01.m3u8
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",29.06.18 01.00 INGGRIS Vs BELGIA SONYTEN2HD
-http://cshms4.airtel.tv/PLTV/88888888/224/3221226077/01.m3u8
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",29.06.18 01.00 INGGRIS Vs BELGIA ITALIA1
-http://hlslive.msf.ticdn.it/hls/CH14/live.m3u8
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",29.06.18 01.00 INGGRIS Vs BELGIA ITV
-https://ovh.easyview.eu/hls/itv.m3u8
-  
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",29.06.18 01.00 PANAMA Vs TUNISIA SONYTEN2
-http://cshms3.airtel.tv/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225932/01.m3u8
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",29.06.18 01.00 PANAMA Vs TUNISIA SONYTEN2HD
-http://cshms4.airtel.tv/PLTV/88888888/224/3221226077/01.m3u8
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",29.06.18 01.00 PANAMA Vs TUNISIA ITV4
-https://ovh.easyview.eu/hls/itv4.m3u8
-
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",30.06.18 21.00 GRUP C Vs GRUP D(Babak  1/8) SONYTEN2
-http://cshms3.airtel.tv/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225932/01.m3u8
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",30.06.18 21.00 GRUP C Vs GRUP D(Babak  1/8) SONYTEN2HD
-http://cshms4.airtel.tv/PLTV/88888888/224/3221226077/01.m3u8
-
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",01.07.18 01.00 GRUP A Vs GRUP B(Babak  1/8) SONYTEN2
-http://cshms3.airtel.tv/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225932/01.m3u8
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",01.07.18 01.00 GRUP A Vs GRUP B(Babak  1/8) SONYTEN2HD
-http://cshms4.airtel.tv/PLTV/88888888/224/3221226077/01.m3u8
-
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",01.07.18 21.00 GRUP B Vs GRUP A(Babak  1/8) SONYTEN2
-http://cshms3.airtel.tv/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225932/01.m3u8
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",01.07.18 21.00 GRUP B Vs GRUP A(Babak  1/8) SONYTEN2HD
-http://cshms4.airtel.tv/PLTV/88888888/224/3221226077/01.m3u8
-
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",02.07.18 01.00 GRUP D Vs GRUP C(Babak  1/8) SONYTEN2
-http://cshms3.airtel.tv/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225932/01.m3u8
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",02.07.18 01.00 GRUP D Vs GRUP C(Babak  1/8) SONYTEN2HD
-http://cshms4.airtel.tv/PLTV/88888888/224/3221226077/01.m3u8
-
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",02.07.18 21.00 GRUP E Vs GRUP F(Babak  1/8) SONYTEN2
-http://cshms3.airtel.tv/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225932/01.m3u8
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",02.07.18 21.00 GRUP E Vs GRUP F(Babak  1/8) SONYTEN2HD
-http://cshms4.airtel.tv/PLTV/88888888/224/3221226077/01.m3u8
-
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",03.07.18 01.00 GRUP G Vs GRUP H(Babak  1/8) SONYTEN2
-http://cshms3.airtel.tv/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225932/01.m3u8
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",03.07.18 01.00 GRUP G Vs GRUP H(Babak  1/8) SONYTEN2HD
-http://cshms4.airtel.tv/PLTV/88888888/224/3221226077/01.m3u8
-
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",03.07.18 21.00 GRUP F Vs GRUP E(Babak  1/8) SONYTEN2
-http://cshms3.airtel.tv/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225932/01.m3u8
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",03.07.18 21.00 GRUP F Vs GRUP E(Babak  1/8) SONYTEN2HD
-http://cshms4.airtel.tv/PLTV/88888888/224/3221226077/01.m3u8
-
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",04.07.18 01.00 GRUP H Vs GRUP G(Babak  1/8) SONYTEN2
-http://cshms3.airtel.tv/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225932/01.m3u8
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",04.07.18 01.00 GRUP H Vs GRUP G(Babak  1/8) SONYTEN2HD
-http://cshms4.airtel.tv/PLTV/88888888/224/3221226077/01.m3u8
-
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",06.07.18 21.00 QF1 Vs QF2(Per4 final) SONYTEN2
-http://cshms3.airtel.tv/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225932/01.m3u8
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",06.07.18 21.00 QF1 Vs QF2(Per4 final) SONYTEN2HD
-http://cshms4.airtel.tv/PLTV/88888888/224/3221226077/01.m3u8
-
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",07.07.18 01.00 QF5 Vs QF6(Per4 final) SONYTEN2
-http://cshms3.airtel.tv/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225932/01.m3u8
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",07.07.18 01.00 QF5 Vs QF6(Per4 final) SONYTEN2HD
-http://cshms4.airtel.tv/PLTV/88888888/224/3221226077/01.m3u8
-
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",07.07.18 19.00 QF7 Vs QF8(Per4 final) SONYTEN2
-http://cshms3.airtel.tv/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225932/01.m3u8
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",07.07.18 19.00 QF7 Vs QF8(Per4 final) SONYTEN2HD
-http://cshms4.airtel.tv/PLTV/88888888/224/3221226077/01.m3u8
-
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",08.07.18 01.00 QF3 Vs QF4(Per4 final) SONYTEN2
-http://cshms3.airtel.tv/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225932/01.m3u8
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",08.07.18 01.00 QF3 Vs QF4(Per4 final) SONYTEN2HD
-http://cshms4.airtel.tv/PLTV/88888888/224/3221226077/01.m3u8
-
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",11.07.18 01.00 SF1 Vs SF2(Semi-final) SONYTEN2
-http://cshms3.airtel.tv/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225932/01.m3u8
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",11.07.18 01.00 SF1 Vs SF2(Semi-final) SONYTEN2HD
-http://cshms4.airtel.tv/PLTV/88888888/224/3221226077/01.m3u8
-
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",12.07.18 01.00 SF3 Vs SF4(Semi-final) SONYTEN2
-http://cshms3.airtel.tv/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225932/01.m3u8
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",12.07.18 01.00 SF3 Vs SF4(Semi-final) SONYTEN2HD
-http://cshms4.airtel.tv/PLTV/88888888/224/3221226077/01.m3u8
-
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",14.07.18 21.00(Final Juara 3) SONYTEN2
-http://cshms3.airtel.tv/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225932/01.m3u8
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",14.07.18 21.00(Final Juara 3) SONYTEN2HD
-http://cshms4.airtel.tv/PLTV/88888888/224/3221226077/01.m3u8
-
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",15.07.18 22.00(Final) SONYTEN2
-http://cshms3.airtel.tv/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225932/01.m3u8
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",15.07.18 22.00(Final) SONYTEN2HD
-http://cshms4.airtel.tv/PLTV/88888888/224/3221226077/01.m3u8
-#EXTINF:-1 group-title="FIFA 2018" tvg-logo="https://s31.postimg.cc/wks66q52z/fifa2018.jpg",15.07.18 22.00(Final) BBC ONE
-https://ovh.easyview.eu/hls/bbc1.m3u8
-
-#EXTINF:-1 group-title="SPORT",SKY SPORT 1 HD
+#EXTINF:-1,Suluk®→SONY TEN 1 HD
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225875/index.m3u8
+#EXTINF:-1,Suluk®→SONY TEN 2 HD
+http://mhms9.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226077/index.m3u8
+#EXTINF:-1,Suluk®→SONY TEN 3 HD
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226330/index.m3u8
+#EXTINF:-1,Suluk®→SONY ESPN HD 
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226076/index.m3u8
+#EXTINF:-1,Suluk®→SONY SIX HD
+http://cshms4.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221225780/index.m3u8
+#EXTINF:-1,Suluk®→beoutQHD1
+http://pro.smartgotv.com:8005/live/123456/123456/11024.ts
+#EXTINF:-1,Suluk®→beoutQHD2
+http://pro.smartgotv.com:8005/live/123456/123456/11023.ts
+#EXTINF:-1,Suluk®→beoutQHD3
+http://pro.smartgotv.com:8005/live/123456/123456/11022.ts
+#EXTINF:-1,Suluk®→beoutQHD4
+http://pro.smartgotv.com:8005/live/123456/123456/11021.ts
+#EXTINF:-1,Suluk®→beoutQHD5
+http://pro.smartgotv.com:8005/live/123456/123456/11020.ts
+#EXTINF:-1,Suluk®→beoutQHD6
+http://pro.smartgotv.com:8005/live/123456/123456/11019.ts
+#EXTINF:-1,Suluk®→beoutQ SPORTS MAX HD1
+http://pro.smartgotv.com:8005/live/123456/123456/11559.ts
+#EXTINF:-1,Suluk®→beoutQ SPORTS MAX HD2
+http://pro.smartgotv.com:8005/live/123456/123456/11560.ts
+#EXTINF:-1,Suluk®→beoutQ SPORTS MAX HD3
+http://pro.smartgotv.com:8005/live/123456/123456/11617.ts
+#EXTINF:-1,Suluk®→beIN-SPORTS HD1
+http://pro.smartgotv.com:8005/live/123456/123456/3066.ts
+#EXTINF:-1,Suluk®→beIN-SPORTS HD2
+http://pro.smartgotv.com:8005/live/123456/123456/3065.ts
+#EXTINF:-1,Suluk®→beIN-SPORTS HD3
+http://pro.smartgotv.com:8005/live/123456/123456/3064.ts
+#EXTINF:-1,Suluk®→beIN-SPORTS HD4
+http://pro.smartgotv.com:8005/live/123456/123456/3063.ts
+#EXTINF:-1,Suluk®→beIN-SPORTS HD5
+http://pro.smartgotv.com:8005/live/123456/123456/3062.ts
+#EXTINF:-1,Suluk®→beIN-SPORTS HD6
+http://pro.smartgotv.com:8005/live/123456/123456/3061.ts
+#EXTINF:-1,Suluk®→beIN-SPORTS HD7
+http://pro.smartgotv.com:8005/live/123456/123456/3060.ts
+#EXTINF:-1,Suluk®→beIN-SPORTS HD8
+http://pro.smartgotv.com:8005/live/123456/123456/3059.ts
+#EXTINF:-1,Suluk®→beIN-SPORTS HD9
+http://pro.smartgotv.com:8005/live/123456/123456/3058.ts
+#EXTINF:-1,Suluk®→beIN-SPORTS HD10
+http://pro.smartgotv.com:8005/live/123456/123456/3057.ts
+#EXTINF:-1,Suluk®→beIN_SPORTS_11HD
+http://pro.smartgotv.com:8005/live/123456/123456/8259.ts
+#EXTINF:-1,Suluk®→beIN_SPORTS_12HD
+http://pro.smartgotv.com:8005/live/123456/123456/8260.ts
+#EXTINF:-1,Suluk®→beIN_MOVIES-1 HD
+http://pro.smartgotv.com:8005/live/123456/123456/1474.ts
+#EXTINF:-1,Suluk®→beIN_MOVIES-2 HD
+http://pro.smartgotv.com:8005/live/123456/123456/1473.ts
+#EXTINF:-1,Suluk®→beIN_MOVIES-3 HD
+http://pro.smartgotv.com:8005/live/123456/123456/1472.ts
+#EXTINF:-1,Suluk®→beIN_MOVIES-4 HD
+http://pro.smartgotv.com:8005/live/123456/123456/1471.ts
+#EXTINF:-1,Suluk®→beIN-SPORTS HD
+http://pro.smartgotv.com:8005/live/123456/123456/3046.ts
+#EXTINF:-1,Suluk®→beIN SPORTS 4k
+http://pro.smartgotv.com:8005/live/123456/123456/11568.ts
+#EXTINF:-1,Suluk®→beIN SPORTS 4k #H.265
+http://pro.smartgotv.com:8005/live/123456/123456/11569.ts
+#EXTINF:-1,Suluk®→beIN-SPORTS-MAX HD1
+http://pro.smartgotv.com:8005/live/123456/123456/3049.ts
+#EXTINF:-1,Suluk®→beIN-SPORTS-MAX HD2
+http://pro.smartgotv.com:8005/live/123456/123456/3048.ts
+#EXTINF:-1,Suluk®→beIN-SPORTS-MAX HD3
+http://pro.smartgotv.com:8005/live/123456/123456/11515.ts
+#EXTINF:-1,Suluk®→beIN-SPORTS-MAX HD4
+http://pro.smartgotv.com:8005/live/123456/123456/11516.ts
+#EXTINF:-1,Suluk®→beIN-SPORTS-MAX HD1²
+http://pro.smartgotv.com:8005/live/123456/123456/11567.ts
+#EXTINF:-1,Suluk®→beIN-SPORTS-MAX HD2²
+http://pro.smartgotv.com:8005/live/123456/123456/11530.ts
+#EXTINF:-1,Suluk®→FOX_HD
+http://pro.smartgotv.com:8005/live/123456/123456/2252.ts
+#EXTINF:-1,Suluk®→W.Cup: TF1 4k
+http://pro.smartgotv.com:8005/live/123456/123456/11613.ts
+#EXTINF:-1,Suluk®→W.Cup: TF1 4k (low)
+http://pro.smartgotv.com:8005/live/123456/123456/11614.ts
+#EXTINF:-1,Suluk®→W.Cup: RTS 2 4k
+http://pro.smartgotv.com:8005/live/123456/123456/11615.ts
+#EXTINF:-1,Suluk®→W.Cup: RTP 4k
+http://pro.smartgotv.com:8005/live/123456/123456/11616.ts
+#EXTINF:-1,Suluk®→W.Cup: TF1 FHD
+http://pro.smartgotv.com:8005/live/123456/123456/11558.ts
+#EXTINF:-1,Suluk®→W.Cup: TF1 HD
+http://pro.smartgotv.com:8005/live/123456/123456/11557.ts
+#EXTINF:-1,Suluk®→W.Cup: beIN_SPORTS_1 FR
+http://pro.smartgotv.com:8005/live/123456/123456/11553.ts
+#EXTINF:-1,Suluk®→W.Cup: BeIN_SPORTS_1 FR SD
+http://pro.smartgotv.com:8005/live/123456/123456/11552.ts
+#EXTINF:-1,Suluk®→W.Cup: beIN_SPORTS_2 FR
+http://pro.smartgotv.com:8005/live/123456/123456/11551.ts
+#EXTINF:-1,Suluk®→W.Cup: BeIN_SPORTS_2 FR SD
+http://pro.smartgotv.com:8005/live/123456/123456/11550.ts
+#EXTINF:-1,Suluk®→W.Cup: beIN_SPORTS_3 FR
+http://pro.smartgotv.com:8005/live/123456/123456/11549.ts
+#EXTINF:-1,Suluk®→W.Cup: BeIN_SPORTS_3 FR SD
+http://pro.smartgotv.com:8005/live/123456/123456/11548.ts
+#EXTINF:-1,Suluk®→W.Cup: beIN-SPORTS 1 FR FHD
+http://pro.smartgotv.com:8005/live/123456/123456/11556.ts
+#EXTINF:-1,Suluk®→W.Cup: beIN-SPORTS 2 FR FHD
+http://pro.smartgotv.com:8005/live/123456/123456/11555.ts
+#EXTINF:-1,Suluk®→W.Cup: beIN-SPORTS 3 FR FHD
+http://pro.smartgotv.com:8005/live/123456/123456/11554.ts
+#EXTINF:-1,Suluk®→W.Cup: CUATRO HD
+http://pro.smartgotv.com:8005/live/123456/123456/11561.ts
+#EXTINF:-1,Suluk®→W.Cup: Telecinco HD
+http://pro.smartgotv.com:8005/live/123456/123456/11562.ts
+#EXTINF:-1,Suluk®→W.Cup: BBC HD
+http://pro.smartgotv.com:8005/live/123456/123456/11534.ts
+#EXTINF:-1,Suluk®→W.Cup: Itv HD
+http://pro.smartgotv.com:8005/live/123456/123456/11533.ts
+#EXTINF:-1,Suluk®→W.Cup: RSI LA 1 HD
+http://pro.smartgotv.com:8005/live/123456/123456/11564.ts
+#EXTINF:-1,Suluk®→W.Cup: RSI LA 2 HD
+http://pro.smartgotv.com:8005/live/123456/123456/11565.ts
+#EXTINF:-1,Suluk®→W.Cup: RTS Deux HD
+http://pro.smartgotv.com:8005/live/123456/123456/11544.ts
+#EXTINF:-1,Suluk®→W.Cup: SRF zwei HD
+http://pro.smartgotv.com:8005/live/123456/123456/11563.ts
+#EXTINF:-1,Suluk®→W.Cup: Das Erste HD
+http://pro.smartgotv.com:8005/live/123456/123456/11539.ts
+#EXTINF:-1,Suluk®→W.Cup: Zdf HD
+http://pro.smartgotv.com:8005/live/123456/123456/11538.ts
+#EXTINF:-1,Suluk®→W.Cup: Zdf info HD
+http://pro.smartgotv.com:8005/live/123456/123456/11536.ts
+#EXTINF:-1,Suluk®→W.Cup: Zdf info SD
+http://pro.smartgotv.com:8005/live/123456/123456/11535.ts
+#EXTINF:-1,Suluk®→W.Cup: Zdf SD
+http://pro.smartgotv.com:8005/live/123456/123456/11537.ts
+#EXTINF:-1,Suluk®→TRACE_URBAN
+http://pro.smartgotv.com:8005/live/123456/123456/3552.ts
+#EXTINF:-1,Suluk®→GAME-ONE FHD
+http://pro.smartgotv.com:8005/live/123456/123456/9348.ts
+#EXTINF:-1,Suluk®→Sky-Sports-Main Events
+http://pro.smartgotv.com:8005/live/123456/123456/8085.ts
+#EXTINF:-1,Suluk®→Sky-Sports-Football
+http://pro.smartgotv.com:8005/live/123456/123456/8081.ts
+#EXTINF:-1,Suluk®→Sky-Sports-Action
+http://pro.smartgotv.com:8005/live/123456/123456/8080.ts
+#EXTINF:-1,Suluk®→Sky-Sports-Arena
+http://pro.smartgotv.com:8005/live/123456/123456/8079.ts
+#EXTINF:-1,Suluk®→Sky-Sports-Box Office
+http://pro.smartgotv.com:8005/live/123456/123456/8083.ts
+#EXTINF:-1,Suluk®→Sky-Sports-Cricket
+http://pro.smartgotv.com:8005/live/123456/123456/8078.ts
+#EXTINF:-1,Suluk®→Sky-Sports-F1
+http://pro.smartgotv.com:8005/live/123456/123456/8077.ts
+#EXTINF:-1,Suluk®→Sky-Sports-Golf
+http://pro.smartgotv.com:8005/live/123456/123456/8076.ts
+#EXTINF:-1,Suluk®→Sky-Sports-Mix
+http://pro.smartgotv.com:8005/live/123456/123456/8084.ts
+#EXTINF:-1,Suluk®→Sky-Sports-Premier League
+http://pro.smartgotv.com:8005/live/123456/123456/8082.ts
+#EXTINF:-1,Suluk®→UK_BT-Sport-1 HD
+http://pro.smartgotv.com:8005/live/123456/123456/3993.ts
+#EXTINF:-1,Suluk®→UK_BT-Sport-2 HD
+http://pro.smartgotv.com:8005/live/123456/123456/3991.ts
+#EXTINF:-1,Suluk®→UK_BT-Sport-3 HD
+http://pro.smartgotv.com:8005/live/123456/123456/3992.ts
+#EXTINF:-1,Suluk®→Suluk® →BT_SPORT_ESPN_HD
+http://pro.smartgotv.com:8005/live/123456/123456/1948.ts
+#EXTINF:-1,Suluk®→Suluk® →BT_SPORTS_FHD3
+http://pro.smartgotv.com:8005/live/123456/123456/2353.ts
+#EXTINF:-1,Suluk®→Suluk® →SKYNET SPORTS 1
+http://pro.smartgotv.com:8005/live/123456/123456/1932.ts
+#EXTINF:-1,Suluk®→Suluk® →SKYNET SPORTS 2
+http://pro.smartgotv.com:8005/live/123456/123456/1931.ts
+#EXTINF:-1,Suluk®→Suluk® →SKYNET SPORTS 3
+http://pro.smartgotv.com:8005/live/123456/123456/1930.ts
+#EXTINF:-1,Suluk®→Suluk® →SKYNET SPORTS 4
+http://pro.smartgotv.com:8005/live/123456/123456/1929.ts
+#EXTINF:-1,Suluk®→Suluk® →SKYNET SPORTS 5
+http://pro.smartgotv.com:8005/live/123456/123456/1928.ts
+#EXTINF:-1,Suluk®→Suluk® →SKYNET SPORTS 6
+http://pro.smartgotv.com:8005/live/123456/123456/1927.ts
+#EXTINF:-1,Suluk®→PT | SPORT_TV_1
+http://pro.smartgotv.com:8005/live/123456/123456/3118.ts
+#EXTINF:-1,Suluk®→PT | SPORT_TV_1_HD
+http://pro.smartgotv.com:8005/live/123456/123456/3117.ts
+#EXTINF:-1,Suluk®→PT | SPORT_TV_2
+http://pro.smartgotv.com:8005/live/123456/123456/3116.ts
+#EXTINF:-1,Suluk®→PT | SPORT_TV_2_HD
+http://pro.smartgotv.com:8005/live/123456/123456/3115.ts
+#EXTINF:-1,Suluk®→PT | SPORT_TV_3
+http://pro.smartgotv.com:8005/live/123456/123456/3114.ts
+#EXTINF:-1,Suluk®→PT | SPORT_TV_3_HD
+http://pro.smartgotv.com:8005/live/123456/123456/3113.ts
+#EXTINF:-1,Suluk®→PT | SPORT_TV_4
+http://pro.smartgotv.com:8005/live/123456/123456/3112.ts
+#EXTINF:-1,Suluk®→PT | SPORT_TV_4_HD
+http://pro.smartgotv.com:8005/live/123456/123456/3111.ts
+#EXTINF:-1,Suluk®→PT | SPORT_TV_5
+http://pro.smartgotv.com:8005/live/123456/123456/3110.ts
+#EXTINF:-1,Suluk®→PT | SPORT_TV_5_HD
+http://pro.smartgotv.com:8005/live/123456/123456/3109.ts
+#EXTINF:-1,Suluk®→PT | SPORT_TV+
+http://pro.smartgotv.com:8005/live/123456/123456/3119.ts
+#EXTINF:-1,Suluk®→NL_Ziggo Sport
+http://pro.smartgotv.com:8005/live/123456/123456/8376.ts
+#EXTINF:-1,Suluk®→NL_Ziggo Sport Extra 1
+http://pro.smartgotv.com:8005/live/123456/123456/8371.ts
+#EXTINF:-1,Suluk®→NL_Ziggo Sport Extra 2
+http://pro.smartgotv.com:8005/live/123456/123456/8370.ts
+#EXTINF:-1,Suluk®→NL_Ziggo Sport Select
+http://pro.smartgotv.com:8005/live/123456/123456/8372.ts
+#EXTINF:-1,Suluk®→NL_Ziggo Sport1 Golf
+http://pro.smartgotv.com:8005/live/123456/123456/8373.ts
+#EXTINF:-1,Suluk®→NL_Ziggo Sport1 Racing
+http://pro.smartgotv.com:8005/live/123456/123456/8374.ts
+#EXTINF:-1,Suluk®→NL_Ziggo Sport1 Voetbal
+http://pro.smartgotv.com:8005/live/123456/123456/8375.ts
+#EXTINF:-1,Suluk®→SKY SPORT 1 HD
 http://cdnv.cli.tn/iptv/ch922?code=610116485444847
-#EXTINF:-1 group-title="SPORT",SKY SPORT 2 HD
+#EXTINF:-1,Suluk®→SKY SPORT 2 HD
 http://cdnv.cli.tn/iptv/ch937?code=610116485444847
-#EXTINF:-1 group-title="SPORT",SKY SPORT 3 HD
+#EXTINF:-1,Suluk®→SKY SPORT 3 HD
 http://cdnv.cli.tn/iptv/ch914?code=610116485444847
-#EXTINF:-1 group-title="SPORT",SKY SPORT 4 HD
+#EXTINF:-1,Suluk®→SKY SPORT 4 HD
 http://cdnv.cli.tn/iptv/ch915?code=610116485444847
-#EXTINF:-1 group-title="SPORT",SKY SPORT 5 HD
+#EXTINF:-1,Suluk®→SKY SPORT 5 HD
 http://cdnv.cli.tn/iptv/ch916?code=610116485444847
-#EXTINF:-1 group-title="SPORT",SKY SPORT MIX HD
+#EXTINF:-1,Suluk®→SKY SPORT MIX HD
 http://cdnv.cli.tn/iptv/ch931?code=610116485444847
-#EXTINF:-1 group-title="SPORT",BT SPORT 1
+#EXTINF:-1,Suluk®→BT SPORT 1 HD
 http://cdnv.cli.tn/iptv/ch1828?code=610116485444847
-#EXTINF:-1 group-title="SPORT",BT SPORT 2
+#EXTINF:-1,Suluk®→BT SPORT 2 HD
 http://cdnv.cli.tn/iptv/ch1829?code=610116485444847
-#EXTINF:-1 group-title="SPORT",BT SPORT 3
-http://cdnv.cli.tn/iptv/ch1830?code=610116485444847
-#EXTINF:-1 group-title="SPORT",SKY SPORT 1 HD
-http://cdnv.cli.tn/iptv/ch922?code=610116485444847
-#EXTINF:-1 group-title="SPORT",SKY SPORT 2 HD
-http://cdnv.cli.tn/iptv/ch937?code=610116485444847
-#EXTINF:-1 group-title="SPORT",SKY SPORT 3 HD
-http://cdnv.cli.tn/iptv/ch914?code=610116485444847
-#EXTINF:-1 group-title="SPORT",SKY SPORT 4 HD
-http://cdnv.cli.tn/iptv/ch915?code=610116485444847
-#EXTINF:-1 group-title="SPORT",SKY SPORT 5 HD
-http://cdnv.cli.tn/iptv/ch916?code=610116485444847
-#EXTINF:-1 group-title="SPORT",SKY SPORT MIX HD
-http://cdnv.cli.tn/iptv/ch931?code=610116485444847
-#EXTINF:-1 group-title="SPORT",BT SPORT 1 HD
-http://cdnv.cli.tn/iptv/ch1828?code=610116485444847
-#EXTINF:-1 group-title="SPORT",BT SPORT 2 HD
-http://cdnv.cli.tn/iptv/ch1829?code=610116485444847
-#EXTINF:-1 group-title="SPORT",BT SPORT 3 HD
+#EXTINF:-1,Suluk®→BT SPORT 3 HD
 http://cdnv.cli.tn/iptv/ch1830?code=610116485444847
 
-#EXTINF:-1 group-title="Sports", SONY TEN1 
-http://cshms3.airtel.tv/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225931/01.m3u8
-#EXTINF:-1 group-title="Sports", SONY TEN1 HD
-http://cshms3.airtel.tv/wh7f454c46tw2224230268_1388919955/PLTV/88888888/224/3221225875/01.m3u8
-#EXTINF:-1 group-title="Sports", SONY TEN2 
-http://cshms3.airtel.tv/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225932/01.m3u8
-#EXTINF:-1 group-title="Sports", SONY TEN2 HD
-http://cshms4.airtel.tv/PLTV/88888888/224/3221226077/01.m3u8
-#EXTINF:-1 group-title="Sports", SONY TEN3 
-http://cshms3.airtel.tv/wh7f454c46tw2717373403_526904823/PLTV/88888888/224/3221225933/01.m3u8
-#EXTINF:-1 group-title="Sports", SONY TEN3 HD
-http://cshms4.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226330/04.m3u8
-#EXTINF:-1 group-title="Sports", SONY SIX 
-http://cshms3.airtel.tv/wh7f454c46tw2717373403_526904823/PLTV/88888888/224/3221225827/01.m3u8
-#EXTINF:-1 group-title="Sports", SONY SIX HD
-http://cshms4.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221225780/01.m3u8
-#EXTINF:-1 group-title="Sports", SONY ESPN
-http://cshms3.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221225805/01.m3u8
-#EXTINF:-1 group-title="Sports", SONY ESPN HD
-http://cshms3.airtel.tv/wh7f454c46tw1200204061_952100745/PLTV/88888888/224/3221226076/01.m3u8
-#EXTINF:-1 group-title="Sports", NeoPrime
-http://cshms4.airtel.tv/PLTV/88888888/224/3221225789/01.m3u8
-#EXTINF:-1 group-title="Sports", NeoSports
-http://cshms4.airtel.tv/PLTV/88888888/224/3221225791/01.m3u8
-#EXTINF:-1 group-title="Sports", DD Sports
-http://mhms9.airtel.tv/wh7f454c46tw872912663_877861895/PLTV/88888888/224/3221226346/01.m3u8
-#EXTINF:-1 group-title="Sports", DSports HD
-http://cshms4.airtel.tv/wh7f454c46tw2959729406_596421737/PLTV/88888888/224/3221226484/04.m3u8
-#EXTINF:-1 group-title="Sports", DSports L1
-http://mhms8.airtel.tv/wh7f454c46tw2201796875_990797628/PLTV/88888888/224/3221226392/06.m3u8
-#EXTINF:-1 group-title="Sports", DSports L2
-http://cshms4.airtel.tv/PLTV/88888888/224/3221226392/06.m3u8
 
-#EXTINF:-1 group-title="India",Animal Planet HD
-http://mhms5.airtel.tv/PLTV/88888888/224/3221226201/01.m3u8
-#EXTINF:-1 group-title="India",SONY ROX MUSIC HD
-http://mhms5.airtel.tv/PLTV/88888888/224/3221226204/01.m3u8
-#EXTINF:-1 group-title="India",Discovery WORLD HD
-http://mhms5.airtel.tv/PLTV/88888888/224/3221226205/01.m3u8
-#EXTINF:-1 group-title="India",LF FOOD HD
-http://mhms8.airtel.tv/wh7f454c46tw2162781931_1815925993/PLTV/88888888/224/3221226329/03.m3u8
-#EXTINF:-1 group-title="India",Discovery WORLD HD
-http://mhms5.airtel.tv/PLTV/88888888/224/3221226205/01.m3u8
-#EXTINF:-1 group-title="India",Discovery TV
-http://cshms3.airtel.tv/PLTV/88888888/224/3221225874/01.m3u8
-#EXTINF:-1 group-title="India",Discovery TURBO
-http://cshms3.airtel.tv/PLTV/88888888/224/3221225782/01.m3u8
-#EXTINF:-1 group-title="India",Discovery Science
-http://cshms3.airtel.tv/PLTV/88888888/224/3221225778/01.m3u8
-#EXTINF:-1 group-title="India",Discovery Kids
-http://cshms3.airtel.tv/PLTV/88888888/224/3221225775/01.m3u8
-#EXTINF:-1 group-title="India",Animal Planet
-http://cshms3.airtel.tv/PLTV/88888888/224/3221225872/01.m3u8
-#EXTINF:-1 group-title="India",TLC
-http://cshms3.airtel.tv/PLTV/88888888/224/3221225819/01.m3u8
-#EXTINF:-1 group-title="India",SONY BBC EARTH
-http://cshms3.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226068/03.m3u8
-#EXTINF:-1 group-title="India",SONY BBC EARTH HD
-http://mhms8.airtel.tv/wh7f454c46tw133991019_1870526460/PLTV/88888888/224/3221226280/03.m3u8
-#EXTINF:-1 group-title="India",Animal Planet HD
-http://mhms5.airtel.tv/PLTV/88888888/224/3221226201/01.m3u8
-#EXTINF:-1 group-title="India",FTV
-http://cshms4.airtel.tv/PLTV/88888888/224/3221226086/01.m3u8
-#EXTINF:-1 group-title="India",TRAVELXP SD
-http://cshms4.airtel.tv/PLTV/88888888/224/3221225813/01.m3u8
-#EXTINF:-1 group-title="India", AXN HD
-http://cshms4.airtel.tv/wh7f454c46tw2959729406_596421737/PLTV/88888888/224/3221226485/04.m3u8
-#EXTINF:-1 group-title="India", AXN SD
-http://cshms3.airtel.tv/wh7f454c46tw501677772_1439149542/PLTV/88888888/224/3221226443/04.m3u8
-#EXTINF:-1 group-title="India", SONYPIX HD
-http://cshms4.airtel.tv/wh7f454c46tw2959729406_596421737/PLTV/88888888/224/3221226486/04.m3u8
-#EXTINF:-1 group-title="India", SONYPIX SD
-http://cshms3.airtel.tv/wh7f454c46tw708965953_498209345/PLTV/88888888/224/3221226442/04.m3u8
-#EXTINF:-1 group-title="India", SONY PLEX HD TV
-http://mhms7.airtel.tv/wh7f454c46tw1749079137_988046400/PLTV/88888888/224/3221226446/01.m3u8
 
-#EXTINF:-1 group-title="India",TLC WORLD HD
-http://cshms2.airtel.tv/PLTV/88888888/224/3221226279/01.m3u8
-#EXTINF:-1 group-title="India", AND TV HD
-http://cshms4.airtel.tv/PLTV/88888888/224/3221226084/03.m3u8
-#EXTINF:-1 group-title="India", Sony TV HD
-http://cshms4.airtel.tv/wh7f454c46tw1375599167_1532996093/PLTV/88888888/224/3221225772/01.m3u8
-#EXTINF:-1 group-title="India", ZeeTV HD
-http://cshms3.airtel.tv/wh7f454c46tw2717373403_526904823/PLTV/88888888/224/3221225942/01.m3u8
-#EXTINF:-1 group-title="India", SonyMAX HD
-http://cshms4.airtel.tv/wh7f454c46tw288508750_687813938/PLTV/88888888/224/3221225776/01.m3u8
-#EXTINF:-1 group-title="India", SONYSAB HD
-http://cshms4.airtel.tv/PLTV/88888888/224/3221226078/01.m3u8
-#EXTINF:-1 group-title="India", ZEECINEMA HD
-http://cshms4.airtel.tv/PLTV/88888888/224/3221226083/01.m3u8
-#EXTINF:-1 group-title="India",And Picture HD
-http://mhms7.airtel.tv/wh7f454c46tw3697671574_1750568037/PLTV/88888888/224/3221226203/02.m3u8
-#EXTINF:-1 group-title="India",SONY ROX MUSIC HD
-http://mhms5.airtel.tv/PLTV/88888888/224/3221226204/01.m3u8
-#EXTINF:-1 group-title="India",DISCOVERY Jeet HD
-http://cshms1.airtel.tv/wh7f454c46tw1565302381_1163892044/PLTV/88888888/224/3221226479/01.m3u8
 
-#EXTINF:-1 group-title="India", NeoPrime
-http://cshms4.airtel.tv/PLTV/88888888/224/3221225789/01.m3u8
-#EXTINF:-1 group-title="India", NeoSports
-http://cshms4.airtel.tv/PLTV/88888888/224/3221225791/01.m3u8
-#EXTINF:-1 group-title="India", DD Sports
-http://mhms9.airtel.tv/wh7f454c46tw872912663_877861895/PLTV/88888888/224/3221226346/01.m3u8
-#EXTINF:-1 group-title="India", DSports HD
-http://cshms4.airtel.tv/wh7f454c46tw2959729406_596421737/PLTV/88888888/224/3221226484/04.m3u8
-#EXTINF:-1 group-title="India", DSports L1
-http://mhms8.airtel.tv/wh7f454c46tw2201796875_990797628/PLTV/88888888/224/3221226392/06.m3u8
-#EXTINF:-1 group-title="India", DSports L2
-http://cshms4.airtel.tv/PLTV/88888888/224/3221226392/06.m3u8
+
+
+
 
