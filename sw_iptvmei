@@ -59,3 +59,52 @@ http://185.93.3.84:5000/play/a01t
 http://185.93.3.84:5000/play/a01u
 #EXTINF:-1 tvg-logo="https://s20.postimg.cc/njgflwk0t/ENTERT.png" group-title="UCL",(FR) beIN Sport 5
 http://185.93.3.84:5000/play/a02e
+
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/njgflwk0t/ENTERT.png" group-title="SPORT",MATCH! FOOTBALL 1
+http://persik.by/stream/3903/293564/10266.m3u8
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/njgflwk0t/ENTERT.png" group-title="SPORT",MATCH! FOOTBALL 2
+http://persik.by/stream/3903/293564/10267.m3u8
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/njgflwk0t/ENTERT.png" group-title="SPORT",MATCH! FOOTBALL 3
+http://persik.by/stream/3903/293564/10268.m3u8
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/njgflwk0t/ENTERT.png" group-title="SPORT",FOX TURKI
+http://37.187.175.211:1923/live/ssiptv.net/vipteam.me/110.ts
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/njgflwk0t/ENTERT.png" group-title="SPORT",A SPORT
+http://37.187.175.211:1923/live/ssiptv.net/vipteam.me/94.ts
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/njgflwk0t/ENTERT.png" group-title="SPORT",Setanta Sport HD
+http://persik.by/stream/1418/252987/10314.m3u8
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/njgflwk0t/ENTERT.png" group-title="SPORT",Setanta Sport + HD
+http://persik.by/stream/1418/252987/10316.m3u8
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/njgflwk0t/ENTERT.png" group-title="SPORT",Sport 1 (Ukraine)
+http://persik.by/stream/1418/252987/270.m3u8
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/njgflwk0t/ENTERT.png" group-title="SPORT",Sport 2 (Ukraine)
+http://persik.by/stream/1418/252987/91.m3u8
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/njgflwk0t/ENTERT.png" group-title="SPORT",Sport 3 (Ukraine)
+http://persik.by/stream/1418/252987/144.m3u8
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/njgflwk0t/ENTERT.png" group-title="SPORT",Sport 4 (Ukraine)
+http://persik.by/stream/1418/252987/309.m3u8
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/njgflwk0t/ENTERT.png" group-title="SPORT",VIASAT SP
+http://persik.by/stream/3903/293564/10249.m3u8
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/njgflwk0t/ENTERT.png" group-title="SPORT",Eurosport 1
+http://telekomtv.ro.edgesuite.net/shls/LIVE$Eurosport/6.m3u8/Level(545259)?start=LIVE&end=END
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/njgflwk0t/ENTERT.png" group-title="SPORT",Eurosport 2
+http://telekomtv.ro.edgesuite.net/shls/LIVE$Eurosport2/6.m3u8/Level(545259)?start=LIVE&end=END
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/njgflwk0t/ENTERT.png" group-title="SPORT",SPOTV +
+http://110.11.47.122:9981/stream/channelid/1997998816?ticket=80fdd3ca0352b93c4201c4fb54b00f5f2e9b643e&profile=pass
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/njgflwk0t/ENTERT.png" group-title="SPORT",FOX KOREA
+http://110.11.47.122:9981/stream/channelid/459788954?ticket=39f38b93543e5f2894347a08e4502940e1ae2441&profile=pass
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/njgflwk0t/ENTERT.png" group-title="SPORT",BT SPORT 1
+http://62.210.214.28:80/live?channelId=140&uid=2454&deviceMac=00:1A:79:3C:C9:29
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/njgflwk0t/ENTERT.png" group-title="SPORT",BT SPORT 2
+http://62.210.214.28:80/live?channelId=142&uid=2454&deviceMac=00:1A:79:3C:C9:29
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/njgflwk0t/ENTERT.png" group-title="SPORT",BT SPORT 3
+http://62.210.214.28:80/live?channelId=144&uid=2454&deviceMac=00:1A:79:3C:C9:29
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/njgflwk0t/ENTERT.png" group-title="SPORT",TSN 1
+http://163.172.15.141:9732/live?channelId=217&uid=2454&deviceMac=00:1A:79:3C:C9:29
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/njgflwk0t/ENTERT.png" group-title="SPORT",TSN 2
+http://163.172.15.141:9732/live?channelId=218&uid=2454&deviceMac=00:1A:79:3C:C9:29
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/njgflwk0t/ENTERT.png" group-title="SPORT",TSN 3
+http://163.172.15.141:9732/live?channelId=219&uid=2454&deviceMac=00:1A:79:3C:C9:29
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/njgflwk0t/ENTERT.png" group-title="SPORT",TSN 4
+http://163.172.15.141:9732/live?channelId=220&uid=2454&deviceMac=00:1A:79:3C:C9:29
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/njgflwk0t/ENTERT.png" group-title="SPORT",TSN 5
+http://163.172.15.141:9732/live?channelId=221&uid=2454&deviceMac=00:1A:79:3C:C9:29
