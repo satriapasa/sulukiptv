@@ -24,6 +24,8 @@ http://cshms4.airtel.tv/wh7f454c46tw3044125113_1979135345/PLTV/88888888/224/3221
 #EXTINF:-1 tvg-logo="https://s20.postimg.cc/njgflwk0t/ENTERT.png" group-title="UCL",SONY SIX HD
 http://cshms4.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221225780/05.m3u8
 
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/njgflwk0t/ENTERT.png" group-title="UCL",SKYNET HD
+http://iptv.solata.info:8888/live/user-ags50/9zfawOgzQM/679.ts
 #EXTINF:-1 tvg-logo="https://s20.postimg.cc/njgflwk0t/ENTERT.png" group-title="UCL",SKYNET SPORT 1
 http://188.93.238.184:8000/live/snet/snet/36504.ts
 #EXTINF:-1 tvg-logo="https://s20.postimg.cc/njgflwk0t/ENTERT.png" group-title="UCL",SKYNET SPORT 2
