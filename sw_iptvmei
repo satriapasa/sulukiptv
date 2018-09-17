@@ -6,6 +6,10 @@ http://bit.ly/2MMn4Uf
 http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_656_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://s20.postimg.cc/9l1llt02l/IPTVKU_LOGO1.png" group-title="SULUK IPTV",BALKANIKA
 http://31.41.20.14:4054
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/9l1llt02l/IPTVKU_LOGO1.png" group-title="SULUK IPTV",MUSIC HD
+rtmp://rtmp.one.by/HD/1muz
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/9l1llt02l/IPTVKU_LOGO1.png" group-title="SULUK IPTV",2 JARI
+http://bit.ly/2MTQ1gV
 
 #EXTINF:-1 tvg-logo="https://s20.postimg.cc/njgflwk0t/ENTERT.png" group-title="UCL",INTRO UCL
 https://bit.ly/2NUDl5P
