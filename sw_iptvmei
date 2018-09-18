@@ -66,6 +66,16 @@ http://163.172.105.25:80/live?channelId=188&uid=2454&deviceMac=00:1A:79:3C:C9:29
 #EXTINF:-1 tvg-logo="https://s20.postimg.cc/njgflwk0t/ENTERT.png" group-title="UCL",BEIN SPORT 12
 http://163.172.105.25:80/live?channelId=189&uid=2454&deviceMac=00:1A:79:3C:C9:29
 
+
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/njgflwk0t/ENTERT.png" group-title="UCL",ARENA SPORT 1 
+http://190.2.142.13:25461/live/primera_android/1122334455/311.ts
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/njgflwk0t/ENTERT.png" group-title="UCL",ARENA SPORT 2 
+http://190.2.142.13:25461/live/primera_android/1122334455/310.ts
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/njgflwk0t/ENTERT.png" group-title="UCL",ARENA SPORT 3 
+http://190.2.142.13:25461/live/primera_android/1122334455/309.ts
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/njgflwk0t/ENTERT.png" group-title="UCL",ARENA SPORT 4 
+http://190.2.142.13:25461/live/primera_android/1122334455/308.ts
+
 #EXTINF:-1 tvg-logo="https://s20.postimg.cc/njgflwk0t/ENTERT.png" group-title="UCL",Eleven Sports 1
 http://61.58.60.230:9000/live/75.m3u8
 #EXTINF:-1 tvg-logo="https://s20.postimg.cc/njgflwk0t/ENTERT.png" group-title="UCL",Eleven Sports 2
@@ -81,6 +91,10 @@ http://185.93.3.84:5000/play/a01u
 #EXTINF:-1 tvg-logo="https://s20.postimg.cc/njgflwk0t/ENTERT.png" group-title="UCL",(FR) beIN Sport 5
 http://185.93.3.84:5000/play/a02e
 
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/njgflwk0t/ENTERT.png" group-title="SPORT",MATCH! HD
+http://persik.by/stream/2944/263250/276.m3u8
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/njgflwk0t/ENTERT.png" group-title="SPORT",MATCH! FOOTBALL
+http://persik.by/stream/2944/263250/346.m3u8
 #EXTINF:-1 tvg-logo="https://s20.postimg.cc/njgflwk0t/ENTERT.png" group-title="SPORT",MATCH! FOOTBALL 1
 http://persik.by/stream/3903/293564/10266.m3u8
 #EXTINF:-1 tvg-logo="https://s20.postimg.cc/njgflwk0t/ENTERT.png" group-title="SPORT",MATCH! FOOTBALL 2
