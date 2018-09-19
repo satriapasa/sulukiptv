@@ -8,6 +8,8 @@ http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_656_av-p.m
 http://31.41.20.14:4054
 #EXTINF:-1 tvg-logo="https://s20.postimg.cc/9l1llt02l/IPTVKU_LOGO1.png" group-title="SULUK IPTV",MUSIC HD
 rtmp://rtmp.one.by/HD/1muz
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/9l1llt02l/IPTVKU_LOGO1.png" group-title="SULUK IPTV",TRACE URBAN
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/15711.ts
 #EXTINF:-1 tvg-logo="https://s20.postimg.cc/9l1llt02l/IPTVKU_LOGO1.png" group-title="SULUK IPTV",2 JARI
 http://bit.ly/2MTQ1gV
 
@@ -23,6 +25,58 @@ http://mhms6.airtel.tv/wh7f454c46tw2828204960_1272463506/PLTV/88888888/224/32212
 http://cshms4.airtel.tv/wh7f454c46tw3044125113_1979135345/PLTV/88888888/224/3221226076/05.m3u8
 #EXTINF:-1 tvg-logo="https://s20.postimg.cc/njgflwk0t/ENTERT.png" group-title="UCL",SONY SIX HD
 http://cshms4.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221225780/05.m3u8
+
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/njgflwk0t/ENTERT.png" group-title="UCL",Ziggo Sport eXtra 1 
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17380.ts
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/njgflwk0t/ENTERT.png" group-title="UCL",Ziggo Sport eXtra 2 
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17379.ts
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/njgflwk0t/ENTERT.png" group-title="UCL",Ziggo Sport Select HD 
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17381.ts
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/njgflwk0t/ENTERT.png" group-title="UCL",Ziggo Sport Voetbal 
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17384.ts
+
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/njgflwk0t/ENTERT.png" group-title="UCL",FR:BEINSPORT 1 HD 
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/15695.ts
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/njgflwk0t/ENTERT.png" group-title="UCL",FR:BEINSPORT 2 HD 
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/15694.ts
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/njgflwk0t/ENTERT.png" group-title="UCL",FR:BEINSPORT 3 HD 
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/15693.ts
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/njgflwk0t/ENTERT.png" group-title="UCL",FR:BEINSPORT 4 MAX 
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/15692.ts
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/njgflwk0t/ENTERT.png" group-title="UCL",FR:BEINSPORT 5 MAX 
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/15691.ts
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/njgflwk0t/ENTERT.png" group-title="UCL",FR:BEINSPORT 6 
+MAX http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/15690.ts
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/njgflwk0t/ENTERT.png" group-title="UCL",FR:BEINSPORT 7 
+MAX http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/15689.ts
+
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/njgflwk0t/ENTERT.png" group-title="UCL",MATCH! HD
+http://persik.by/stream/2944/263250/276.m3u8
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/njgflwk0t/ENTERT.png" group-title="UCL",MATCH! FOOTBALL
+http://persik.by/stream/2944/263250/346.m3u8
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/njgflwk0t/ENTERT.png" group-title="UCL",MATCH! FOOTBALL 1
+http://persik.by/stream/3903/293564/10266.m3u8
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/njgflwk0t/ENTERT.png" group-title="UCL",MATCH! FOOTBALL 2
+http://persik.by/stream/3903/293564/10267.m3u8
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/njgflwk0t/ENTERT.png" group-title="UCL",MATCH! FOOTBALL 3
+http://persik.by/stream/3903/293564/10268.m3u8
+
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/njgflwk0t/ENTERT.png" group-title="UCL",BT SPORT 1
+http://62.210.214.28:80/live?channelId=140&uid=2454&deviceMac=00:1A:79:3C:C9:29
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/njgflwk0t/ENTERT.png" group-title="UCL",BT SPORT 2
+http://62.210.214.28:80/live?channelId=142&uid=2454&deviceMac=00:1A:79:3C:C9:29
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/njgflwk0t/ENTERT.png" group-title="UCL",BT SPORT 3
+http://62.210.214.28:80/live?channelId=144&uid=2454&deviceMac=00:1A:79:3C:C9:29
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/njgflwk0t/ENTERT.png" group-title="UCL",TSN 1
+http://163.172.15.141:9732/live?channelId=217&uid=2454&deviceMac=00:1A:79:3C:C9:29
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/njgflwk0t/ENTERT.png" group-title="UCL",TSN 2
+http://163.172.15.141:9732/live?channelId=218&uid=2454&deviceMac=00:1A:79:3C:C9:29
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/njgflwk0t/ENTERT.png" group-title="UCL",TSN 3
+http://163.172.15.141:9732/live?channelId=219&uid=2454&deviceMac=00:1A:79:3C:C9:29
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/njgflwk0t/ENTERT.png" group-title="UCL",TSN 4
+http://163.172.15.141:9732/live?channelId=220&uid=2454&deviceMac=00:1A:79:3C:C9:29
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/njgflwk0t/ENTERT.png" group-title="UCL",TSN 5
+http://163.172.15.141:9732/live?channelId=221&uid=2454&deviceMac=00:1A:79:3C:C9:29
 
 #EXTINF:-1 tvg-logo="https://s20.postimg.cc/njgflwk0t/ENTERT.png" group-title="UCL",SKYNET HD
 http://iptv.solata.info:8888/live/user-ags50/9zfawOgzQM/679.ts
@@ -66,7 +120,6 @@ http://163.172.105.25:80/live?channelId=188&uid=2454&deviceMac=00:1A:79:3C:C9:29
 #EXTINF:-1 tvg-logo="https://s20.postimg.cc/njgflwk0t/ENTERT.png" group-title="UCL",BEIN SPORT 12
 http://163.172.105.25:80/live?channelId=189&uid=2454&deviceMac=00:1A:79:3C:C9:29
 
-
 #EXTINF:-1 tvg-logo="https://s20.postimg.cc/njgflwk0t/ENTERT.png" group-title="UCL",ARENA SPORT 1 
 http://190.2.142.13:25461/live/primera_android/1122334455/311.ts
 #EXTINF:-1 tvg-logo="https://s20.postimg.cc/njgflwk0t/ENTERT.png" group-title="UCL",ARENA SPORT 2 
@@ -91,16 +144,16 @@ http://185.93.3.84:5000/play/a01u
 #EXTINF:-1 tvg-logo="https://s20.postimg.cc/njgflwk0t/ENTERT.png" group-title="UCL",(FR) beIN Sport 5
 http://185.93.3.84:5000/play/a02e
 
-#EXTINF:-1 tvg-logo="https://s20.postimg.cc/njgflwk0t/ENTERT.png" group-title="SPORT",MATCH! HD
-http://persik.by/stream/2944/263250/276.m3u8
-#EXTINF:-1 tvg-logo="https://s20.postimg.cc/njgflwk0t/ENTERT.png" group-title="SPORT",MATCH! FOOTBALL
-http://persik.by/stream/2944/263250/346.m3u8
-#EXTINF:-1 tvg-logo="https://s20.postimg.cc/njgflwk0t/ENTERT.png" group-title="SPORT",MATCH! FOOTBALL 1
-http://persik.by/stream/3903/293564/10266.m3u8
-#EXTINF:-1 tvg-logo="https://s20.postimg.cc/njgflwk0t/ENTERT.png" group-title="SPORT",MATCH! FOOTBALL 2
-http://persik.by/stream/3903/293564/10267.m3u8
-#EXTINF:-1 tvg-logo="https://s20.postimg.cc/njgflwk0t/ENTERT.png" group-title="SPORT",MATCH! FOOTBALL 3
-http://persik.by/stream/3903/293564/10268.m3u8
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/njgflwk0t/ENTERT.png" group-title="SPORT",NL: FOX SPORTS 1 HD 
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17378.ts
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/njgflwk0t/ENTERT.png" group-title="SPORT",NL: FOX SPORTS 2 HD 
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17377.ts
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/njgflwk0t/ENTERT.png" group-title="SPORT",NL: FOX SPORTS 3 HD EREDIVISIE 
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17376.ts
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/njgflwk0t/ENTERT.png" group-title="SPORT",NL: FOX SPORTS 4 HD 
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17375.ts
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/njgflwk0t/ENTERT.png" group-title="SPORT",NL: FOX SPORTS 5 HD EREDIVISIE HD 
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17374.ts
 #EXTINF:-1 tvg-logo="https://s20.postimg.cc/njgflwk0t/ENTERT.png" group-title="SPORT",FOX TURKI
 http://37.187.175.211:1923/live/ssiptv.net/vipteam.me/110.ts
 #EXTINF:-1 tvg-logo="https://s20.postimg.cc/njgflwk0t/ENTERT.png" group-title="SPORT",A SPORT
@@ -127,22 +180,7 @@ http://telekomtv.ro.edgesuite.net/shls/LIVE$Eurosport2/6.m3u8/Level(545259)?star
 http://110.11.47.122:9981/stream/channelid/1997998816?ticket=80fdd3ca0352b93c4201c4fb54b00f5f2e9b643e&profile=pass
 #EXTINF:-1 tvg-logo="https://s20.postimg.cc/njgflwk0t/ENTERT.png" group-title="SPORT",FOX KOREA
 http://110.11.47.122:9981/stream/channelid/459788954?ticket=39f38b93543e5f2894347a08e4502940e1ae2441&profile=pass
-#EXTINF:-1 tvg-logo="https://s20.postimg.cc/njgflwk0t/ENTERT.png" group-title="SPORT",BT SPORT 1
-http://62.210.214.28:80/live?channelId=140&uid=2454&deviceMac=00:1A:79:3C:C9:29
-#EXTINF:-1 tvg-logo="https://s20.postimg.cc/njgflwk0t/ENTERT.png" group-title="SPORT",BT SPORT 2
-http://62.210.214.28:80/live?channelId=142&uid=2454&deviceMac=00:1A:79:3C:C9:29
-#EXTINF:-1 tvg-logo="https://s20.postimg.cc/njgflwk0t/ENTERT.png" group-title="SPORT",BT SPORT 3
-http://62.210.214.28:80/live?channelId=144&uid=2454&deviceMac=00:1A:79:3C:C9:29
-#EXTINF:-1 tvg-logo="https://s20.postimg.cc/njgflwk0t/ENTERT.png" group-title="SPORT",TSN 1
-http://163.172.15.141:9732/live?channelId=217&uid=2454&deviceMac=00:1A:79:3C:C9:29
-#EXTINF:-1 tvg-logo="https://s20.postimg.cc/njgflwk0t/ENTERT.png" group-title="SPORT",TSN 2
-http://163.172.15.141:9732/live?channelId=218&uid=2454&deviceMac=00:1A:79:3C:C9:29
-#EXTINF:-1 tvg-logo="https://s20.postimg.cc/njgflwk0t/ENTERT.png" group-title="SPORT",TSN 3
-http://163.172.15.141:9732/live?channelId=219&uid=2454&deviceMac=00:1A:79:3C:C9:29
-#EXTINF:-1 tvg-logo="https://s20.postimg.cc/njgflwk0t/ENTERT.png" group-title="SPORT",TSN 4
-http://163.172.15.141:9732/live?channelId=220&uid=2454&deviceMac=00:1A:79:3C:C9:29
-#EXTINF:-1 tvg-logo="https://s20.postimg.cc/njgflwk0t/ENTERT.png" group-title="SPORT",TSN 5
-http://163.172.15.141:9732/live?channelId=221&uid=2454&deviceMac=00:1A:79:3C:C9:29
+
 
 #EXTINF:-1 tvg-logo="https://s20.postimg.cc/tx5ipk1vx/INDO.png" group-title="INDONESIA",RCTI
 http://202.80.222.4/mnt/tmpfs/hls/001/001/ch14041511532707866226/1024.m3u8
