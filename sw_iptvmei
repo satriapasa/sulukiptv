@@ -34,6 +34,12 @@ http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17379.ts
 http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17381.ts
 #EXTINF:-1 tvg-logo="https://s20.postimg.cc/njgflwk0t/ENTERT.png" group-title="UCL",Ziggo Sport Voetbal 
 http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17384.ts
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/njgflwk0t/ENTERT.png" group-title="UCL",RMC SPORT 1 HD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/15698.ts
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/njgflwk0t/ENTERT.png" group-title="UCL",RMC SPORT 2 HD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/15697.ts
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/njgflwk0t/ENTERT.png" group-title="UCL",RMC SPORT 3 HD
+http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/15696.ts
 
 #EXTINF:-1 tvg-logo="https://s20.postimg.cc/njgflwk0t/ENTERT.png" group-title="UCL",K SPORT 1
 http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/15831.ts
