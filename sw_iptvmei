@@ -8,8 +8,8 @@ http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_656_av-p.m
 http://31.41.20.14:4054
 #EXTINF:-1 tvg-logo="https://s20.postimg.cc/9l1llt02l/IPTVKU_LOGO1.png" group-title="SULUK IPTV",MUSIC HD
 rtmp://rtmp.one.by/HD/1muz
-#EXTINF:-1 tvg-logo="https://s20.postimg.cc/9l1llt02l/IPTVKU_LOGO1.png" group-title="SULUK IPTV",U16 MNC
-https://bit.ly/2oxJzhe
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/9l1llt02l/IPTVKU_LOGO1.png" group-title="SULUK IPTV",U16 FOX 2
+http://119.59.125.74/stream/totnew.php?channel_id=02cb79ab0b0c418f847148ca9e2baed4&.m3u8
 
 #EXTINF:-1 tvg-logo="https://s20.postimg.cc/w3ltpyyb1/MOVIE.jpg" group-title="MOVIE",HBO INDO
 http://bit.ly/SulukHBO
