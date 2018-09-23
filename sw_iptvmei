@@ -10,28 +10,28 @@ http://31.41.20.14:4054
 rtmp://rtmp.one.by/HD/1muz
 #EXTINF:-1 tvg-logo="https://s20.postimg.cc/9l1llt02l/IPTVKU_LOGO1.png" group-title="SULUK IPTV",U16 FOX 2
 http://119.59.125.74/stream/totnew.php?channel_id=02cb79ab0b0c418f847148ca9e2baed4&.m3u8
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/9l1llt02l/IPTVKU_LOGO1.png" group-title="SULUK IPTV",FOX HD MotoGP
+https://tinyurl.com/ya887zyn
 
 #EXTINF:-1 tvg-logo="https://s20.postimg.cc/w3ltpyyb1/MOVIE.jpg" group-title="MOVIE",HBO INDO
 http://bit.ly/SulukHBO
 #EXTINF:-1 tvg-logo="https://s20.postimg.cc/w3ltpyyb1/MOVIE.jpg" group-title="MOVIE",FOX MOVIE
-https://bit.ly/2zmnV5N
+http://5.79.87.234:8278/Foxmovie/playlist.m3u8?tid=17625733&tsum=cb8a5996994a10aff8e9809756714219
 #EXTINF:-1 tvg-logo="https://s20.postimg.cc/w3ltpyyb1/MOVIE.jpg" group-title="MOVIE",FOX ACTION
-https://bit.ly/2O0hPA4
+http://5.79.87.234:8278/Foxactionhd/playlist.m3u8?tid=13149668&tsum=c4543d6c5013f34e38a7c5c4c696314f
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5tg42PJW/EPL.png" group-title="EPL",SKYNET
+http://5.79.87.234:8278/skynethd_pat/playlist.m3u8?tid=15724129&tsum=74aa2be44def301a54a6c7e1a9e7e810
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5tg42PJW/EPL.png" group-title="EPL",BEIN TH 1 HD
-https://tinyurl.com/y8s4kj3p
+http://212.8.243.195:8278/bein1_pat/playlist.m3u8?tid=16700818&tsum=01194eeb39022cccc55c3c4d1195a1c8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5tg42PJW/EPL.png" group-title="EPL",BEIN TH 2 HD
-https://tinyurl.com/y7xkmm9r
+http://212.8.243.195:8278/bein2_pat/playlist.m3u8?tid=12787695&tsum=8272226917697bfee8b8e5cdde274c25
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5tg42PJW/EPL.png" group-title="EPL",BEIN TH 3 HD
-https://tinyurl.com/y7ztn68g
+http://212.8.243.195:8278/bein3_pat/playlist.m3u8?tid=17855968&tsum=523afafb2059b8c51222405a7e192a9b
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5tg42PJW/EPL.png" group-title="EPL",BEIN TH 4 HD
-https://tinyurl.com/y8uxvl4d
+http://212.8.243.195:8278/bein4_pat/playlist.m3u8?tid=17478661&tsum=244157e9baff33c5925259d176662d91
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5tg42PJW/EPL.png" group-title="EPL",SKYNET HD
 http://iptv.solata.info:8888/live/user-ags50/9zfawOgzQM/679.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/5tg42PJW/EPL.png" group-title="EPL",TV CHINO EPL
-https://bit.ly/2MW9Hfg
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/5tg42PJW/EPL.png" group-title="EPL",SKYNET
-https://tinyurl.com/yc2hlr6m
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5tg42PJW/EPL.png" group-title="EPL",MATCH! HD
 http://persik.by/stream/2944/263250/276.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5tg42PJW/EPL.png" group-title="EPL",MATCH! FOOTBALL
