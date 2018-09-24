@@ -21,15 +21,15 @@ http://5.79.87.234:8278/Foxmovie/playlist.m3u8?tid=12213056&tsum=cbc49cca757392e
 http://5.79.87.234:8278/Foxactionhd/playlist.m3u8?tid=11104976&tsum=2f8000f60f0ff41491ce9f6efe739da1
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5tg42PJW/EPL.png" group-title="EPL",SKYNET
-http://5.79.87.234:8278/skynethd_pat/playlist.m3u8?tid=15724129&tsum=74aa2be44def301a54a6c7e1a9e7e810
+http://5.79.87.234:8278/skynethd_pat/playlist.m3u8?tid=17368053&tsum=b8a0ac907922c34705f0d2f6a044fb5
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5tg42PJW/EPL.png" group-title="EPL",BEIN TH 1 HD
-http://212.8.243.195:8278/bein1_pat/playlist.m3u8?tid=16700818&tsum=01194eeb39022cccc55c3c4d1195a1c8
+http://212.8.243.195:8278/bein1_pat/playlist.m3u8?tid=16926672&tsum=05f27d9d10a18b480a5bbe9f0c93736c
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5tg42PJW/EPL.png" group-title="EPL",BEIN TH 2 HD
-http://212.8.243.195:8278/bein2_pat/playlist.m3u8?tid=12787695&tsum=8272226917697bfee8b8e5cdde274c25
+http://212.8.243.195:8278/bein2_pat/playlist.m3u8?tid=15193853&tsum=8f34f08f419e1897980b8770a36fccb9
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5tg42PJW/EPL.png" group-title="EPL",BEIN TH 3 HD
-http://212.8.243.195:8278/bein3_pat/playlist.m3u8?tid=17855968&tsum=523afafb2059b8c51222405a7e192a9b
+http://212.8.243.195:8278/bein3_pat/playlist.m3u8?tid=11250480&tsum=f9518fa52a802c1809244d3ab0a34e04
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5tg42PJW/EPL.png" group-title="EPL",BEIN TH 4 HD
-http://212.8.243.195:8278/bein4_pat/playlist.m3u8?tid=17478661&tsum=244157e9baff33c5925259d176662d91
+http://212.8.243.195:8278/bein4_pat/playlist.m3u8?tid=16289919&tsum=5355d6b22fa042263f635675c00d3f24
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5tg42PJW/EPL.png" group-title="EPL",SKYNET HD
 http://iptv.solata.info:8888/live/user-ags50/9zfawOgzQM/679.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5tg42PJW/EPL.png" group-title="EPL",MATCH! HD
