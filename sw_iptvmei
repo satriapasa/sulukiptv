@@ -17,15 +17,18 @@ http://bit.ly/SulukHBO
 http://5.79.87.234:8278/Foxmovie/playlist.m3u8?tid=12213056&tsum=cbc49cca757392e76f836fe27c0e91fa
 #EXTINF:-1 tvg-logo="https://postimg.cc/S2cfLZqQ" group-title="BIG TV",FOX ACTION
 http://5.79.87.234:8278/Foxactionhd/playlist.m3u8?tid=11104976&tsum=2f8000f60f0ff41491ce9f6efe739da1
-#EXTINF:-1 tvg-logo="https://postimg.cc/S2cfLZqQ" group-title="BIG TV",BLUE ANT EXTREME
-http://edge.linknetott.swiftserve.com/channelgroup2/cg255production/ch330/02.m3u8
 #EXTINF:-1 tvg-logo="https://postimg.cc/S2cfLZqQ" group-title="BIG TV",MIX_TV
 https://bit.ly/2xAoTK9
-#EXTINF:-1 tvg-logo="https://postimg.cc/S2cfLZqQ" group-title="BIG TV",DANGDUT
-https://bit.ly/2xKeFWY
-#EXTINF:-1 tvg-logo="https://postimg.cc/S2cfLZqQ" group-title="BIG TV",KARAOKE
-https://bit.ly/2Q2gshK
-
+#EXTINF:-1 tvg-logo="https://postimg.cc/S2cfLZqQ" group-title="BIG TV",BLUE ANT EXTREME
+http://5.79.87.234:8278/Fxhd/playlist.m3u8?tid=11869161&tsum=324cd218630a0d60ef702d4865dcd62b
+#EXTINF:-1 tvg-logo="https://postimg.cc/S2cfLZqQ" group-title="BIG TV",FOX HD
+http://50.7.92.2:8278/Foxhd/playlist.m3u8?tid=17345402&tsum=3a0f0f58ad7c02e01524a26e9787d16c
+#EXTINF:-1 tvg-logo="https://postimg.cc/S2cfLZqQ" group-title="BIG TV",FOX FAMILY HD
+http://50.7.92.2:8278/Foxfamily/playlist.m3u8?tid=18353432&tsum=f950328eb1a448825fa3dd12da61d96f
+#EXTINF:-1 tvg-logo="https://postimg.cc/S2cfLZqQ" group-title="BIG TV",AXN HD
+http://5.79.87.234:8278/Axn/playlist.m3u8?tid=10456620&tsum=9222d0487343258b21972b235df19479
+#EXTINF:-1 tvg-logo="https://postimg.cc/S2cfLZqQ" group-title="BIG TV",CINEMAX HD
+http://5.79.87.234:8278/Cinemax/playlist.m3u8?tid=10594417&tsum=a166bb4e7af1f4ee4af86e2a0581c00f
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5tg42PJW/EPL.png" group-title="EPL",SKYNET
 http://5.79.87.234:8278/skynethd_pat/playlist.m3u8?tid=18648857&tsum=143f41feac0c7b6df9c46f90e156fe5b
