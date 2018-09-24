@@ -16,9 +16,9 @@ https://tinyurl.com/ya887zyn
 #EXTINF:-1 tvg-logo="https://s20.postimg.cc/w3ltpyyb1/MOVIE.jpg" group-title="MOVIE",HBO INDO
 http://bit.ly/SulukHBO
 #EXTINF:-1 tvg-logo="https://s20.postimg.cc/w3ltpyyb1/MOVIE.jpg" group-title="MOVIE",FOX MOVIE
-http://5.79.87.234:8278/Foxmovie/playlist.m3u8?tid=17625733&tsum=cb8a5996994a10aff8e9809756714219
+http://5.79.87.234:8278/Foxmovie/playlist.m3u8?tid=12213056&tsum=cbc49cca757392e76f836fe27c0e91fa
 #EXTINF:-1 tvg-logo="https://s20.postimg.cc/w3ltpyyb1/MOVIE.jpg" group-title="MOVIE",FOX ACTION
-http://5.79.87.234:8278/Foxactionhd/playlist.m3u8?tid=13149668&tsum=c4543d6c5013f34e38a7c5c4c696314f
+http://5.79.87.234:8278/Foxactionhd/playlist.m3u8?tid=11104976&tsum=2f8000f60f0ff41491ce9f6efe739da1
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5tg42PJW/EPL.png" group-title="EPL",SKYNET
 http://5.79.87.234:8278/skynethd_pat/playlist.m3u8?tid=15724129&tsum=74aa2be44def301a54a6c7e1a9e7e810
