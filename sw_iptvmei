@@ -10,15 +10,22 @@ http://31.41.20.14:4054
 rtmp://rtmp.one.by/HD/1muz
 #EXTINF:-1 tvg-logo="https://s20.postimg.cc/9l1llt02l/IPTVKU_LOGO1.png" group-title="SULUK IPTV",U16 FOX 2
 http://119.59.125.74/stream/totnew.php?channel_id=02cb79ab0b0c418f847148ca9e2baed4&.m3u8
-#EXTINF:-1 tvg-logo="https://s20.postimg.cc/9l1llt02l/IPTVKU_LOGO1.png" group-title="SULUK IPTV",FOX HD MotoGP
-https://tinyurl.com/ya887zyn
 
-#EXTINF:-1 tvg-logo="https://s20.postimg.cc/w3ltpyyb1/MOVIE.jpg" group-title="MOVIE",HBO INDO
+#EXTINF:-1 tvg-logo="https://postimg.cc/S2cfLZqQ" group-title="BIG TV",HBO INDO
 http://bit.ly/SulukHBO
-#EXTINF:-1 tvg-logo="https://s20.postimg.cc/w3ltpyyb1/MOVIE.jpg" group-title="MOVIE",FOX MOVIE
+#EXTINF:-1 tvg-logo="https://postimg.cc/S2cfLZqQ" group-title="BIG TV",FOX MOVIE
 http://5.79.87.234:8278/Foxmovie/playlist.m3u8?tid=12213056&tsum=cbc49cca757392e76f836fe27c0e91fa
-#EXTINF:-1 tvg-logo="https://s20.postimg.cc/w3ltpyyb1/MOVIE.jpg" group-title="MOVIE",FOX ACTION
+#EXTINF:-1 tvg-logo="https://postimg.cc/S2cfLZqQ" group-title="BIG TV",FOX ACTION
 http://5.79.87.234:8278/Foxactionhd/playlist.m3u8?tid=11104976&tsum=2f8000f60f0ff41491ce9f6efe739da1
+#EXTINF:-1 tvg-logo="https://postimg.cc/S2cfLZqQ" group-title="BIG TV",BLUE ANT EXTREME
+http://edge.linknetott.swiftserve.com/channelgroup2/cg255production/ch330/02.m3u8
+#EXTINF:-1 tvg-logo="https://postimg.cc/S2cfLZqQ" group-title="BIG TV",MIX_TV
+https://bit.ly/2xAoTK9
+#EXTINF:-1 tvg-logo="https://postimg.cc/S2cfLZqQ" group-title="BIG TV",DANGDUT
+https://bit.ly/2xKeFWY
+#EXTINF:-1 tvg-logo="https://postimg.cc/S2cfLZqQ" group-title="BIG TV",KARAOKE
+https://bit.ly/2Q2gshK
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5tg42PJW/EPL.png" group-title="EPL",SKYNET
 http://5.79.87.234:8278/skynethd_pat/playlist.m3u8?tid=18648857&tsum=143f41feac0c7b6df9c46f90e156fe5b
