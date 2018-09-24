@@ -21,7 +21,7 @@ http://5.79.87.234:8278/Foxmovie/playlist.m3u8?tid=12213056&tsum=cbc49cca757392e
 http://5.79.87.234:8278/Foxactionhd/playlist.m3u8?tid=11104976&tsum=2f8000f60f0ff41491ce9f6efe739da1
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5tg42PJW/EPL.png" group-title="EPL",SKYNET
-http://5.79.87.234:8278/skynethd_pat/playlist.m3u8?tid=17368053&tsum=b8a0ac907922c34705f0d2f6a044fb5
+http://5.79.87.234:8278/skynethd_pat/playlist.m3u8?tid=18648857&tsum=143f41feac0c7b6df9c46f90e156fe5b
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5tg42PJW/EPL.png" group-title="EPL",BEIN TH 1 HD
 http://212.8.243.195:8278/bein1_pat/playlist.m3u8?tid=16926672&tsum=05f27d9d10a18b480a5bbe9f0c93736c
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5tg42PJW/EPL.png" group-title="EPL",BEIN TH 2 HD
