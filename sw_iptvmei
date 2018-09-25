@@ -42,6 +42,10 @@ http://5.79.87.234:8278/bein2_pat/playlist.m3u8?tid=18023829&tsum=eff660e539aa86
 http://212.8.243.195:8278/bein3_pat/playlist.m3u8?tid=17886033&tsum=985791f55888e0ce91bd984659468a41
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5tg42PJW/EPL.png" group-title="EPL",BEIN TH 4 HD
 http://5.79.87.234:8278/bein4_pat/playlist.m3u8?tid=18355864&tsum=f020f75cf84567f7813d6efe88e69c77
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5tg42PJW/EPL.png" group-title="EPL",CCTV 5
+https://bit.ly/2PZMt9W
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5tg42PJW/EPL.png" group-title="EPL",CCTV 5+
+https://bit.ly/2O4rl5p
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5tg42PJW/EPL.png" group-title="EPL",SKYNET HD
 http://iptv.solata.info:8888/live/user-ags50/9zfawOgzQM/679.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5tg42PJW/EPL.png" group-title="EPL",MATCH! HD
