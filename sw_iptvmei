@@ -16,32 +16,32 @@ http://202.80.222.4/mnt/tmpfs/hls/001/001/ch14041511111714365733/1024.m3u8
 #EXTINF:-1 tvg-logo="https://postimg.cc/S2cfLZqQ" group-title="BIG TV",HBO INDO
 http://bit.ly/SulukHBO
 #EXTINF:-1 tvg-logo="https://postimg.cc/S2cfLZqQ" group-title="BIG TV",FOX MOVIE
-http://5.79.87.234:8278/Foxmovie/playlist.m3u8?tid=12213056&tsum=cbc49cca757392e76f836fe27c0e91fa
+http://5.79.87.234:8278/Foxmovie/playlist.m3u8?tid=10411704&tsum=6dfb44c22858ad0705b05b2120916963
 #EXTINF:-1 tvg-logo="https://postimg.cc/S2cfLZqQ" group-title="BIG TV",FOX ACTION
-http://5.79.87.234:8278/Foxactionhd/playlist.m3u8?tid=11104976&tsum=2f8000f60f0ff41491ce9f6efe739da1
+http://5.79.87.234:8278/Foxactionhd/playlist.m3u8?tid=15721544&tsum=001d28e1bf718098e627a42d9c7a15aa
 #EXTINF:-1 tvg-logo="https://postimg.cc/S2cfLZqQ" group-title="BIG TV",MIX_TV
 https://bit.ly/2xAoTK9
 #EXTINF:-1 tvg-logo="https://postimg.cc/S2cfLZqQ" group-title="BIG TV",BLUE ANT EXTREME
-http://5.79.87.234:8278/Fxhd/playlist.m3u8?tid=11869161&tsum=324cd218630a0d60ef702d4865dcd62b
+http://5.79.87.234:8278/Fxhd/playlist.m3u8?tid=15801885&tsum=c8de964735f64ac8ddddfd6b8a1644b8
 #EXTINF:-1 tvg-logo="https://postimg.cc/S2cfLZqQ" group-title="BIG TV",FOX HD
-http://50.7.92.2:8278/Foxhd/playlist.m3u8?tid=17345402&tsum=3a0f0f58ad7c02e01524a26e9787d16c
+http://50.7.92.2:8278/Foxhd/playlist.m3u8?tid=17059803&tsum=cd8355ffa49544c9ea4007b633cd476b
 #EXTINF:-1 tvg-logo="https://postimg.cc/S2cfLZqQ" group-title="BIG TV",FOX FAMILY HD
-http://50.7.92.2:8278/Foxfamily/playlist.m3u8?tid=18353432&tsum=f950328eb1a448825fa3dd12da61d96f
+http://50.7.92.2:8278/Foxfamily/playlist.m3u8?tid=14155122&tsum=49864ed490b00ee6155d5cc82db584c5
 #EXTINF:-1 tvg-logo="https://postimg.cc/S2cfLZqQ" group-title="BIG TV",AXN HD
-http://5.79.87.234:8278/Axn/playlist.m3u8?tid=10456620&tsum=9222d0487343258b21972b235df19479
+http://5.79.87.234:8278/Axn/playlist.m3u8?tid=14209660&tsum=f48f7e0cb8b5d391ed3c5a189376e80f
 #EXTINF:-1 tvg-logo="https://postimg.cc/S2cfLZqQ" group-title="BIG TV",CINEMAX HD
-http://5.79.87.234:8278/Cinemax/playlist.m3u8?tid=10594417&tsum=a166bb4e7af1f4ee4af86e2a0581c00f
+http://5.79.87.234:8278/Cinemax/playlist.m3u8?tid=13283465&tsum=fbb90160cda67900fd5114b6faa634e7
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5tg42PJW/EPL.png" group-title="EPL",SKYNET
-http://5.79.87.234:8278/skynethd_pat/playlist.m3u8?tid=18648857&tsum=143f41feac0c7b6df9c46f90e156fe5b
+http://5.79.87.234:8278/skynethd_pat/playlist.m3u8?tid=13669724&tsum=bd3fc6db9347ef9554da3e7aa7eca264
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5tg42PJW/EPL.png" group-title="EPL",BEIN TH 1 HD
-http://212.8.243.195:8278/bein1_pat/playlist.m3u8?tid=16926672&tsum=05f27d9d10a18b480a5bbe9f0c93736c
+http://5.79.87.234:8278/bein1_pat/playlist.m3u8?tid=12578275&tsum=723bdec9f7d7818988c2f78e4e1bbf0b
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5tg42PJW/EPL.png" group-title="EPL",BEIN TH 2 HD
-http://212.8.243.195:8278/bein2_pat/playlist.m3u8?tid=15193853&tsum=8f34f08f419e1897980b8770a36fccb9
+http://5.79.87.234:8278/bein2_pat/playlist.m3u8?tid=18023829&tsum=eff660e539aa86a350d1b8e6a0e2cee0
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5tg42PJW/EPL.png" group-title="EPL",BEIN TH 3 HD
-http://212.8.243.195:8278/bein3_pat/playlist.m3u8?tid=11250480&tsum=f9518fa52a802c1809244d3ab0a34e04
+http://212.8.243.195:8278/bein3_pat/playlist.m3u8?tid=17886033&tsum=985791f55888e0ce91bd984659468a41
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5tg42PJW/EPL.png" group-title="EPL",BEIN TH 4 HD
-http://212.8.243.195:8278/bein4_pat/playlist.m3u8?tid=16289919&tsum=5355d6b22fa042263f635675c00d3f24
+http://5.79.87.234:8278/bein4_pat/playlist.m3u8?tid=18355864&tsum=f020f75cf84567f7813d6efe88e69c77
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5tg42PJW/EPL.png" group-title="EPL",SKYNET HD
 http://iptv.solata.info:8888/live/user-ags50/9zfawOgzQM/679.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5tg42PJW/EPL.png" group-title="EPL",MATCH! HD
