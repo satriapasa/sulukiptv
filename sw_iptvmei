@@ -15,33 +15,35 @@ http://202.80.222.4/mnt/tmpfs/hls/001/001/ch14041511111714365733/1024.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zBc2rMch/LAIN2.png" group-title="BIG TV",HBO INDO HD
 http://bit.ly/SulukHBO
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/zBc2rMch/LAIN2.png" group-title="BIG TV",FOX MOVIE PREMIUM HD
-http://5.79.87.234:8278/Foxmovie/playlist.m3u8?tid=12222495&tsum=d0d8659db90bff8abea88fe13b4d41ba
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zBc2rMch/LAIN2.png" group-title="BIG TV",HBO HITZ HD
+http://5.79.87.234:8278/Hbohits/playlist.m3u8?tid=16270221&tsum=bbcef329ccae21be4393b62f073be62c
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zBc2rMch/LAIN2.png" group-title="BIG TV",FOX MOVIES PREMIUM HD
+http://5.79.87.234:8278/Foxmovie/playlist.m3u8?tid=13783716&tsum=128a4b1db6d64a4bccb2e411b4cd9f68
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zBc2rMch/LAIN2.png" group-title="BIG TV",FOX ACTION HD
-http://5.79.87.234:8278/Foxactionhd/playlist.m3u8?tid=14656802&tsum=8aa51ea6e11aec557ca18b84235ce8cd
+http://5.79.87.234:8278/Foxactionhd/playlist.m3u8?tid=10491432&tsum=527138455d9990170d58610f3d4deded
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zBc2rMch/LAIN2.png" group-title="BIG TV",MIX_TV 
 https://bit.ly/2xAoTK9
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zBc2rMch/LAIN2.png" group-title="BIG TV",BLUE ANT EXTREME HD
-http://5.79.87.234:8278/Fxhd/playlist.m3u8?tid=11904908&tsum=0f9459b7f572081436eaffa43ea116bc
+http://5.79.87.234:8278/Fxhd/playlist.m3u8?tid=17272842&tsum=5329d2c448e440c409a2ea949b6c606a
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zBc2rMch/LAIN2.png" group-title="BIG TV",FOX HD
 http://50.7.92.2:8278/Foxhd/playlist.m3u8?tid=13744395&tsum=fadaaa8eb721bb4688eb22567f7abe61
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zBc2rMch/LAIN2.png" group-title="BIG TV",FOX FAMILY HD
-http://50.7.92.2:8278/Foxfamily/playlist.m3u8?tid=13223832&tsum=f0e7b425eeaac4bf9ed874b3d8a5370a
+http://50.7.92.2:8278/Foxfamily/playlist.m3u8?tid=10085869&tsum=cd13364f75af9215decec40b2106b8dd
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zBc2rMch/LAIN2.png" group-title="BIG TV",AXN HD
-http://5.79.87.234:8278/Axn/playlist.m3u8?tid=14693778&tsum=d5fc048f4da1dad2ec58196cdd49119f
+http://5.79.87.234:8278/Axn/playlist.m3u8?tid=15901384&tsum=b89ceb73a31b6af1d3b406c638716e58
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zBc2rMch/LAIN2.png" group-title="BIG TV",CINEMAX HD
-http://5.79.87.234:8278/Cinemax/playlist.m3u8?tid=15215624&tsum=ef20b1648c5b79c563f738810afd31de
+http://5.79.87.234:8278/Cinemax/playlist.m3u8?tid=15398785&tsum=701ec7fd333ac25b04e4e69a1959c3cb
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5tg42PJW/EPL.png" group-title="EPL",SKYNET
-http://5.79.87.234:8278/skynethd_pat/playlist.m3u8?tid=11291869&tsum=e1c0b682d5e979ff03aaa2f7bd37f50e
+http://5.79.87.234:8278/skynethd_pat/playlist.m3u8?tid=17141086&tsum=ba8fbf8d2f74acf0967514e62043803a
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5tg42PJW/EPL.png" group-title="EPL",BEIN TH 1 HD
-http://5.79.87.234:8278/bein1_pat/playlist.m3u8?tid=13728616&tsum=2f0d6ff5a1c1695892005d72b6eb2432
+http://5.79.87.234:8278/bein1_pat/playlist.m3u8?tid=15375907&tsum=fc02ca9b43371bd7c4ec4e87caf3a48c
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5tg42PJW/EPL.png" group-title="EPL",BEIN TH 2 HD
-http://5.79.87.234:8278/bein2_pat/playlist.m3u8?tid=16595392&tsum=c7a174b5ad4086dcd8355123f6365990
+http://5.79.87.234:8278/bein2_pat/playlist.m3u8?tid=13855665&tsum=6a51d3e3842bb819fa023f685ff151cc
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5tg42PJW/EPL.png" group-title="EPL",BEIN TH 3 HD
-http://212.8.243.195:8278/bein3_pat/playlist.m3u8?tid=12044957&tsum=bdcf244e2d2d9e5caad975fc2e18cd16
+http://212.8.243.195:8278/bein3_pat/playlist.m3u8?tid=10230570&tsum=c864b8ed7179e06f1311cffb8ae4d2b8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5tg42PJW/EPL.png" group-title="EPL",BEIN TH 4 HD
-http://5.79.87.234:8278/bein4_pat/playlist.m3u8?tid=14829943&tsum=841a47f8899d6e83f7936ea5d0fafd22
+http://5.79.87.234:8278/bein4_pat/playlist.m3u8?tid=13605834&tsum=360913edc74286d1971a92a65420dc2c
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5tg42PJW/EPL.png" group-title="EPL",CCTV 5
 https://bit.ly/2PZMt9W
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5tg42PJW/EPL.png" group-title="EPL",CCTV 5+
