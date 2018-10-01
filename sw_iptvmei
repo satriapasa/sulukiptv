@@ -140,6 +140,16 @@ http://cshms4.airtel.tv/wh7f454c46tw3044125113_1979135345/PLTV/88888888/224/3221
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L8N4HC2K/UCL-logo.png" group-title="UCL",SONY SIX HD
 http://cshms4.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221225780/05.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L8N4HC2K/UCL-logo.png" group-title="UCL",TSN 1 HD
+http://194.88.107.95:6204/live/khadim/123456/10636.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L8N4HC2K/UCL-logo.png" group-title="UCL",TSN 2 HD
+http://194.88.107.95:6204/live/khadim/123456/10635.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L8N4HC2K/UCL-logo.png" group-title="UCL",TSN 3 HD
+http://194.88.107.95:6204/live/khadim/123456/10634.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L8N4HC2K/UCL-logo.png" group-title="UCL",TSN 4 HD
+http://194.88.107.95:6204/live/khadim/123456/10633.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L8N4HC2K/UCL-logo.png" group-title="UCL",TSN 5 HD
+http://194.88.107.95:6204/live/khadim/123456/10632.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L8N4HC2K/UCL-logo.png" group-title="UCL",MATCH! HD
 http://persik.by/stream/2944/263250/276.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L8N4HC2K/UCL-logo.png" group-title="UCL",MATCH! FOOTBALL
