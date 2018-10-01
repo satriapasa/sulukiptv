@@ -144,14 +144,7 @@ http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/38.ts
 http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/39.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L8N4HC2K/UCL-logo.png" group-title="UCL",SPORT TV 5 HD
 http://dgimedia.ddns.net:9898/live/arsenallondyn/arsenallondyn/40.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L8N4HC2K/UCL-logo.png" group-title="UCL",CANAL+ FOOTBALL
-http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/760.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L8N4HC2K/UCL-logo.png" group-title="UCL",RMC SPORT
-http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/1096.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L8N4HC2K/UCL-logo.png" group-title="UCL",RMC 2
-http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/1095.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L8N4HC2K/UCL-logo.png" group-title="UCL",SKY SPORT 1 (GR)
-http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/857.ts
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L8N4HC2K/UCL-logo.png" group-title="UCL",TSN 1
 http://163.172.15.141:9732/live?channelId=217&uid=2454&deviceMac=00:1A:79:3C:C9:29
@@ -177,7 +170,6 @@ http://188.93.238.184:8000/live/snet/snet/36500.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L8N4HC2K/UCL-logo.png" group-title="UCL",SKYNET SPORT 6
 http://188.93.238.184:8000/live/snet/snet/36499.ts
 
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L8N4HC2K/UCL-logo.png" group-title="UCL",ARENA SPORT 1 
 http://46.40.5.99:8000/arena_1_high
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L8N4HC2K/UCL-logo.png" group-title="UCL",ARENA SPORT 2 
@@ -201,6 +193,36 @@ http://185.93.3.84:5000/play/a01t
 http://185.93.3.84:5000/play/a01u
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L8N4HC2K/UCL-logo.png" group-title="UCL",(FR) beIN Sport 5
 http://185.93.3.84:5000/play/a02e
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wvynBckH/bundesliga.jpg" group-title="SPORT",CANAL+ FOOTBALL
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/760.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wvynBckH/bundesliga.jpg" group-title="SPORT",CANAL SPORT
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/739.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wvynBckH/bundesliga.jpg" group-title="SPORT",RMC SPORT
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/1096.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wvynBckH/bundesliga.jpg" group-title="SPORT",RMC 2
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/1095.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wvynBckH/bundesliga.jpg" group-title="SPORT",BUNDESLIGA 1
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/857.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wvynBckH/bundesliga.jpg" group-title="SPORT",BUNDESLIGA 2
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/856.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wvynBckH/bundesliga.jpg" group-title="SPORT",BUNDESLIGA 3
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/854.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wvynBckH/bundesliga.jpg" group-title="SPORT",BUNDESLIGA 4
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/853.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wvynBckH/bundesliga.jpg" group-title="SPORT",BUNDESLIGA 5
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/855.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wvynBckH/bundesliga.jpg" group-title="SPORT",SERIE A
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/820.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wvynBckH/bundesliga.jpg" group-title="SPORT",LIGA CALCIO 1
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/822.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wvynBckH/bundesliga.jpg" group-title="SPORT",LIGA CALCIO 2
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/821.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wvynBckH/bundesliga.jpg" group-title="SPORT",SPORT ITALI
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/816.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wvynBckH/bundesliga.jpg" group-title="SPORT",BEIN LALIGA
+http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/916.ts
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sXXHbywy/INDO.png" group-title="INDONESIA",RCTI
 http://202.80.222.4/mnt/tmpfs/hls/001/001/ch14041511532707866226/1024.m3u8
