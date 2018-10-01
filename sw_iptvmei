@@ -13,6 +13,12 @@ http://119.59.125.74/stream/totnew.php?channel_id=02cb79ab0b0c418f847148ca9e2bae
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fTV1XQCm/IPTVKU_LOGO1.png" group-title="SULUK IPTV",U16 MNC
 http://202.80.222.171/000001/2/ch14041511111714365733/index.m3u8?virtualDomain=000001.live_hls.zte.com&IASHttpSessionId=OTT2198520181001081113021359
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zBc2rMch/LAIN2.png" group-title="BIG TV",HBO ASIA
+http://218.202.220.2:5000/nn_live.m3u8?id=HBO
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zBc2rMch/LAIN2.png" group-title="BIG TV",HBO HITZ HD ASIA
+http://bit.do/HBOHD_Hitz
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zBc2rMch/LAIN2.png" group-title="BIG TV",SONY PIX HD
+http://cshms4.airtel.tv/wh7f454c46tw2959729406_596421737/PLTV/88888888/224/3221226486/04.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zBc2rMch/LAIN2.png" group-title="BIG TV",HBO INDO HD
 http://bit.ly/SulukHBO
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zBc2rMch/LAIN2.png" group-title="BIG TV",HBO HITZ HD
@@ -97,6 +103,18 @@ http://persik.by/stream/3903/293564/10268.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L8N4HC2K/UCL-logo.png" group-title="UCL",INTRO UCL
 https://bit.ly/2NUDl5P
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L8N4HC2K/UCL-logo.png" group-title="UCL",NBCSN
+http://bit.do/Suluk_nbcsn
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L8N4HC2K/UCL-logo.png" group-title="UCL",FOX SPORT 1 (US)
+http://bit.do/Fox_Sport1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L8N4HC2K/UCL-logo.png" group-title="UCL",FOX SPORT 2 (US)
+http://bit.do/Fox_Sports2
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L8N4HC2K/UCL-logo.png" group-title="UCL",K+ Bóng Đá 1
+http://persik.by/stream/3903/293564/346.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L8N4HC2K/UCL-logo.png" group-title="UCL",K+ Bóng Đá 2
+http://persik.by/stream/3903/293564/10217.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L8N4HC2K/UCL-logo.png" group-title="UCL",K+ Bóng Đá 3
+http://persik.by/stream/3903/293564/10218.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L8N4HC2K/UCL-logo.png" group-title="UCL",SONY TEN 1 HD
 http://cshms4.airtel.tv/wh7f454c46tw1071703244_1357289440/PLTV/88888888/224/3221225875/05.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L8N4HC2K/UCL-logo.png" group-title="UCL",SONY TEN 2 HD
