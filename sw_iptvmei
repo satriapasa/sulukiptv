@@ -20,7 +20,7 @@ http://bit.do/HBOHD_Hitz
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zBc2rMch/LAIN2.png" group-title="BIG TV",SONY PIX HD
 http://cshms4.airtel.tv/wh7f454c46tw2959729406_596421737/PLTV/88888888/224/3221226486/04.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zBc2rMch/LAIN2.png" group-title="BIG TV",HBO INDO HD
-http://bit.ly/SulukHBO
+http://mysportv.net:8888/live/d3003/3003/210.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zBc2rMch/LAIN2.png" group-title="BIG TV",HBO HITZ HD
 http://5.79.87.234:8278/Hbohits/playlist.m3u8?tid=13864461&tsum=6f8b2ad3182d02120fa54e19bf380d82
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zBc2rMch/LAIN2.png" group-title="BIG TV",FOX MOVIES PREMIUM HD
@@ -74,8 +74,15 @@ http://185.8.176.227:25461/live/PD8fkEdbZ5/iz55nL9LQn/9606.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5tg42PJW/EPL.png" group-title="EPL",SKY SPORT HD 2
 http://185.8.176.227:25461/live/PD8fkEdbZ5/iz55nL9LQn/7013.ts
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/5tg42PJW/EPL.png" group-title="EPL",SKYNET
-http://5.79.87.234:8278/skynethd_pat/playlist.m3u8?tid=11422530&tsum=177219e8e32cc4339c4814c118e47b85
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5tg42PJW/EPL.png" group-title="EPL",SKYNET HD
+http://viper.streame.tv:9696/live/ViperTV/ViperIPTV/175.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5tg42PJW/EPL.png" group-title="EPL",SKYNET 1
+http://viper.streame.tv:9696/live/ViperTV/ViperIPTV/188.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5tg42PJW/EPL.png" group-title="EPL",SKYNET 2
+http://viper.streame.tv:9696/live/ViperTV/ViperIPTV/186.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5tg42PJW/EPL.png" group-title="EPL",SKYNET 3
+http://viper.streame.tv:9696/live/ViperTV/ViperIPTV/185.ts
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5tg42PJW/EPL.png" group-title="EPL",BEIN TH 1 HD
 http://212.8.243.195:8278/bein1_pat/playlist.m3u8?tid=15484914&tsum=ae162544707c6f0afe88d40247ee33e4
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5tg42PJW/EPL.png" group-title="EPL",BEIN TH 2 HD
