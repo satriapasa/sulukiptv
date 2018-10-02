@@ -26,7 +26,7 @@ http://mysportv.net:8888/live/d3003/3003/591.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zBc2rMch/LAIN2.png" group-title="BIG TV",FOX MOVIES PREMIUM HD
 http://mysportv.net:8888/live/d3003/3003/98.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zBc2rMch/LAIN2.png" group-title="BIG TV",FOX ACTION HD
-http://mysportv.net:8888/live/d3003/3003/99.ts
+http://194.88.107.95:6204/live/rahma/rahma1234/2696.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zBc2rMch/LAIN2.png" group-title="BIG TV",MIX_TV 
 https://bit.ly/2xAoTK9
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zBc2rMch/LAIN2.png" group-title="BIG TV",BLUE ANT EXTREME HD
@@ -40,48 +40,15 @@ http://mysportv.net:8888/live/d3003/3003/9.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zBc2rMch/LAIN2.png" group-title="BIG TV",GINX ESPORTS TV
 http://mysportv.net:8888/live/d3003/3003/532.ts
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/5tg42PJW/EPL.png" group-title="EPL",STAR SPORT SL 1
-http://xbox.ztv4you.com:25461/live/PD8fkEdbZ5/iz55nL9LQn/9941.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/5tg42PJW/EPL.png" group-title="EPL",STAR SPORT SL 2
-http://xbox.ztv4you.com:25461/live/PD8fkEdbZ5/iz55nL9LQn/9947.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/5tg42PJW/EPL.png" group-title="EPL",STAR SPORT HD 1
-http://xbox.ztv4you.com:25461/live/PD8fkEdbZ5/iz55nL9LQn/9939.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/5tg42PJW/EPL.png" group-title="EPL",STAR SPORT HD 2
-http://xbox.ztv4you.com:25461/live/PD8fkEdbZ5/iz55nL9LQn/9940.ts
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/5tg42PJW/EPL.png" group-title="EPL",BEIN SPORT 1 RTMP (FR)
-http://185.8.176.227:25461/live/PD8fkEdbZ5/iz55nL9LQn/5226.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/5tg42PJW/EPL.png" group-title="EPL",BEIN SPORT 2 RTMP (FR)
-http://185.8.176.227:25461/live/PD8fkEdbZ5/iz55nL9LQn/5227.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/5tg42PJW/EPL.png" group-title="EPL",BEIN SPORT 3 RTMP (FR)
-http://185.8.176.227:25461/live/PD8fkEdbZ5/iz55nL9LQn/5228.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/5tg42PJW/EPL.png" group-title="EPL",BEIN SPORT 1 RTMP (FR)
-http://185.8.176.227:25461/live/PD8fkEdbZ5/iz55nL9LQn/5226.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/5tg42PJW/EPL.png" group-title="EPL",BEIN SPORT 2 RTMP (FR)
-http://185.8.176.227:25461/live/PD8fkEdbZ5/iz55nL9LQn/5227.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/5tg42PJW/EPL.png" group-title="EPL",BEIN SPORT 3 RTMP (FR)
-http://185.8.176.227:25461/live/PD8fkEdbZ5/iz55nL9LQn/5228.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/5tg42PJW/EPL.png" group-title="EPL",SKY SPORT PREMIER LEAGUE HD
-http://185.8.176.227:25461/live/PD8fkEdbZ5/iz55nL9LQn/9612.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/5tg42PJW/EPL.png" group-title="EPL",SKY SPORT Football
-http://185.8.176.227:25461/live/PD8fkEdbZ5/iz55nL9LQn/9610.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/5tg42PJW/EPL.png" group-title="EPL",SKY SPORT Main EV Hd
-http://185.8.176.227:25461/live/PD8fkEdbZ5/iz55nL9LQn/9615.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/5tg42PJW/EPL.png" group-title="EPL",SKY SPORT MIX HD
-http://185.8.176.227:25461/live/PD8fkEdbZ5/iz55nL9LQn/9608.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/5tg42PJW/EPL.png" group-title="EPL",SKY SPORT NEWS
-http://185.8.176.227:25461/live/PD8fkEdbZ5/iz55nL9LQn/9606.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/5tg42PJW/EPL.png" group-title="EPL",SKY SPORT HD 2
-http://185.8.176.227:25461/live/PD8fkEdbZ5/iz55nL9LQn/7013.ts
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5tg42PJW/EPL.png" group-title="EPL",SKYNET HD
-http://viper.streame.tv:9696/live/ViperTV/ViperIPTV/175.ts
+http://5.79.87.234:8278/skynethd_pat/playlist.m3u8?tid=18766443&tsum=6315cf12ffe98f49a4cb5ad380dc7a8b
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5tg42PJW/EPL.png" group-title="EPL",SKYNET 1
-http://viper.streame.tv:9696/live/ViperTV/ViperIPTV/188.ts
+http://5.79.87.234:8278/skynet1_pat/playlist.m3u8?tid=10815583&tsum=f6f6482f6dc8b0f0eb6140c11bb39af8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5tg42PJW/EPL.png" group-title="EPL",SKYNET 2
-http://viper.streame.tv:9696/live/ViperTV/ViperIPTV/186.ts
+http://5.79.87.234:8278/skynet2_pat/playlist.m3u8?tid=10527706&tsum=10d5281536f8138d68fdc6958207e1d0
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5tg42PJW/EPL.png" group-title="EPL",SKYNET 3
-http://viper.streame.tv:9696/live/ViperTV/ViperIPTV/185.ts
+http://5.79.87.234:8278/skynet3_pat/playlist.m3u8?tid=15065299&tsum=0d0a1b5b996a52456f968449f527aedb
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5tg42PJW/EPL.png" group-title="EPL",BEIN TH 1 HD
 http://212.8.243.195:8278/bein1_pat/playlist.m3u8?tid=15484914&tsum=ae162544707c6f0afe88d40247ee33e4
@@ -124,6 +91,12 @@ http://194.88.107.95:6204/live/Abas/Abas/8647.ts
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L8N4HC2K/UCL-logo.png" group-title="UCL",INTRO UCL
 https://bit.ly/2NUDl5P
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L8N4HC2K/UCL-logo.png" group-title="UCL",BEIN SPORT 1 TURKI
+http://194.88.107.95:6204/live/rahma/rahma1234/13032.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L8N4HC2K/UCL-logo.png" group-title="UCL",BEIN SPORT 2 TURKI
+http://194.88.107.95:6204/live/rahma/rahma1234/13031.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L8N4HC2K/UCL-logo.png" group-title="UCL",BEIN SPORT 3 TURKI
+http://194.88.107.95:6204/live/rahma/rahma1234/13030.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L8N4HC2K/UCL-logo.png" group-title="UCL",NBCSN
 http://bit.do/Suluk_nbcsn
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L8N4HC2K/UCL-logo.png" group-title="UCL",FOX SPORT 1 (US)
