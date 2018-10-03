@@ -10,6 +10,14 @@ http://31.41.20.14:4054
 rtmp://rtmp.one.by/HD/1muz
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fTV1XQCm/IPTVKU_LOGO1.png" group-title="SULUK IPTV",U16 FOX 2
 http://119.59.125.74/stream/totnew.php?channel_id=02cb79ab0b0c418f847148ca9e2baed4&.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fTV1XQCm/IPTVKU_LOGO1.png" group-title="SULUK IPTV",WORLD FASHION
+http://31.28.170.226:54321/play/a00m
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fTV1XQCm/IPTVKU_LOGO1.png" group-title="SULUK IPTV",MTV LIVE HD
+http://31.28.170.226:54322/play/a004
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fTV1XQCm/IPTVKU_LOGO1.png" group-title="SULUK IPTV",BRIDGE TV DANCE
+http://31.28.170.226:54324/play/a00i
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fTV1XQCm/IPTVKU_LOGO1.png" group-title="SULUK IPTV",MCM TOP
+http://31.28.170.226:54324/play/a009
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fTV1XQCm/IPTVKU_LOGO1.png" group-title="SULUK IPTV",MATCH! ARENA
 http://31.28.170.226:54321/play/a001
@@ -26,14 +34,20 @@ http://31.28.170.226:54322/play/a002
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fTV1XQCm/IPTVKU_LOGO1.png" group-title="SULUK IPTV",MATCH! 3
 http://31.28.170.226:54321/play/a007
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/fTV1XQCm/IPTVKU_LOGO1.png" group-title="SULUK IPTV",WORLD FASHION
-http://31.28.170.226:54321/play/a00m
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/fTV1XQCm/IPTVKU_LOGO1.png" group-title="SULUK IPTV",MTV LIVE HD
-http://31.28.170.226:54322/play/a004
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/fTV1XQCm/IPTVKU_LOGO1.png" group-title="SULUK IPTV",BRIDGE TV DANCE
-http://31.28.170.226:54324/play/a00i
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/fTV1XQCm/IPTVKU_LOGO1.png" group-title="SULUK IPTV",MCM TOP
-http://31.28.170.226:54324/play/a009
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fTV1XQCm/IPTVKU_LOGO1.png" group-title="SULUK IPTV",Is- Yes Sport 1 HD
+http://194.88.107.95:6204/live/dana2/dana/8653.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fTV1XQCm/IPTVKU_LOGO1.png" group-title="SULUK IPTV",Is- Yes Sport 2 HD
+http://194.88.107.95:6204/live/dana2/dana/8652.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fTV1XQCm/IPTVKU_LOGO1.png" group-title="SULUK IPTV",Is- Yes Sport 3 hd
+http://194.88.107.95:6204/live/dana2/dana/8651.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fTV1XQCm/IPTVKU_LOGO1.png" group-title="SULUK IPTV",Is- Yes sport 4 hd
+http://194.88.107.95:6204/live/dana2/dana/8650.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fTV1XQCm/IPTVKU_LOGO1.png" group-title="SULUK IPTV",Is- Yes Sport 5 Gold
+http://194.88.107.95:6204/live/dana2/dana/8649.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fTV1XQCm/IPTVKU_LOGO1.png" group-title="SULUK IPTV",Is- Yes Sport 5 HD
+http://194.88.107.95:6204/live/dana2/dana/8648.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fTV1XQCm/IPTVKU_LOGO1.png" group-title="SULUK IPTV",Is- Yes Sport 5 Plus Live HD
+http://194.88.107.95:6204/live/dana2/dana/8647.ts
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fTV1XQCm/IPTVKU_LOGO1.png" group-title="SULUK IPTV",RMC 1 HD
 http://world-ipsat.com:1155/live/hakam/2018/7316.ts
