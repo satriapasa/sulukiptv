@@ -539,13 +539,13 @@ http://5.79.87.234:8278/Foxactionhd/playlist.m3u8?tid=11676139&tsum=b6ac50e06be5
 https://bit.ly/2xAoTK9
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5tg42PJW/EPL.png" group-title="EPL",BEIN TH 1 HD
-http://212.8.243.195:8278/bein1_pat/playlist.m3u8?tid=12823374&tsum=93f7fc1bf76c6923b294661e17f58382
+http://50.7.92.2:8278/bein1eu_pat/playlist.m3u8?tid=12823374&tsum=93f7fc1bf76c6923b294661e17f58382
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5tg42PJW/EPL.png" group-title="EPL",BEIN TH 2 HD
-http://212.8.243.195:8278/bein2_pat/playlist.m3u8?tid=15918303&tsum=80d04b1e2705ecb081a2153a835e7906
+http://50.7.92.2:8278/bein2eu_pat/playlist.m3u8?tid=15918303&tsum=80d04b1e2705ecb081a2153a835e7906
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5tg42PJW/EPL.png" group-title="EPL",BEIN TH 3 HD
-http://212.8.243.195:8278/bein3_pat/playlist.m3u8?tid=15942028&tsum=61fc5eba643558794729a04d7a1ac5cb
+http://50.7.92.2:8278/bein3eu_pat/playlist.m3u8?tid=15942028&tsum=61fc5eba643558794729a04d7a1ac5cb
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5tg42PJW/EPL.png" group-title="EPL",BEIN TH 4 HD
-http://212.8.243.195:8278/bein4_pat/playlist.m3u8?tid=10367139&tsum=075c9db5d7c22de58120bb930bad7579
+http://50.7.92.2:8278/bein3eu_pat/playlist.m3u8?tid=10367139&tsum=075c9db5d7c22de58120bb930bad7579
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5tg42PJW/EPL.png" group-title="EPL",CCTV 5
 https://bit.ly/2PZMt9W
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5tg42PJW/EPL.png" group-title="EPL",CCTV 5+
