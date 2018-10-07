@@ -13,242 +13,385 @@ rtmp://rtmp.one.by/HD/1muz
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fTV1XQCm/IPTVKU_LOGO1.png" group-title="SULUK IPTV",U16 FOX 2
 http://119.59.125.74/stream/totnew.php?channel_id=02cb79ab0b0c418f847148ca9e2baed4&.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",Usee Sport Liga Gojek
-http://tvku.live:8888/live/adam/adam123/693.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",BeIN Sport 1 INDO
-http://tvku.live:8888/live/adam/adam123/728.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",BeIN Sport 2 INDO
-http://tvku.live:8888/live/adam/adam123/729.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",BeIN Sport 3 INDO
-http://tvku.live:8888/live/adam/adam123/730.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",BeIN Sports 1 TrueVisions
-http://tvku.live:8888/live/adam/adam123/848.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",BeIN Sports 2 TrueVisions
-http://tvku.live:8888/live/adam/adam123/849.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",BeIN Sports 3 TrueVisions
-http://tvku.live:8888/live/adam/adam123/850.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",BeIN Sports 4 TrueVisions
-http://tvku.live:8888/live/adam/adam123/851.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",Fox Sports 1
-http://tvku.live:8888/live/adam/adam123/51.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",Fox Sports 2
-http://tvku.live:8888/live/adam/adam123/102.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",Fox Sports 3
-http://tvku.live:8888/live/adam/adam123/101.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",Skynet HD
-http://tvku.live:8888/live/adam/adam123/679.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",True Sport 1
-http://tvku.live:8888/live/adam/adam123/860.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",True Sport 2
-http://tvku.live:8888/live/adam/adam123/859.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",True Sport 3
-http://tvku.live:8888/live/adam/adam123/858.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",True Sport 4
-http://tvku.live:8888/live/adam/adam123/857.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",True Sport 5
-http://tvku.live:8888/live/adam/adam123/856.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",True Sport 6
-http://tvku.live:8888/live/adam/adam123/855.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",True Sport 7
-http://tvku.live:8888/live/adam/adam123/854.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",Sony Ten 1 HD Airtel
-http://tvku.live:8888/live/adam/adam123/619.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",Sony Ten 1 SD Airtel
-http://tvku.live:8888/live/adam/adam123/620.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",Sony Ten 2 HD Airtel
-http://tvku.live:8888/live/adam/adam123/621.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",Sony Ten 2 SD Airtel
-http://tvku.live:8888/live/adam/adam123/622.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",Sony Ten 3 HD Airtel
-http://tvku.live:8888/live/adam/adam123/623.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",Sony Ten 3 SD Airtel
-http://tvku.live:8888/live/adam/adam123/624.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",PPTV HD
-http://tvku.live:8888/live/adam/adam123/605.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",Sony ESPN
-http://tvku.live:8888/live/adam/adam123/162.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",BeIN Sports 1
-http://tvku.live:8888/live/adam/adam123/10.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",BeIN Sports 2
-http://tvku.live:8888/live/adam/adam123/11.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",BeIN Sports 3
-http://tvku.live:8888/live/adam/adam123/12.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",BeIN Sports 4
-http://tvku.live:8888/live/adam/adam123/217.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",BeIN Sports 5
-http://tvku.live:8888/live/adam/adam123/218.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",BeIN Sports 6
-http://tvku.live:8888/live/adam/adam123/219.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",BeIN Sports 7
-http://tvku.live:8888/live/adam/adam123/220.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",BeIN Sports 8
-http://tvku.live:8888/live/adam/adam123/221.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",BeIN Sports 9
-http://tvku.live:8888/live/adam/adam123/222.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",BeIN Sports 10
-http://tvku.live:8888/live/adam/adam123/253.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",BeIN Sports 11
-http://tvku.live:8888/live/adam/adam123/254.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",BeIN Sports 12
-http://tvku.live:8888/live/adam/adam123/255.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",Sky Sport F1
-http://tvku.live:8888/live/adam/adam123/415.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",BeIN LaLiga
-http://tvku.live:8888/live/adam/adam123/416.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",Sky Sport Premiere League
-http://tvku.live:8888/live/adam/adam123/317.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",Sky Sport Main Event
-http://tvku.live:8888/live/adam/adam123/316.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",Sky Sport Action
-http://tvku.live:8888/live/adam/adam123/315.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",Sky Sport Cricket
-http://tvku.live:8888/live/adam/adam123/314.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",Sky Sport Football
-http://tvku.live:8888/live/adam/adam123/477.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",Sky Sport Arena
-http://tvku.live:8888/live/adam/adam123/476.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",Euro Sports 1
-http://tvku.live:8888/live/adam/adam123/852.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",Euro Sports 2
-http://tvku.live:8888/live/adam/adam123/853.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",BT Sport 1
-http://tvku.live:8888/live/adam/adam123/319.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",BT Sport 2
-http://tvku.live:8888/live/adam/adam123/320.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",BT Sport 3
-http://tvku.live:8888/live/adam/adam123/321.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",BT Sport ESPN
-http://tvku.live:8888/live/adam/adam123/399.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",CCTV 5 HD
-http://tvku.live:8888/live/adam/adam123/595.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",CCTV 5 HD+
-http://tvku.live:8888/live/adam/adam123/814.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",GINX ESPORTS TV
-http://tvku.live:8888/live/adam/adam123/532.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",CTN
-http://tvku.live:8888/live/adam/adam123/781.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",MyTV
-http://tvku.live:8888/live/adam/adam123/783.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",Astro Arena HD
-http://tvku.live:8888/live/adam/adam123/567.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",Disney XD
-http://tvku.live:8888/live/adam/adam123/104.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",Nick Toons
-http://tvku.live:8888/live/adam/adam123/335.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",Nickelodeon
-http://tvku.live:8888/live/adam/adam123/252.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",Nick Jr
-http://tvku.live:8888/live/adam/adam123/522.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",FOX Movies HD
-http://tvku.live:8888/live/adam/adam123/98.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",FOX Action Movies HD
-http://tvku.live:8888/live/adam/adam123/99.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",FOX Family Movies HD
-http://tvku.live:8888/live/adam/adam123/100.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",FOX Crime HD
-http://tvku.live:8888/live/adam/adam123/763.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",FOX Life HD
-http://tvku.live:8888/live/adam/adam123/94.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",FOX HD
-http://tvku.live:8888/live/adam/adam123/95.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",FX HD
-http://tvku.live:8888/live/adam/adam123/776.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",Diva HD
-http://tvku.live:8888/live/adam/adam123/841.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",HBO HD
-http://tvku.live:8888/live/adam/adam123/210.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",HBO Hits
-http://tvku.live:8888/live/adam/adam123/591.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",HBO Family
-http://tvku.live:8888/live/adam/adam123/592.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",Cinemax
-http://tvku.live:8888/live/adam/adam123/796.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",Star Chinese Movies HD
-http://tvku.live:8888/live/adam/adam123/780.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",Blue Ant Extreme
-http://tvku.live:8888/live/adam/adam123/811.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",Waku Waku Japan
-http://tvku.live:8888/live/adam/adam123/717.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",Syfy
-http://tvku.live:8888/live/adam/adam123/538.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",HGTV
-http://tvku.live:8888/live/adam/adam123/537.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",AFC HD
-http://tvku.live:8888/live/adam/adam123/807.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",KBS World
-http://tvku.live:8888/live/adam/adam123/846.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",National Geographic Channel HD
-http://tvku.live:8888/live/adam/adam123/96.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",National Geographic Wild HD
-http://tvku.live:8888/live/adam/adam123/97.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",National Geographic People
-http://tvku.live:8888/live/adam/adam123/455.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",Nat Geo
-http://tvku.live:8888/live/adam/adam123/845.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",Nat Geo Wild
-http://tvku.live:8888/live/adam/adam123/844.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",History
-http://tvku.live:8888/live/adam/adam123/718.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",History US
-http://tvku.live:8888/live/adam/adam123/300.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",Animal Planet HD
-http://tvku.live:8888/live/adam/adam123/358.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",Animal Planet HD World
-http://tvku.live:8888/live/adam/adam123/514.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",Discovery Chanel HD
-http://tvku.live:8888/live/adam/adam123/165.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",Discovery Asia
-http://tvku.live:8888/live/adam/adam123/779.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",Discovery Science HD
-http://tvku.live:8888/live/adam/adam123/408.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",Discovery Shed
-http://tvku.live:8888/live/adam/adam123/333.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",Discovery Turbo
-http://tvku.live:8888/live/adam/adam123/462.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",Discovery History
-http://tvku.live:8888/live/adam/adam123/511.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",Discovery HD World
-http://tvku.live:8888/live/adam/adam123/513.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",Crime Investigation
-http://tvku.live:8888/live/adam/adam123/332.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",CGTN
-http://tvku.live:8888/live/adam/adam123/362.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",Discovery KINDOs
-http://tvku.live:8888/live/adam/adam123/507.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",CNC
-http://tvku.live:8888/live/adam/adam123/782.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",Astro Awani
-http://tvku.live:8888/live/adam/adam123/294.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",Astro Hello
-http://tvku.live:8888/live/adam/adam123/804.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",Sky Movies Sci Fi
-http://tvku.live:8888/live/adam/adam123/274.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",Sky Movies Family
-http://tvku.live:8888/live/adam/adam123/273.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",Sky Movies Disney
-http://tvku.live:8888/live/adam/adam123/272.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",Sky Movies Action
-http://tvku.live:8888/live/adam/adam123/269.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",Zoom TV
-http://tvku.live:8888/live/adam/adam123/815.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",MTV
-http://tvku.live:8888/live/adam/adam123/281.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",MTV Music
-http://tvku.live:8888/live/adam/adam123/286.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",MTV Hits
-http://tvku.live:8888/live/adam/adam123/287.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",MTV Dance
-http://tvku.live:8888/live/adam/adam123/288.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",MTV Classic
-http://tvku.live:8888/live/adam/adam123/289.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",MTV Base
-http://tvku.live:8888/live/adam/adam123/291.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",Trace Urban
-http://tvku.live:8888/live/adam/adam123/106.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",TLC HD
-http://tvku.live:8888/live/adam/adam123/352.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",TLC English
-http://tvku.live:8888/live/adam/adam123/351.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",IN | VIP STAR MOVIES HD
+http://viprestream.loginto.me:25461/live/JacksonJa/GMwsPFTsWe/3161.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",IN | VIP Star Movies select HD
+http://viprestream.loginto.me:25461/live/JacksonJa/GMwsPFTsWe/3160.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",IN | VIP STAR PLUS HD
+http://viprestream.loginto.me:25461/live/JacksonJa/GMwsPFTsWe/3159.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",IN | VIP Star sports HD1
+http://viprestream.loginto.me:25461/live/JacksonJa/GMwsPFTsWe/3158.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",IN | VIP Star sports HD2
+http://viprestream.loginto.me:25461/live/JacksonJa/GMwsPFTsWe/3157.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",IN | VIP Star sports HD3
+http://viprestream.loginto.me:25461/live/JacksonJa/GMwsPFTsWe/3156.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",IN | VIP Star sports HD4
+http://viprestream.loginto.me:25461/live/JacksonJa/GMwsPFTsWe/3155.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",UK | Sky Action Movies
+http://viprestream.loginto.me:25461/live/JacksonJa/GMwsPFTsWe/190.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",UK | Sky Arts
+http://viprestream.loginto.me:25461/live/JacksonJa/GMwsPFTsWe/189.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",UK | Sky Atlantic
+http://viprestream.loginto.me:25461/live/JacksonJa/GMwsPFTsWe/188.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",UK | Sky Comedy Movies
+http://viprestream.loginto.me:25461/live/JacksonJa/GMwsPFTsWe/187.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",UK | Sky Family Movies
+http://viprestream.loginto.me:25461/live/JacksonJa/GMwsPFTsWe/186.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",UK | Sky Greats Movies
+http://viprestream.loginto.me:25461/live/JacksonJa/GMwsPFTsWe/185.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",UK | Sky Living UK
+http://viprestream.loginto.me:25461/live/JacksonJa/GMwsPFTsWe/184.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",UK | Sky Movies Disney
+http://viprestream.loginto.me:25461/live/JacksonJa/GMwsPFTsWe/183.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",UK | Sky Movies Drama & Romance
+http://viprestream.loginto.me:25461/live/JacksonJa/GMwsPFTsWe/182.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",UK | Sky News UK
+http://viprestream.loginto.me:25461/live/JacksonJa/GMwsPFTsWe/181.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",UK | Sky Premiere Movies
+http://viprestream.loginto.me:25461/live/JacksonJa/GMwsPFTsWe/180.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",UK | Sky Select Movies
+http://viprestream.loginto.me:25461/live/JacksonJa/GMwsPFTsWe/178.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",UK | Sky Sports News HQ
+http://viprestream.loginto.me:25461/live/JacksonJa/GMwsPFTsWe/177.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",UK | Sky Sports MAIN EVENT
+http://viprestream.loginto.me:25461/live/JacksonJa/GMwsPFTsWe/176.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",UK | Sky Sports CRICKET
+http://viprestream.loginto.me:25461/live/JacksonJa/GMwsPFTsWe/175.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",UK | Sky Sports ACTION
+http://viprestream.loginto.me:25461/live/JacksonJa/GMwsPFTsWe/174.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",UK | Sky Sports GOLF HD
+http://viprestream.loginto.me:25461/live/JacksonJa/GMwsPFTsWe/173.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",UK | Sky Sports PREMIER LEAGUE
+http://viprestream.loginto.me:25461/live/JacksonJa/GMwsPFTsWe/172.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",UK | Sky Sports F1
+http://viprestream.loginto.me:25461/live/JacksonJa/GMwsPFTsWe/171.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",UK | Sky Sports Mix
+http://viprestream.loginto.me:25461/live/JacksonJa/GMwsPFTsWe/170.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",UK | Sky Thriller Movies
+http://viprestream.loginto.me:25461/live/JacksonJa/GMwsPFTsWe/169.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",UK | Spike UK
+http://viprestream.loginto.me:25461/live/JacksonJa/GMwsPFTsWe/168.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",UK | SyFy
+http://viprestream.loginto.me:25461/live/JacksonJa/GMwsPFTsWe/167.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",UK | TCM
+http://viprestream.loginto.me:25461/live/JacksonJa/GMwsPFTsWe/166.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",UK | TG4 IE
+http://viprestream.loginto.me:25461/live/JacksonJa/GMwsPFTsWe/3530.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",UK | TLC UK
+http://viprestream.loginto.me:25461/live/JacksonJa/GMwsPFTsWe/165.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",UK | Travel Channel UK
+http://viprestream.loginto.me:25461/live/JacksonJa/GMwsPFTsWe/164.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",UK | True Entertainment
+http://viprestream.loginto.me:25461/live/JacksonJa/GMwsPFTsWe/163.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",UK | True Movies 1
+http://viprestream.loginto.me:25461/live/JacksonJa/GMwsPFTsWe/162.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",UK | True Movies 2
+http://viprestream.loginto.me:25461/live/JacksonJa/GMwsPFTsWe/161.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",UK | Universal Channel UK
+http://viprestream.loginto.me:25461/live/JacksonJa/GMwsPFTsWe/160.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",UK | UTV
+http://viprestream.loginto.me:25461/live/JacksonJa/GMwsPFTsWe/159.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",UK | VH1
+http://viprestream.loginto.me:25461/live/JacksonJa/GMwsPFTsWe/158.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",UK | VH1 Classic
+http://viprestream.loginto.me:25461/live/JacksonJa/GMwsPFTsWe/157.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",UK | Watch
+http://viprestream.loginto.me:25461/live/JacksonJa/GMwsPFTsWe/154.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",UK | Yesterday
+http://viprestream.loginto.me:25461/live/JacksonJa/GMwsPFTsWe/153.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",UK | STV
+http://viprestream.loginto.me:25461/live/JacksonJa/GMwsPFTsWe/3763.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",VIP | BT SPORTS HD 1
+http://viprestream.loginto.me:25461/live/JacksonJa/GMwsPFTsWe/334.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",VIP | BT SPORTS HD 2
+http://viprestream.loginto.me:25461/live/JacksonJa/GMwsPFTsWe/333.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",VIP | BT SPORTS HD 3
+http://viprestream.loginto.me:25461/live/JacksonJa/GMwsPFTsWe/332.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",VIP | SKY SPORTS MAIN EVENT HD
+http://viprestream.loginto.me:25461/live/JacksonJa/GMwsPFTsWe/330.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",VIP | SKY SPORTS CRICKET HD
+http://viprestream.loginto.me:25461/live/JacksonJa/GMwsPFTsWe/329.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",VIP | SKY SPORTS ACTION HD
+http://viprestream.loginto.me:25461/live/JacksonJa/GMwsPFTsWe/328.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",VIP | SKY SPORTS GOLF HD
+http://viprestream.loginto.me:25461/live/JacksonJa/GMwsPFTsWe/327.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",VIP | SKY SPORTS PREMIER LEAGUE HD
+http://viprestream.loginto.me:25461/live/JacksonJa/GMwsPFTsWe/326.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",VIP | SKY SPORTS FOOTBALL HD
+http://viprestream.loginto.me:25461/live/JacksonJa/GMwsPFTsWe/3527.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",VIP | SKY SPORTS ARENA HD
+http://viprestream.loginto.me:25461/live/JacksonJa/GMwsPFTsWe/3528.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",VIP | SKY SPORTS  F1 HD
+http://viprestream.loginto.me:25461/live/JacksonJa/GMwsPFTsWe/325.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",VIP | PREMIER SPORTS HD
+http://viprestream.loginto.me:25461/live/JacksonJa/GMwsPFTsWe/331.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",VIP | SKYNET SPORTS 1
+http://viprestream.loginto.me:25461/live/JacksonJa/GMwsPFTsWe/311.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",VIP | SKYNET SPORTS 2
+http://viprestream.loginto.me:25461/live/JacksonJa/GMwsPFTsWe/310.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",VIP | SKYNET SPORTS 3
+http://viprestream.loginto.me:25461/live/JacksonJa/GMwsPFTsWe/309.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",VIP | SKYNET SPORTS 4
+http://viprestream.loginto.me:25461/live/JacksonJa/GMwsPFTsWe/308.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",VIP | SKYNET SPORTS 5
+http://viprestream.loginto.me:25461/live/JacksonJa/GMwsPFTsWe/307.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",VIP | SKYNET SPORTS 6
+http://viprestream.loginto.me:25461/live/JacksonJa/GMwsPFTsWe/306.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",VIP | ASTRO SUPERSPORT 1
+http://viprestream.loginto.me:25461/live/JacksonJa/GMwsPFTsWe/346.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",VIP | ASTRO SUPERSPORT 2
+http://viprestream.loginto.me:25461/live/JacksonJa/GMwsPFTsWe/345.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",VIP | ASTRO SUPERSPORT 3
+http://viprestream.loginto.me:25461/live/JacksonJa/GMwsPFTsWe/344.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",VIP | ASTRO SUPERSPORT 4
+http://viprestream.loginto.me:25461/live/JacksonJa/GMwsPFTsWe/347.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",VIP | FOX SPORTS 1 HD
+http://viprestream.loginto.me:25461/live/JacksonJa/GMwsPFTsWe/342.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",VIP | FOX SPORTS 2 HD
+http://viprestream.loginto.me:25461/live/JacksonJa/GMwsPFTsWe/341.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",VIP | TSN 1
+http://viprestream.loginto.me:25461/live/JacksonJa/GMwsPFTsWe/340.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",VIP | TSN 2
+http://viprestream.loginto.me:25461/live/JacksonJa/GMwsPFTsWe/339.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",VIP | TSN 3
+http://viprestream.loginto.me:25461/live/JacksonJa/GMwsPFTsWe/338.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",VIP | TSN 4
+http://viprestream.loginto.me:25461/live/JacksonJa/GMwsPFTsWe/337.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",VIP | TSN 5
+http://viprestream.loginto.me:25461/live/JacksonJa/GMwsPFTsWe/336.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",VIP | BeIN Sports 1 HD
+http://viprestream.loginto.me:25461/live/JacksonJa/GMwsPFTsWe/627.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",VIP | BeIN Sports 2 HD
+http://viprestream.loginto.me:25461/live/JacksonJa/GMwsPFTsWe/626.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",VIP | BeIN Sports 3 HD
+http://viprestream.loginto.me:25461/live/JacksonJa/GMwsPFTsWe/625.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",VIP | BeIN Sports 4 HD
+http://viprestream.loginto.me:25461/live/JacksonJa/GMwsPFTsWe/624.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",VIP | BeIN Sports 5 HD
+http://viprestream.loginto.me:25461/live/JacksonJa/GMwsPFTsWe/623.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",VIP | BeIN Sports 6 HD
+http://viprestream.loginto.me:25461/live/JacksonJa/GMwsPFTsWe/622.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",VIP | BeIN Sports 7 HD
+http://viprestream.loginto.me:25461/live/JacksonJa/GMwsPFTsWe/621.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",VIP | BeIN Sports 8 HD
+http://viprestream.loginto.me:25461/live/JacksonJa/GMwsPFTsWe/620.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",VIP | BeIN Sports 9 HD
+http://viprestream.loginto.me:25461/live/JacksonJa/GMwsPFTsWe/619.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",VIP | BeIN Sports 10 HD
+http://viprestream.loginto.me:25461/live/JacksonJa/GMwsPFTsWe/618.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",VIP | BeIN Sports 11 HD
+http://viprestream.loginto.me:25461/live/JacksonJa/GMwsPFTsWe/617.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",VIP | BeIN Sports 12 HD
+http://viprestream.loginto.me:25461/live/JacksonJa/GMwsPFTsWe/616.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",VIP | BeIN Sports 14 HD
+http://viprestream.loginto.me:25461/live/JacksonJa/GMwsPFTsWe/614.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",VIP | FR beINSport 1
+http://viprestream.loginto.me:25461/live/JacksonJa/GMwsPFTsWe/1088.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",VIP | FR beINSport 2
+http://viprestream.loginto.me:25461/live/JacksonJa/GMwsPFTsWe/1089.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",VIP | FR beINSport 3
+http://viprestream.loginto.me:25461/live/JacksonJa/GMwsPFTsWe/1090.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",VIP | NBC EXTRA TIME 1 HD
+http://viprestream.loginto.me:25461/live/JacksonJa/GMwsPFTsWe/433.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",VIP | NBC EXTRA TIME 2 HD
+http://viprestream.loginto.me:25461/live/JacksonJa/GMwsPFTsWe/432.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",VIP | NBC EXTRA TIME 3 HD
+http://viprestream.loginto.me:25461/live/JacksonJa/GMwsPFTsWe/431.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",VIP | NBC EXTRA TIME 4 HD
+http://viprestream.loginto.me:25461/live/JacksonJa/GMwsPFTsWe/430.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",VIP | NBC EXTRA TIME 5 HD
+http://viprestream.loginto.me:25461/live/JacksonJa/GMwsPFTsWe/429.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",VIP | NBC EXTRA TIME 6 HD
+http://viprestream.loginto.me:25461/live/JacksonJa/GMwsPFTsWe/428.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",VIP | NBC EXTRA TIME 7 HD
+http://viprestream.loginto.me:25461/live/JacksonJa/GMwsPFTsWe/427.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",VIP | NFL NETWORK HD
+http://viprestream.loginto.me:25461/live/JacksonJa/GMwsPFTsWe/435.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",VIP | NFL NOW HD
+http://viprestream.loginto.me:25461/live/JacksonJa/GMwsPFTsWe/434.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",VIP | SPORTS NET 360 HD
+http://viprestream.loginto.me:25461/live/JacksonJa/GMwsPFTsWe/442.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",VIP | SPORTS NET EAST HD
+http://viprestream.loginto.me:25461/live/JacksonJa/GMwsPFTsWe/436.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",VIP | SPORTS NET ONE HD
+http://viprestream.loginto.me:25461/live/JacksonJa/GMwsPFTsWe/437.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",VIP | SPORTS NET ONTARIO HD
+http://viprestream.loginto.me:25461/live/JacksonJa/GMwsPFTsWe/438.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",VIP | SPORTS NET PACIFIC HD
+http://viprestream.loginto.me:25461/live/JacksonJa/GMwsPFTsWe/439.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",VIP | SPORTS NET WEST HD
+http://viprestream.loginto.me:25461/live/JacksonJa/GMwsPFTsWe/440.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",VIP | SPORTS NET WORLD HD
+http://viprestream.loginto.me:25461/live/JacksonJa/GMwsPFTsWe/441.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",VIP | SKY Sports News HD
+http://viprestream.loginto.me:25461/live/JacksonJa/GMwsPFTsWe/312.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",VIP | SKY CINEMA ACTION HD
+http://viprestream.loginto.me:25461/live/JacksonJa/GMwsPFTsWe/319.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",VIP | SKY CRIME&THRILLER HD
+http://viprestream.loginto.me:25461/live/JacksonJa/GMwsPFTsWe/318.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",VIP | SKY MOVIES COMEDY HD
+http://viprestream.loginto.me:25461/live/JacksonJa/GMwsPFTsWe/317.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",VIP | SKY MOVIES DISNEY HD
+http://viprestream.loginto.me:25461/live/JacksonJa/GMwsPFTsWe/316.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",VIP | SKY MOVIES PREMIER HD
+http://viprestream.loginto.me:25461/live/JacksonJa/GMwsPFTsWe/315.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",NOR | VIASAT TV2 Sport Premium 1
+http://viprestream.loginto.me:25461/live/JacksonJa/GMwsPFTsWe/360.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",NOR | VIASAT TV2 Sport Premium 2
+http://viprestream.loginto.me:25461/live/JacksonJa/GMwsPFTsWe/359.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",NOR | VIASAT TV2 Sport Premium 3
+http://viprestream.loginto.me:25461/live/JacksonJa/GMwsPFTsWe/358.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",NOR | VIASAT TV2 Sport Premium 4
+http://viprestream.loginto.me:25461/live/JacksonJa/GMwsPFTsWe/357.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",NOR | VIASAT TV2 Sport Premium 5
+http://viprestream.loginto.me:25461/live/JacksonJa/GMwsPFTsWe/356.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",NOR | VIASAT TV2 Sport Premium 6
+http://viprestream.loginto.me:25461/live/JacksonJa/GMwsPFTsWe/355.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",NOR | VIASAT TV2 Sport Premium 7
+http://viprestream.loginto.me:25461/live/JacksonJa/GMwsPFTsWe/354.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",NOR | VIASAT TV2 Sport Premium 8
+http://viprestream.loginto.me:25461/live/JacksonJa/GMwsPFTsWe/353.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",USA | HallMark HD
+http://viprestream.loginto.me:25461/live/JacksonJa/GMwsPFTsWe/677.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",USA | Hallmark Movies & Mysteries
+http://viprestream.loginto.me:25461/live/JacksonJa/GMwsPFTsWe/3950.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",USA | HBO
+http://viprestream.loginto.me:25461/live/JacksonJa/GMwsPFTsWe/676.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",USA | HBO Comedy (nbc at 3pm)
+http://viprestream.loginto.me:25461/live/JacksonJa/GMwsPFTsWe/675.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",USA | HBO HD 1
+http://viprestream.loginto.me:25461/live/JacksonJa/GMwsPFTsWe/674.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",USA | HBO HD 2
+http://viprestream.loginto.me:25461/live/JacksonJa/GMwsPFTsWe/673.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",USA | HBO Signature
+http://viprestream.loginto.me:25461/live/JacksonJa/GMwsPFTsWe/672.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",USA | HBO Family
+http://viprestream.loginto.me:25461/live/JacksonJa/GMwsPFTsWe/1747.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",FR | beIN SPORTS1 HD
+http://viprestream.loginto.me:25461/live/JacksonJa/GMwsPFTsWe/2914.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",FR | Bein Sports 1 HD ( 1080P )
+http://viprestream.loginto.me:25461/live/JacksonJa/GMwsPFTsWe/2913.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",FR | beIN SPORTS 2HD
+http://viprestream.loginto.me:25461/live/JacksonJa/GMwsPFTsWe/2912.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",FR | beIN SPORTS 3HD
+http://viprestream.loginto.me:25461/live/JacksonJa/GMwsPFTsWe/2911.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",FR | Bein Sport Max 4
+http://viprestream.loginto.me:25461/live/JacksonJa/GMwsPFTsWe/2910.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",FR | Bein Sport Max 5
+http://viprestream.loginto.me:25461/live/JacksonJa/GMwsPFTsWe/2909.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",FR | Bein Sport Max 6
+http://viprestream.loginto.me:25461/live/JacksonJa/GMwsPFTsWe/2908.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",FR | Bein Sport Max 7
+http://viprestream.loginto.me:25461/live/JacksonJa/GMwsPFTsWe/2907.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",FR | Bein Sport Max 8
+http://viprestream.loginto.me:25461/live/JacksonJa/GMwsPFTsWe/2906.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",FR | Bein Sport Max 9
+http://viprestream.loginto.me:25461/live/JacksonJa/GMwsPFTsWe/2905.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",FR | Bein Sport Max 10
+http://viprestream.loginto.me:25461/live/JacksonJa/GMwsPFTsWe/2904.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",NL | FOX Sports 1
+http://viprestream.loginto.me:25461/live/JacksonJa/GMwsPFTsWe/1383.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",NL | FOX Sports 2
+http://viprestream.loginto.me:25461/live/JacksonJa/GMwsPFTsWe/1382.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",NL | FOX Sports 3
+http://viprestream.loginto.me:25461/live/JacksonJa/GMwsPFTsWe/1381.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",NL | FOX Sports 4
+http://viprestream.loginto.me:25461/live/JacksonJa/GMwsPFTsWe/1380.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",NL | FOX Sports 5
+http://viprestream.loginto.me:25461/live/JacksonJa/GMwsPFTsWe/1379.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",NL | FOX Sports 6
+http://viprestream.loginto.me:25461/live/JacksonJa/GMwsPFTsWe/1378.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",NL | NPO 1 HD
+http://viprestream.loginto.me:25461/live/JacksonJa/GMwsPFTsWe/1371.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",NL | NPO 1
+http://viprestream.loginto.me:25461/live/JacksonJa/GMwsPFTsWe/1430.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",NL | NPO 2 HD
+http://viprestream.loginto.me:25461/live/JacksonJa/GMwsPFTsWe/1370.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",NL | NPO 2
+http://viprestream.loginto.me:25461/live/JacksonJa/GMwsPFTsWe/1431.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",NL | NPO 3 HD
+http://viprestream.loginto.me:25461/live/JacksonJa/GMwsPFTsWe/1369.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",NL | NPO 3
+http://viprestream.loginto.me:25461/live/JacksonJa/GMwsPFTsWe/1432.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",NL | Ziggo Sports Select
+http://viprestream.loginto.me:25461/live/JacksonJa/GMwsPFTsWe/1362.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",NL | Ziggo Sports Voetbal
+http://viprestream.loginto.me:25461/live/JacksonJa/GMwsPFTsWe/1361.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",PT | EUROSPORT
+http://viprestream.loginto.me:25461/live/JacksonJa/GMwsPFTsWe/3498.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",PT | Eurosport 1
+http://viprestream.loginto.me:25461/live/JacksonJa/GMwsPFTsWe/3497.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",PT | EUROSPORT 1 HD 1080
+http://viprestream.loginto.me:25461/live/JacksonJa/GMwsPFTsWe/3496.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",PT | EUROSPORT 2 XTRA HD 1080
+http://viprestream.loginto.me:25461/live/JacksonJa/GMwsPFTsWe/3495.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",PT | SPORT TV
+http://viprestream.loginto.me:25461/live/JacksonJa/GMwsPFTsWe/3440.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",PT | SPORT TV HD 1080
+http://viprestream.loginto.me:25461/live/JacksonJa/GMwsPFTsWe/3439.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",PT | SPORT TV 1 HD
+http://viprestream.loginto.me:25461/live/JacksonJa/GMwsPFTsWe/3452.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",PT | SPORT TV 1 HD 1080
+http://viprestream.loginto.me:25461/live/JacksonJa/GMwsPFTsWe/3451.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",PT | SPORT TV 2 HD
+http://viprestream.loginto.me:25461/live/JacksonJa/GMwsPFTsWe/3450.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",PT | SPORT TV 2 HD 1080
+http://viprestream.loginto.me:25461/live/JacksonJa/GMwsPFTsWe/3449.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",PT | SPORT TV 3 HD
+http://viprestream.loginto.me:25461/live/JacksonJa/GMwsPFTsWe/3448.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",PT | SPORT TV 3 HD 1080
+http://viprestream.loginto.me:25461/live/JacksonJa/GMwsPFTsWe/3447.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",PT | SPORT TV 4
+http://viprestream.loginto.me:25461/live/JacksonJa/GMwsPFTsWe/3446.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",PT | SPORT TV 4 HD 1080
+http://viprestream.loginto.me:25461/live/JacksonJa/GMwsPFTsWe/3445.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",PT | SPORT TV 4HD
+http://viprestream.loginto.me:25461/live/JacksonJa/GMwsPFTsWe/3444.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",PT | SPORT TV 5
+http://viprestream.loginto.me:25461/live/JacksonJa/GMwsPFTsWe/3443.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",PT | SPORT TV 5 HD 1080
+http://viprestream.loginto.me:25461/live/JacksonJa/GMwsPFTsWe/3442.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",PT | SPORT TV 5HD
+http://viprestream.loginto.me:25461/live/JacksonJa/GMwsPFTsWe/3441.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",IT |  Premium Action
+http://viprestream.loginto.me:25461/live/JacksonJa/GMwsPFTsWe/2055.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",IT |  Premium Calcio
+http://viprestream.loginto.me:25461/live/JacksonJa/GMwsPFTsWe/2054.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",IT |  Premium Comedy
+http://viprestream.loginto.me:25461/live/JacksonJa/GMwsPFTsWe/2053.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",IT |  Premium Disney Junior
+http://viprestream.loginto.me:25461/live/JacksonJa/GMwsPFTsWe/2052.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",IT |  Premium Sport 2
+http://viprestream.loginto.me:25461/live/JacksonJa/GMwsPFTsWe/2051.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",IT |  Premium Studio Universal
+http://viprestream.loginto.me:25461/live/JacksonJa/GMwsPFTsWe/2050.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",IT |  Rai Yoyo
+http://viprestream.loginto.me:25461/live/JacksonJa/GMwsPFTsWe/2049.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",IT |  Sky Calcio 1
+http://viprestream.loginto.me:25461/live/JacksonJa/GMwsPFTsWe/2048.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",IT |  Sky Calcio 2
+http://viprestream.loginto.me:25461/live/JacksonJa/GMwsPFTsWe/2047.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",IT |  Sky Calcio 3
+http://viprestream.loginto.me:25461/live/JacksonJa/GMwsPFTsWe/2046.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",IT |  Sky Calcio 4
+http://viprestream.loginto.me:25461/live/JacksonJa/GMwsPFTsWe/2045.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",IT |  Sky Calcio 5
+http://viprestream.loginto.me:25461/live/JacksonJa/GMwsPFTsWe/2044.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",IT |  Sky Calcio 6
+http://viprestream.loginto.me:25461/live/JacksonJa/GMwsPFTsWe/2043.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",IT |  Sky Calcio 7
+http://viprestream.loginto.me:25461/live/JacksonJa/GMwsPFTsWe/2042.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",ES | beIN LaLIga 1 (event only)
+http://viprestream.loginto.me:25461/live/JacksonJa/GMwsPFTsWe/2146.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",ES | beIN LaLIga 2 (event only)
+http://viprestream.loginto.me:25461/live/JacksonJa/GMwsPFTsWe/2145.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",ES | beIN LaLIga 3 (event only)
+http://viprestream.loginto.me:25461/live/JacksonJa/GMwsPFTsWe/2144.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",ES | Bein Liga HD
+http://viprestream.loginto.me:25461/live/JacksonJa/GMwsPFTsWe/2143.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="PREMIUM",ES | Bein Sport HD
+http://viprestream.loginto.me:25461/live/JacksonJa/GMwsPFTsWe/2142.ts
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="EXTRA",CCTV 5
 http://120.198.235.70/112.50.243.7/PLTV/88888888/224/3221225803/2.m3u8
