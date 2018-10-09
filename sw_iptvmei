@@ -8,6 +8,8 @@ http://bit.do/SulukLFC
 http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_656_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fTV1XQCm/IPTVKU_LOGO1.png" group-title="SULUK IPTV",BALKANIKA
 http://31.41.20.14:4054
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fTV1XQCm/IPTVKU_LOGO1.png" group-title="SULUK IPTV",V2BEAT MUSIC TV
+https://www.youtube.com/watch?v=xM3FlBVol9A
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fTV1XQCm/IPTVKU_LOGO1.png" group-title="SULUK IPTV",MUSIC HD
 rtmp://rtmp.one.by/HD/1muz
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fTV1XQCm/IPTVKU_LOGO1.png" group-title="SULUK IPTV",U16 FOX 2
@@ -399,6 +401,49 @@ http://120.198.235.70/112.50.243.7/PLTV/88888888/224/3221225803/2.m3u8
 http://120.198.235.68/112.50.243.7/PLTV/88888888/224/3221225939/2.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="EXTRA",BeinSport1 512 KBB
 http://2111.space:25461/live/admin_967202/pAzpNNgr/1336.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="EXTRA",FR::BeIN Sport 1
+http://iptv33.hopto.me:9000/live/22334455/22334455/715.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="EXTRA",FR::BeIN Sport 2
+http://iptv33.hopto.me:9000/live/22334455/22334455/712.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="EXTRA",FR::BeIN Sport 3
+http://iptv33.hopto.me:9000/live/22334455/22334455/709.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="EXTRA",FR::BeIN_SPORT_MAX4
+http://iptv33.hopto.me:9000/live/22334455/22334455/706.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="EXTRA",FR::BeIN_SPORT_MAX5
+http://iptv33.hopto.me:9000/live/22334455/22334455/705.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="EXTRA",FR::BeIN_SPORT_MAX6
+http://iptv33.hopto.me:9000/live/22334455/22334455/704.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="EXTRA",FR::BeIN_SPORT_MAX7
+http://iptv33.hopto.me:9000/live/22334455/22334455/703.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="EXTRA",FR::BeIN_SPORT_MAX8
+http://iptv33.hopto.me:9000/live/22334455/22334455/702.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="EXTRA",FR::BeIN_SPORT_MAX9
+http://iptv33.hopto.me:9000/live/22334455/22334455/701.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="EXTRA",FR::BeIN_SPORT_MAX10
+http://iptv33.hopto.me:9000/live/22334455/22334455/700.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="EXTRA",AR: beIN Sports 1 HD
+http://54.36.61.6:8000/live/Bein0610/Busjsu_j/485.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="EXTRA",AR: beIN Sports 2 HD
+http://54.36.61.6:8000/live/Bein0610/Busjsu_j/476.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="EXTRA",AR: beIN Sports 3 HD
+http://54.36.61.6:8000/live/Bein0610/Busjsu_j/475.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="EXTRA",AR: beIN Sports 4 HD
+http://54.36.61.6:8000/live/Bein0610/Busjsu_j/474.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="EXTRA",AR: beIN Sports 5 HD
+http://54.36.61.6:8000/live/Bein0610/Busjsu_j/473.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="EXTRA",AR: beIN Sports 6 HD
+http://54.36.61.6:8000/live/Bein0610/Busjsu_j/472.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="EXTRA",AR: beIN Sports 7 HD
+http://54.36.61.6:8000/live/Bein0610/Busjsu_j/471.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="EXTRA",AR: beIN Sports 8 HD
+http://54.36.61.6:8000/live/Bein0610/Busjsu_j/470.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="EXTRA",AR: beIN Sports 9 HD
+http://54.36.61.6:8000/live/Bein0610/Busjsu_j/469.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="EXTRA",AR: beIN Sports 10 HD
+http://54.36.61.6:8000/live/Bein0610/Busjsu_j/484.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="EXTRA",AR: beIN Sports 11 HD
+http://54.36.61.6:8000/live/Bein0610/Busjsu_j/483.ts
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SRL9rYCK/ENTERT.png" group-title="EXTRA",BEIN1_720P
 http://2111.space:25461/live/admin_967202/pAzpNNgr/1813.ts
