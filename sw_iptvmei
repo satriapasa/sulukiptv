@@ -4783,6 +4783,231 @@ http://49.231.4.246:9981/stream/channelid/525545405
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gk8pgqxs/WORLD.png" group-title="ASEAN",Bulshotv
 http://49.231.4.246:9981/stream/channelid/1600916942
 
+#EXTINF:-1,tvg-ID="" tvg-name="Sky Calcio" tvg-logo="https://www.athlitikopanorama.gr/wp-content/uploads/2018/08/SERIE-A-2-1210x642.jpg" group-title="Sky Calcio",Sky Calcio 1 HD
+http://173.249.53.3:8000/live/Itatest/Testita/196.ts
+#EXTINF:-1,tvg-ID="" tvg-name="Sky Calcio" tvg-logo="https://www.athlitikopanorama.gr/wp-content/uploads/2018/08/SERIE-A-2-1210x642.jpg" group-title="Sky Calcio",Sky Calcio 2 HD
+http://173.249.53.3:8000/live/Itatest/Testita/197.ts
+#EXTINF:-1,tvg-ID="" tvg-name="Sky Calcio" tvg-logo="https://www.athlitikopanorama.gr/wp-content/uploads/2018/08/SERIE-A-2-1210x642.jpg" group-title="Sky Calcio",  Sky Calcio 3 HD
+http://173.249.53.3:8000/live/Itatest/Testita/198.ts
+#EXTINF:-1,tvg-ID="" tvg-name="Sky Calcio" tvg-logo="https://www.athlitikopanorama.gr/wp-content/uploads/2018/08/SERIE-A-2-1210x642.jpg" group-title="Sky Calcio",  Sky Calcio 4 HD
+http://173.249.53.3:8000/live/Itatest/Testita/199.ts
+#EXTINF:-1,tvg-ID="" tvg-name="Sky Calcio" tvg-logo="https://www.athlitikopanorama.gr/wp-content/uploads/2018/08/SERIE-A-2-1210x642.jpg" group-title="Sky Calcio",  Sky Calcio 5 HD
+http://173.249.53.3:8000/live/Itatest/Testita/200.ts
+#EXTINF:-1,tvg-ID="" tvg-name="Sky Calcio" tvg-logo="https://www.athlitikopanorama.gr/wp-content/uploads/2018/08/SERIE-A-2-1210x642.jpg" group-title="Sky Calcio",  Sky Calcio 6 HD
+http://173.249.53.3:8000/live/Itatest/Testita/201.ts
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="SKY IT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_sky_italy.jpg" group-title="SKY IT",Sky Super Calcio HD
+http://207.180.212.115:8080/live/sportest/testport/440.ts
+
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="SKY IT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_sky_italy.jpg" group-title="SKY IT",Sky Sport 24 HD
+http://207.180.212.115:8080/live/sportest/testport/435.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SKY IT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_sky_italy.jpg" group-title="SKY IT",Sky Sports F1 HD
+http://207.180.212.115:8080/live/sportest/testport/439.ts
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="SKY IT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_sky_italy.jpg" group-title="SKY IT",Sky Sport Moto GP HD
+http://207.180.212.115:8080/live/sportest/testport/438.ts
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="SKY IT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_sky_italy.jpg" group-title="SKY IT", Rai Sport 1 HD
+http://207.180.212.115:8080/live/sportest/testport/430.ts
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="SKY IT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_sky_italy.jpg" group-title="SKY IT", Rai Sport 2 HD
+http://207.180.212.115:8080/live/sportest/testport/431.ts
+
+
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="SKY IT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_sky_italy.jpg" group-title="SKY IT",Sky Sport 1 HD
+http://178.251.228.235:8000/live/RUBA_MA:/:::!!!!!/1289.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="SKY IT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_sky_italy.jpg" group-title="SKY IT",Sky Sport 2 HD
+http://207.180.212.115:8080/live/sportest/testport/433.ts
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="SKY IT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_sky_italy.jpg" group-title="SKY IT",Sky Sport 3 HD
+http://207.180.212.115:8080/live/sportest/testport/434.ts
+
+
+
+
+
+
+#EXTINF:-1,tvg-ID="" tvg-name="BEIN SPORTS" tvg-logo="https://seeklogo.com/images/B/bein-sport-1-logo-9DADBC761B-seeklogo.com.png" group-title="BEIN SPORTS", BeIN Sports 1 FR
+http://54.36.61.6:8000/live/Bein1210/BeiN1KiL/447.ts
+
+
+#EXTINF:-1,tvg-ID="" tvg-name="BEIN SPORTS" tvg-logo="https://seeklogo.com/images/B/bein-sport-1-logo-9DADBC761B-seeklogo.com.png" group-title="BEIN SPORTS", BeIN Sports 2 FR
+http://54.36.61.6:8000/live/Bein1210/BeiN1KiL/446.ts
+
+
+#EXTINF:-1,tvg-ID="" tvg-name="BEIN SPORTS" tvg-logo="https://seeklogo.com/images/B/bein-sport-1-logo-9DADBC761B-seeklogo.com.png" group-title="BEIN SPORTS", BeIN Sports 3 FR
+http://54.36.61.6:8000/live/Bein1210/BeiN1KiL/448.ts
+
+
+
+#EXTINF:-1,tvg-ID="" tvg-name="BEIN SPORTS" tvg-logo="https://seeklogo.com/images/B/bein-sport-1-logo-9DADBC761B-seeklogo.com.png" group-title="BEIN SPORTS", BeIN Sports 1 HD
+http://163.172.211.229:8000/live/beintst/beintesrt/763.ts
+
+#EXTINF:-1,tvg-ID="" tvg-name="BEIN SPORTS" tvg-logo="https://seeklogo.com/images/B/bein-sport-1-logo-9DADBC761B-seeklogo.com.png" group-title="BEIN SPORTS", BeIN Sports 2 HD
+http://163.172.211.229:8000/live/beintst/beintesrt/765.ts
+#EXTINF:-1,tvg-ID="" tvg-name="BEIN SPORTS" tvg-logo="https://seeklogo.com/images/B/bein-sport-1-logo-9DADBC761B-seeklogo.com.png" group-title="BEIN SPORTS", BeIN Sports 2
+http://163.172.211.229:8000/live/beintst/beintesrt/764.ts
+
+#EXTINF:-1,tvg-ID="" tvg-name="BEIN SPORTS" tvg-logo="https://seeklogo.com/images/B/bein-sport-1-logo-9DADBC761B-seeklogo.com.png" group-title="BEIN SPORTS", BeIN Sports 3 HD
+http://163.172.211.229:8000/live/beintst/beintesrt/767.ts
+#EXTINF:-1,tvg-ID="" tvg-name="BEIN SPORTS" tvg-logo="https://seeklogo.com/images/B/bein-sport-1-logo-9DADBC761B-seeklogo.com.png" group-title="BEIN SPORTS", BeIN Sports 3
+http://163.172.211.229:8000/live/beintst/beintesrt/766.ts
+
+#EXTINF:-1,tvg-ID="" tvg-name="BEIN SPORTS" tvg-logo="https://seeklogo.com/images/B/bein-sport-1-logo-9DADBC761B-seeklogo.com.png" group-title="BEIN SPORTS", BeIN Sports 4 HD
+http://163.172.211.229:8000/live/beintst/beintesrt/769.ts
+#EXTINF:-1,tvg-ID="" tvg-name="BEIN SPORTS" tvg-logo="https://seeklogo.com/images/B/bein-sport-1-logo-9DADBC761B-seeklogo.com.png" group-title="BEIN SPORTS", BeIN Sports 4
+http://163.172.211.229:8000/live/beintst/beintesrt/768.ts
+
+#EXTINF:-1,tvg-ID="" tvg-name="BEIN SPORTS" tvg-logo="https://seeklogo.com/images/B/bein-sport-1-logo-9DADBC761B-seeklogo.com.png" group-title="BEIN SPORTS", BeIN Sports 5 HD
+http://163.172.211.229:8000/live/beintst/beintesrt/771.ts
+#EXTINF:-1,tvg-ID="" tvg-name="BEIN SPORTS" tvg-logo="https://seeklogo.com/images/B/bein-sport-1-logo-9DADBC761B-seeklogo.com.png" group-title="BEIN SPORTS", BeIN Sports 5
+http://163.172.211.229:8000/live/beintst/beintesrt/770.ts
+
+
+#EXTINF:-1,tvg-ID="" tvg-name="BEIN SPORTS" tvg-logo="https://seeklogo.com/images/B/bein-sport-1-logo-9DADBC761B-seeklogo.com.png" group-title="BEIN SPORTS", BeIN Sports 6 HD
+http://163.172.211.229:8000/live/beintst/beintesrt/773.ts
+#EXTINF:-1,tvg-ID="" tvg-name="BEIN SPORTS" tvg-logo="https://seeklogo.com/images/B/bein-sport-1-logo-9DADBC761B-seeklogo.com.png" group-title="BEIN SPORTS", BeIN Sports 6
+http://163.172.211.229:8000/live/beintst/beintesrt/772.ts
+
+#EXTINF:-1,tvg-ID="" tvg-name="BEIN SPORTS" tvg-logo="https://seeklogo.com/images/B/bein-sport-1-logo-9DADBC761B-seeklogo.com.png" group-title="BEIN SPORTS", BeIN Sports 7 HD
+http://163.172.211.229:8000/live/beintst/beintesrt/775.ts
+#EXTINF:-1,tvg-ID="" tvg-name="BEIN SPORTS" tvg-logo="https://seeklogo.com/images/B/bein-sport-1-logo-9DADBC761B-seeklogo.com.png" group-title="BEIN SPORTS", BeIN Sports 7
+http://163.172.211.229:8000/live/beintst/beintesrt/774.ts
+
+
+#EXTINF:-1,tvg-ID="" tvg-name="BEIN SPORTS" tvg-logo="https://seeklogo.com/images/B/bein-sport-1-logo-9DADBC761B-seeklogo.com.png" group-title="BEIN SPORTS", BeIN Sports 8 HD
+http://163.172.211.229:8000/live/beintst/beintesrt/777.ts
+#EXTINF:-1,tvg-ID="" tvg-name="BEIN SPORTS" tvg-logo="https://seeklogo.com/images/B/bein-sport-1-logo-9DADBC761B-seeklogo.com.png" group-title="BEIN SPORTS", BeIN Sports 8
+http://163.172.211.229:8000/live/beintst/beintesrt/776.ts
+
+#EXTINF:-1,tvg-ID="" tvg-name="BEIN SPORTS" tvg-logo="https://seeklogo.com/images/B/bein-sport-1-logo-9DADBC761B-seeklogo.com.png" group-title="BEIN SPORTS", BeIN Sports 9 HD
+http://163.172.211.229:8000/live/beintst/beintesrt/779.ts
+#EXTINF:-1,tvg-ID="" tvg-name="BEIN SPORTS" tvg-logo="https://seeklogo.com/images/B/bein-sport-1-logo-9DADBC761B-seeklogo.com.png" group-title="BEIN SPORTS", BeIN Sports 9
+http://163.172.211.229:8000/live/beintst/beintesrt/778.ts
+
+#EXTINF:-1,tvg-ID="" tvg-name="BEIN SPORTS" tvg-logo="https://seeklogo.com/images/B/bein-sport-1-logo-9DADBC761B-seeklogo.com.png" group-title="BEIN SPORTS", BeIN Sports 10 HD
+http://163.172.211.229:8000/live/beintst/beintesrt/781.ts
+#EXTINF:-1,tvg-ID="" tvg-name="BEIN SPORTS" tvg-logo="https://seeklogo.com/images/B/bein-sport-1-logo-9DADBC761B-seeklogo.com.png" group-title="BEIN SPORTS", BeIN Sports 10
+http://163.172.211.229:8000/live/beintst/beintesrt/780.ts
+
+
+
+#EXTINF:-1,tvg-ID="" tvg-name="BEIN SPORTS" tvg-logo="https://seeklogo.com/images/B/bein-sport-1-logo-9DADBC761B-seeklogo.com.png" group-title="BEIN SPORTS", BeIN Sports 11 HD  (EN)
+http://163.172.211.229:8000/live/beintst/beintesrt/783.ts
+#EXTINF:-1,tvg-ID="" tvg-name="BEIN SPORTS" tvg-logo="https://seeklogo.com/images/B/bein-sport-1-logo-9DADBC761B-seeklogo.com.png" group-title="BEIN SPORTS", BeIN Sports 11 (EN)
+http://163.172.211.229:8000/live/beintst/beintesrt/782.ts
+
+#EXTINF:-1,tvg-ID="" tvg-name="BEIN SPORTS" tvg-logo="https://seeklogo.com/images/B/bein-sport-1-logo-9DADBC761B-seeklogo.com.png" group-title="BEIN SPORTS", BeIN Sports 12 HD (EN)
+http://163.172.211.229:8000/live/beintst/beintesrt/784.ts
+
+
+
+#EXTINF:-1,tvg-ID="" tvg-name="SUPER  SPORT" tvg-logo="https://i62.servimg.com/u/f62/11/24/82/06/supers11.png" group-title="SUPER  SPORT",Super SPORT 1 HD
+http://163.172.211.229:8000/live/spojfhfuhfj/sjrjfhfkfifk/48.ts
+#EXTINF:-1,tvg-ID="" tvg-name="SUPER  SPORT" tvg-logo="https://i62.servimg.com/u/f62/11/24/82/06/supers11.png" group-title="SUPER  SPORT",Super SPORT 2 HD
+http://163.172.211.229:8000/live/spojfhfuhfj/sjrjfhfkfifk/49.ts
+#EXTINF:-1,tvg-ID="" tvg-name="SUPER  SPORT" tvg-logo="https://i62.servimg.com/u/f62/11/24/82/06/supers11.png" group-title="SUPER  SPORT",Super SPORT 3 HD
+http://163.172.211.229:8000/live/spojfhfuhfj/sjrjfhfkfifk/50.ts
+#EXTINF:-1,tvg-ID="" tvg-name="SUPER  SPORT" tvg-logo="https://i62.servimg.com/u/f62/11/24/82/06/supers11.png" group-title="SUPER  SPORT",Super SPORT 4 HD
+http://163.172.211.229:8000/live/spojfhfuhfj/sjrjfhfkfifk/51.ts
+#EXTINF:-1,tvg-ID="" tvg-name="SUPER  SPORT" tvg-logo="https://i62.servimg.com/u/f62/11/24/82/06/supers11.png" group-title="SUPER  SPORT",Super SPORT 5 HD
+http://163.172.211.229:8000/live/spojfhfuhfj/sjrjfhfkfifk/52.ts
+
+
+#EXTINF:-1,tvg-ID="" tvg-name="TRING SPORT" tvg-logo="https://3.bp.blogspot.com/-i-hqQ6wUnsY/WINvAwm_Q1I/AAAAAAAAA0s/INydCKARnA8YNPBidJlZlySItdHODOiYwCLcB/s1600/tring-sport.jpg" group-title="TRING SPORT",Tring Sport 1 HD
+http://163.172.211.229:8000/live/spojfhfuhfj/sjrjfhfkfifk/44.ts
+#EXTINF:-1,tvg-ID="" tvg-name="TRING SPORT" tvg-logo="https://3.bp.blogspot.com/-i-hqQ6wUnsY/WINvAwm_Q1I/AAAAAAAAA0s/INydCKARnA8YNPBidJlZlySItdHODOiYwCLcB/s1600/tring-sport.jpg" group-title="TRING SPORT",Tring Sport 2 HD
+http://163.172.211.229:8000/live/spojfhfuhfj/sjrjfhfkfifk/45.ts
+#EXTINF:-1,tvg-ID="" tvg-name="TRING SPORT" tvg-logo="https://3.bp.blogspot.com/-i-hqQ6wUnsY/WINvAwm_Q1I/AAAAAAAAA0s/INydCKARnA8YNPBidJlZlySItdHODOiYwCLcB/s1600/tring-sport.jpg" group-title="TRING SPORT",Tring Sport 3 HD
+http://163.172.211.229:8000/live/spojfhfuhfj/sjrjfhfkfifk/46.ts
+#EXTINF:-1,tvg-ID="" tvg-name="TRING SPORT" tvg-logo="https://3.bp.blogspot.com/-i-hqQ6wUnsY/WINvAwm_Q1I/AAAAAAAAA0s/INydCKARnA8YNPBidJlZlySItdHODOiYwCLcB/s1600/tring-sport.jpg" group-title="TRING SPORT",Tring Sport 4 HD
+http://163.172.211.229:8000/live/spojfhfuhfj/sjrjfhfkfifk/47.ts
+
+
+
+#EXTINF:-1,tvg-ID="" tvg-name="SKY Sport UK" tvg-logo="https://dm8eklel4s62k.cloudfront.net/images/sky-logo-b90e8c9.jpg" group-title="SKY Sport UK",UK: SKY SPORT ACTION
+http://54.36.61.6:8000/live/Sky1210/KSuu254/118.ts
+#EXTINF:-1,tvg-ID="" tvg-name="SKY Sport UK" tvg-logo="https://dm8eklel4s62k.cloudfront.net/images/sky-logo-b90e8c9.jpg" group-title="SKY Sport UK",UK: SKY SPORT F1
+http://54.36.61.6:8000/live/Sky1210/KSuu254/120.ts
+#EXTINF:-1,tvg-ID="" tvg-name="SKY Sport UK" tvg-logo="https://dm8eklel4s62k.cloudfront.net/images/sky-logo-b90e8c9.jpg" group-title="SKY Sport UK",UK: SKY SPORT FOOTBALL
+http://54.36.61.6:8000/live/Sky1210/KSuu254/115.ts
+#EXTINF:-1,tvg-ID="" tvg-name="SKY Sport UK" tvg-logo="https://dm8eklel4s62k.cloudfront.net/images/sky-logo-b90e8c9.jpg" group-title="SKY Sport UK",UK: SKY SPORT MAIN EVENT
+"http://54.36.61.6:8000/live/Sky1210/KSuu254/125.ts
+#EXTINF:-1,tvg-ID="" tvg-name="SKY Sport UK" tvg-logo="https://dm8eklel4s62k.cloudfront.net/images/sky-logo-b90e8c9.jpg" group-title="SKY Sport UK",UK: SKY SPORT PREMIER LEAGUE
+http://54.36.61.6:8000/live/Sky1210/KSuu254/128.ts
+
+
+
+#EXTINF:-1,tvg-ID="" tvg-name="SKY Sport UK" tvg-logo="https://dm8eklel4s62k.cloudfront.net/images/sky-logo-b90e8c9.jpg" group-title="SKY Sport UK",UK: BT SPORT 1
+http://185.53.163.205:2700
+#EXTINF:-1,tvg-ID="" tvg-name="SKY Sport UK" tvg-logo="https://dm8eklel4s62k.cloudfront.net/images/sky-logo-b90e8c9.jpg" group-title="SKY Sport UK",UK: Sky Sports HD Action
+http://54.36.61.6:8000/live/sky081000/8u8_hujK/118.ts
+#EXTINF:-1,tvg-ID="" tvg-name="SKY Sport UK" tvg-logo="https://dm8eklel4s62k.cloudfront.net/images/sky-logo-b90e8c9.jpg" group-title="SKY Sport UK",UK: BT SPORT 2
+http://54.36.61.6:8000/live/BTSports2509/jhg6jhgLOP/196.ts
+#EXTINF:-1,tvg-ID="" tvg-name="SKY Sport UK" tvg-logo="https://dm8eklel4s62k.cloudfront.net/images/sky-logo-b90e8c9.jpg" group-title="SKY Sport UK",UK: BT SPORT 3
+http://54.36.61.6:8000/live/BTSports2509/jhg6jhgLOP/198.ts
+#EXTINF:-1,tvg-ID="" tvg-name="SKY Sport UK" tvg-logo="https://dm8eklel4s62k.cloudfront.net/images/sky-logo-b90e8c9.jpg" group-title="SKY Sport UK",UK:BT SPORT 4
+http://54.36.61.6:8000/live/BTSports2509/jhg6jhgLOP/195.ts
+
+#EXTINF:-1,tvg-ID="" tvg-name="WWE" tvg-logo="https://cdn.logojoy.com/wp-content/uploads/2017/07/WWE_logo_logotype.png" group-title="WWE", WWE
+http://54.36.61.6:8000/live/WWEzee18/Thjiki7@8jhjh/489.ts
+
+
+#EXTINF:-1,tvg-ID="" tvg-name="Bundesliga" tvg-logo="https://www.designtagebuch.de/wp-content/uploads/mediathek//2017/12/bundesliga-logo.png" group-title="Bundesliga", Sky Sport 1
+http://m4uiptv.com:25461/live/live:mtg_2406_1/vJZpZiby1n/6432.ts
+
+
+
+#EXTINF:-1,tvg-ID="" tvg-name="Bundesliga" tvg-logo="https://www.designtagebuch.de/wp-content/uploads/mediathek//2017/12/bundesliga-logo.png" group-title="Bundesliga", Sky Sport 2
+http://m4uiptv.com:25461/live/live:mtg_2406_1/vJZpZiby1n/6416.ts
+
+#EXTINF:-1,tvg-ID="" tvg-name="Bundesliga" tvg-logo="https://www.designtagebuch.de/wp-content/uploads/mediathek//2017/12/bundesliga-logo.png" group-title="Bundesliga", Sky Bundesliga 1 HD
+http://163.172.211.229:8000/live/dergcghglkfr/desdtfryyygyde/720.ts
+
+#EXTINF:-1,tvg-ID="" tvg-name="Bundesliga" tvg-logo="https://www.designtagebuch.de/wp-content/uploads/mediathek//2017/12/bundesliga-logo.png" group-title="Bundesliga", Sky Bundesliga 2 HD
+http://163.172.211.229:8000/live/dergcghglkfr/desdtfryyygyde/722.ts
+#EXTINF:-1,tvg-ID="" tvg-name="Bundesliga" tvg-logo="https://www.designtagebuch.de/wp-content/uploads/mediathek//2017/12/bundesliga-logo.png" group-title="Bundesliga", Sky Bundesliga 3 HD
+http://163.172.211.229:8000/live/dergcghglkfr/desdtfryyygyde/723.ts
+#EXTINF:-1,tvg-ID="" tvg-name="Bundesliga" tvg-logo="https://www.designtagebuch.de/wp-content/uploads/mediathek//2017/12/bundesliga-logo.png" group-title="Bundesliga", Sky Bundesliga 4 HD
+http://163.172.211.229:8000/live/dergcghglkfr/desdtfryyygyde/724.ts
+#EXTINF:-1,tvg-ID="" tvg-name="Bundesliga" tvg-logo="https://www.designtagebuch.de/wp-content/uploads/mediathek//2017/12/bundesliga-logo.png" group-title="Bundesliga", Sky Bundesliga 5 HD
+http://163.172.211.229:8000/live/dergcghglkfr/desdtfryyygyde/725.ts
+#EXTINF:-1,tvg-ID="" tvg-name="Bundesliga" tvg-logo="https://www.designtagebuch.de/wp-content/uploads/mediathek//2017/12/bundesliga-logo.png" group-title="Bundesliga", Sky Bundesliga 6 HD
+http://163.172.211.229:8000/live/dergcghglkfr/desdtfryyygyde/726.ts
+#EXTINF:-1,tvg-ID="" tvg-name="Bundesliga" tvg-logo="https://www.designtagebuch.de/wp-content/uploads/mediathek//2017/12/bundesliga-logo.png" group-title="Bundesliga", Sky Bundesliga 7 HD
+http://163.172.211.229:8000/live/dergcghglkfr/desdtfryyygyde/727.ts
+#EXTINF:-1,tvg-ID="" tvg-name="Bundesliga" tvg-logo="https://www.designtagebuch.de/wp-content/uploads/mediathek//2017/12/bundesliga-logo.png" group-title="Bundesliga", Sky Bundesliga 9 HD
+http://163.172.211.229:8000/live/dergcghglkfr/desdtfryyygyde/729.ts
+
+#EXTINF:-1,tvg-ID="" tvg-name="Bundesliga" tvg-logo="https://www.designtagebuch.de/wp-content/uploads/mediathek//2017/12/bundesliga-logo.png" group-title="Bundesliga", Sky Bundesliga 10 HD
+http://163.172.211.229:8000/live/dergcghglkfr/desdtfryyygyde/721.ts
+
+
+#EXTINF:-1,tvg-ID="" tvg-name="ARENA SPORT" tvg-logo="http://www.mladenovicnikola.com/wp-content/uploads/2016/04/arena-sport.jpg" group-title="ARENA SPORT",Arena sport 1
+http://163.172.211.229:8000/live/spojfhfuhfj/sjrjfhfkfifk/92.m3u8
+
+#EXTINF:-1,tvg-ID="" tvg-name="ARENA SPORT" tvg-logo="http://www.mladenovicnikola.com/wp-content/uploads/2016/04/arena-sport.jpg" group-title="ARENA SPORT",Arena sport 2
+http://163.172.211.229:8000/live/spojfhfuhfj/sjrjfhfkfifk/93.m3u8
+#EXTINF:-1,tvg-ID="" tvg-name="ARENA SPORT" tvg-logo="http://www.mladenovicnikola.com/wp-content/uploads/2016/04/arena-sport.jpg" group-title="ARENA SPORT",Arena sport 3
+http://163.172.211.229:8000/live/spojfhfuhfj/sjrjfhfkfifk/94.m3u8
+#EXTINF:-1,tvg-ID="" tvg-name="ARENA SPORT" tvg-logo="http://www.mladenovicnikola.com/wp-content/uploads/2016/04/arena-sport.jpg" group-title="ARENA SPORT",Arena sport 4
+http://163.172.211.229:8000/live/spojfhfuhfj/sjrjfhfkfifk/95.m3u8
+
+
+
+
+
+
 
 
 
