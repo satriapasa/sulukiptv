@@ -4547,7 +4547,7 @@ http://stream1.ninmedia.tv/live/nin-info.stream_nin/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sXXHbywy/INDO.png" group-title="INDONESIA",RCTI
 http://bit.do/RCTI_OKE
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sXXHbywy/INDO.png" group-title="INDONESIA",MNC
-http://ez-tracker.net/tv/MNC
+http://bit.do/MNC_TV
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sXXHbywy/INDO.png" group-title="INDONESIA",INEWS
 http://edge.okezone.com/live/inewsokezone.com.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sXXHbywy/INDO.png" group-title="INDONESIA",GLOBALTV
