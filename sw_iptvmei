@@ -4545,7 +4545,7 @@ http://cdn2.bear-tv.com/freetv/TOT_foxsport3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sXXHbywy/INDO.png" group-title="INDONESIA",NINMEDIA
 http://stream1.ninmedia.tv/live/nin-info.stream_nin/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sXXHbywy/INDO.png" group-title="INDONESIA",RCTI
-http://ez-tracker.net/tv/RCTI
+http://bit.do/RCTI_OKE
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sXXHbywy/INDO.png" group-title="INDONESIA",MNC
 http://ez-tracker.net/tv/MNC
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sXXHbywy/INDO.png" group-title="INDONESIA",INEWS
