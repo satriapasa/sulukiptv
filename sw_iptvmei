@@ -12,6 +12,10 @@ http://stream.vibee.tv/live_stream_vibeetv.m3u
 rtmp://rtmp.one.by/HD/1muz
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fTV1XQCm/IPTVKU_LOGO1.png" group-title="SULUK IPTV",FOX 2
 http://119.59.125.74/stream/totnew.php?channel_id=02cb79ab0b0c418f847148ca9e2baed4&.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fTV1XQCm/IPTVKU_LOGO1.png" group-title="SULUK IPTV",U19: FOX 1 Thai
+http://183.89.88.79:9981/stream/channelid/654276182
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fTV1XQCm/IPTVKU_LOGO1.png" group-title="SULUK IPTV",RCTI
+http://bit.do//RCTI_OKE
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Dy9KYkyt/IPTVKu.png" group-title="NEW SPORT",TR: Bein Sports 1
 http://54.36.61.6:8000/live/Bein16100/BeiN1KiL/451.ts
