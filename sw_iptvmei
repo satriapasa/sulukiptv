@@ -42,6 +42,23 @@ http://163.172.86.57:3135/nBein/11/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Dy9KYkyt/IPTVKu.png" group-title="NEW SPORT",BEIN 12
 http://163.172.86.57:3135/nBein/12/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Dy9KYkyt/IPTVKu.png" group-title="NEW SPORT",MOVIESTAR_MOTOGP
+http://41.224.63.148:8000/live/trolhdnoip/eiQISwkaam/449.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Dy9KYkyt/IPTVKu.png" group-title="NEW SPORT",FOX SPORT 1 HD (Latin)
+http://unionsrv.online:8880/live/2/2/8213.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Dy9KYkyt/IPTVKu.png" group-title="NEW SPORT",FOX SPORT 2 HD (Latin)
+http://unionsrv.online:8880/live/2/2/8099.ts
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Dy9KYkyt/IPTVKu.png" group-title="NEW SPORT",RMC SPORT 1 HD
+http://premium.iptvjahiz.ma:8789/live/enzo/skype/28945.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Dy9KYkyt/IPTVKu.png" group-title="NEW SPORT",RMC SPORT 2 HD
+http://premium.iptvjahiz.ma:8789/live/enzo/skype/13982.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Dy9KYkyt/IPTVKu.png" group-title="NEW SPORT",RMC SPORT 3 HD
+http://premium.iptvjahiz.ma:8789/live/enzo/skype/13985.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Dy9KYkyt/IPTVKu.png" group-title="NEW SPORT",RMC SPORT 4 HD
+http://premium.iptvjahiz.ma:8789/live/enzo/skype/13984.ts
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Dy9KYkyt/IPTVKu.png" group-title="NEW SPORT",ASTRO ARENA
 http://viper.streame.tv:9696/live/ViperTV/ViperIPTV-4/49.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Dy9KYkyt/IPTVKu.png" group-title="NEW SPORT",BT SPORTS 1
