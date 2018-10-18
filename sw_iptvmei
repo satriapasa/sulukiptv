@@ -13,6 +13,47 @@ rtmp://rtmp.one.by/HD/1muz
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fTV1XQCm/IPTVKU_LOGO1.png" group-title="SULUK IPTV",FOX 2
 http://119.59.125.74/stream/totnew.php?channel_id=02cb79ab0b0c418f847148ca9e2baed4&.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Dy9KYkyt/IPTVKu.png" group-title="NEW SPORT",TR: Bein Sports 1
+http://54.36.61.6:8000/live/Bein16100/BeiN1KiL/451.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Dy9KYkyt/IPTVKu.png" group-title="NEW SPORT",FR: beIN SPORTS1 HD
+http://54.36.61.6:8000/live/Bein16100/BeiN1KiL/447.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Dy9KYkyt/IPTVKu.png" group-title="NEW SPORT",FR: beIN SPORTS 2HD
+http://54.36.61.6:8000/live/Bein16100/BeiN1KiL/446.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Dy9KYkyt/IPTVKu.png" group-title="NEW SPORT",FR: beIN SPORTS 3HD
+http://54.36.61.6:8000/live/Bein16100/BeiN1KiL/448.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Dy9KYkyt/IPTVKu.png" group-title="NEW SPORT",FR: Bein Sport Max 6
+http://54.36.61.6:8000/live/Bein16100/BeiN1KiL/443.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Dy9KYkyt/IPTVKu.png" group-title="NEW SPORT",FR: Bein Sport Max 7
+http://54.36.61.6:8000/live/Bein16100/BeiN1KiL/442.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Dy9KYkyt/IPTVKu.png" group-title="NEW SPORT",FR: Bein Sport Max 8
+http://54.36.61.6:8000/live/Bein16100/BeiN1KiL/441.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Dy9KYkyt/IPTVKu.png" group-title="NEW SPORT",FR: Bein Sport Max 9
+http://54.36.61.6:8000/live/Bein16100/BeiN1KiL/440.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Dy9KYkyt/IPTVKu.png" group-title="NEW SPORT",AR: beIN SPorts
+http://54.36.61.6:8000/live/Bein16100/BeiN1KiL/486.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Dy9KYkyt/IPTVKu.png" group-title="NEW SPORT",AR: beIN Sports 1 HD
+http://54.36.61.6:8000/live/Bein16100/BeiN1KiL/485.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Dy9KYkyt/IPTVKu.png" group-title="NEW SPORT",AR: beIN Sports 2 HD
+http://54.36.61.6:8000/live/Bein16100/BeiN1KiL/476.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Dy9KYkyt/IPTVKu.png" group-title="NEW SPORT",AR: beIN Sports 3 HD
+http://54.36.61.6:8000/live/Bein16100/BeiN1KiL/475.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Dy9KYkyt/IPTVKu.png" group-title="NEW SPORT",AR: beIN Sports 4 HD
+http://54.36.61.6:8000/live/Bein16100/BeiN1KiL/474.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Dy9KYkyt/IPTVKu.png" group-title="NEW SPORT",AR: beIN Sports 5 HD
+http://54.36.61.6:8000/live/Bein16100/BeiN1KiL/473.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Dy9KYkyt/IPTVKu.png" group-title="NEW SPORT",AR: beIN Sports 6 HD
+http://54.36.61.6:8000/live/Bein16100/BeiN1KiL/472.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Dy9KYkyt/IPTVKu.png" group-title="NEW SPORT",AR: beIN Sports 7 HD
+http://54.36.61.6:8000/live/Bein16100/BeiN1KiL/471.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Dy9KYkyt/IPTVKu.png" group-title="NEW SPORT",AR: beIN Sports 8 HD
+http://54.36.61.6:8000/live/Bein16100/BeiN1KiL/470.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Dy9KYkyt/IPTVKu.png" group-title="NEW SPORT",AR: beIN Sports 9 HD
+http://54.36.61.6:8000/live/Bein16100/BeiN1KiL/469.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Dy9KYkyt/IPTVKu.png" group-title="NEW SPORT",AR: beIN Sports 10 HD
+http://54.36.61.6:8000/live/Bein16100/BeiN1KiL/484.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Dy9KYkyt/IPTVKu.png" group-title="NEW SPORT",AR: beIN Sports 11 HD
+http://54.36.61.6:8000/live/Bein16100/BeiN1KiL/483.ts
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Dy9KYkyt/IPTVKu.png" group-title="NEW SPORT",ASTRO ARENA
 http://viper.streame.tv:9696/live/ViperTV/ViperIPTV-4/49.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Dy9KYkyt/IPTVKu.png" group-title="NEW SPORT",BT SPORTS 1
