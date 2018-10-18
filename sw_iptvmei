@@ -1524,150 +1524,73 @@ http://ipsatpro.com:8080/live/farouk/12345/1720.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mDrV62ky/IPTV-3new.png" group-title="SPORT 2",RO: Eurosport
 http://ipsatpro.com:8080/live/farouk/12345/1706.ts
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/mDrV62ky/IPTV-3new.png" group-title="SPORT 2",RO: Eurosport 2
 
-http://ipsatpro.com:8080/live/farouk/12345/1715.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ASTRO ARENA" tvg-logo="http://3.bp.blogspot.com/-IM9jwQk5geQ/T5_hAn8XeqI/AAAAAAAAASc/PxUBxbKmlhc/s1600/arena.jpg" group-title="Sports",ASTRO ARENA
+http://viper.streame.tv:9696/live/ViperTV/ViperIPTV-4/49.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BT SPORTS 1" tvg-logo="http://i.imgur.com/F2R303x.png" group-title="Sports",BT SPORTS 1
+http://viper.streame.tv:9696/live/ViperTV/ViperIPTV-4/196.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BT SPORTS 2" tvg-logo="https://i1.wp.com/wlivesport.com/wp-content/uploads/2018/08/bt2.png?fit=800%2C420" group-title="Sports",BT SPORTS 2
+http://viper.streame.tv:9696/live/ViperTV/ViperIPTV-4/200.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AD SPORTS 1" tvg-logo="http://livesportsss.com/wp-content/uploads/2018/07/Abu-Dhabi-Sports-1-Live-tream-348x203.jpg" group-title="Sports",AD SPORTS 1
+http://viper.streame.tv:9696/live/ViperTV/ViperIPTV-4/36.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AD SPORTS 2" tvg-logo="https://pbs.twimg.com/media/DkPlcCJX4AAgEdZ.jpg" group-title="Sports",AD SPORTS 2
+http://viper.streame.tv:9696/live/ViperTV/ViperIPTV-4/46.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BILLIARDS" tvg-logo="https://image.roku.com/channels/images/d8065c005046432fa82edca943fe0e3d-hd.jpg" group-title="Sports",BILLIARDS
+http://viper.streame.tv:9696/live/ViperTV/ViperIPTV-4/11.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Boxing Nation" tvg-logo="http://customerservices.reviews/wp-content/uploads/2017/11/Boxnation_Logo-1.jpg" group-title="Sports",Boxing Nation
+http://viper.streame.tv:9696/live/ViperTV/ViperIPTV-4/108.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Real Madrid TV" tvg-logo="http://images.vertele.eldiario.es/2016/10/10/noticias/Real-Madrid-TV_1837926248_1697242_660x371.jpg" group-title="Sports",Real Madrid TV
+http://viper.streame.tv:9696/live/ViperTV/ViperIPTV-4/149.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Bein Sports 1" tvg-logo="http://3.bp.blogspot.com/-OWIrdp2PyKY/VDC4Y56owGI/AAAAAAAADQo/x8kiZ7cCGPQ/s1600/bein%2Bspot%2B1.png" group-title="Sports",Bein Sports 1
+http://viper.streame.tv:9696/live/ViperTV/ViperIPTV-4/60.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Bein Sports 2" tvg-logo="http://3.bp.blogspot.com/-D3YVr-YAE7o/VMecL5sNNKI/AAAAAAAAATQ/a3lcPoLCggA/s1600/bein2.png" group-title="Sports",Bein Sports 2
+http://viper.streame.tv:9696/live/ViperTV/ViperIPTV-4/43.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Bein Sports 3" tvg-logo="http://allfootballvideo.com/images/channel-logo/Bein-Sports-3-300x195.jpg" group-title="Sports",Bein Sports 3
+http://viper.streame.tv:9696/live/ViperTV/ViperIPTV-4/44.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Bein Sports 4" tvg-logo="https://2.bp.blogspot.com/-eMBTRbigu6o/WZRSvc_pJlI/AAAAAAAAAJM/FvYCgWIJjlEALjWeaKW7HzIUzH1LaIBYwCPcBGAYYCw/s1600/bein%2B4.gif" group-title="Sports",Bein Sports 4
+http://viper.streame.tv:9696/live/ViperTV/ViperIPTV-4/91.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Bein Sports 11" tvg-logo="https://i.ytimg.com/vi/rqxgvsZFej4/maxresdefault.jpg" group-title="Sports",Bein Sports 11
+http://viper.streame.tv:9696/live/ViperTV/ViperIPTV-4/184.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Bein Sports 12" tvg-logo="http://1.bp.blogspot.com/-0ppF3GGbpoI/VSsX_NNhXFI/AAAAAAAAAag/Rxv6ZS-PLDE/s1600/12.png" group-title="Sports",Bein Sports 12
+http://viper.streame.tv:9696/live/ViperTV/ViperIPTV-4/189.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Eleven Sports 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Eleven_Sports_1.png" group-title="Sports",Eleven Sports 1
+http://viper.streame.tv:9696/live/ViperTV/ViperIPTV-4/105.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Eleven Sports 2" tvg-logo="https://www.freqsat.com/wp-content/uploads/2018/08/Eleven-Sports-2-HD-TV.jpg" group-title="Sports",Eleven Sports 2
+http://viper.streame.tv:9696/live/ViperTV/ViperIPTV-4/24.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Skynet Sports" tvg-logo="http://www.itv.so/uploads/images/channel_190_1501673306_social.jpg" group-title="Sports",Skynet Sports
+http://viper.streame.tv:9696/live/ViperTV/ViperIPTV-4/181.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Skynet Sports 1" tvg-logo="http://www.freethailand.com/imgstory/nanasat/image/Sport1.png" group-title="Sports",Skynet Sports 1
+http://viper.streame.tv:9696/live/ViperTV/ViperIPTV-4/150.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Skynet Sports 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPIRf5nMrAaFJ5jNwYVYX4tbi6AR3bB1CHFjJAMR1IsKnIkchQ" group-title="Sports",Skynet Sports 2
+http://viper.streame.tv:9696/live/ViperTV/ViperIPTV-4/104.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Skynet Sports 3" tvg-logo="http://www.lineballsod.com/api/table/icon/SkyNetSports3.png" group-title="Sports",Skynet Sports 3
+http://viper.streame.tv:9696/live/ViperTV/ViperIPTV-4/107.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Motors TV" tvg-logo="https://banner2.kisspng.com/20180707/iju/kisspng-motors-tv-television-channel-motorsport-24-hours-o-tv-logos-5b40baba46afb0.3907917415309687622895.jpg" group-title="Sports",Motors TV
+http://viper.streame.tv:9696/live/ViperTV/ViperIPTV-4/157.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Redbull TV" tvg-logo="http://2.bp.blogspot.com/-FS7BOEiTZuY/UDFmV5bsaCI/AAAAAAAAByA/YWo48CK0PsY/w1200-h630-p-k-no-nu/red+bull+tv.png" group-title="Sports",Redbull TV
+http://viper.streame.tv:9696/live/ViperTV/ViperIPTV-4/171.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sky Sports F1" tvg-logo="http://ulango.tv/uploads/channels/85863/logo_sky%20sports%20f3.png" group-title="Sports",Sky Sports F1
+http://viper.streame.tv:9696/live/ViperTV/ViperIPTV-4/61.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sky Sports Football" tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple128/v4/9f/48/b7/9f48b7df-2b48-77a6-db19-5ed50aa4a757/AppIcon-1x_U007emarketing-85-220-3.png/246x0w.jpg" group-title="Sports",Sky Sports Football
+http://viper.streame.tv:9696/live/ViperTV/ViperIPTV-4/176.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sky Sports Premiere League" tvg-logo="http://gen-tec.co/gentecwiz/OTTtv/logo/uk%20sports%20and%20movies%20/SKY%20SPORTS%20PREMIER%20LEAGUE%20HD.png" group-title="Sports",Sky Sports Premiere League
+http://viper.streame.tv:9696/live/ViperTV/ViperIPTV-4/112.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Fox Sports 1" tvg-logo="https://static.businessinsider.com/image/520cea5f6bb3f77d30000010/image.jpg" group-title="Sports",Fox Sports 1
+http://viper.streame.tv:9696/live/ViperTV/ViperIPTV-4/76.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Fox Sports 2" tvg-logo="https://blogtvcinema.files.wordpress.com/2014/01/foxsports2.jpg" group-title="Sports",Fox Sports 2
+http://viper.streame.tv:9696/live/ViperTV/ViperIPTV-4/56.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Fox Sports 3" tvg-logo="https://i.pinimg.com/originals/b3/08/8c/b3088cdf394935e26f9e9da5be7cd946.png" group-title="Sports",Fox Sports 3
+http://viper.streame.tv:9696/live/ViperTV/ViperIPTV-4/57.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CCTV" tvg-logo="http://www.rologo.com/images/uploads/2016/01/cctv-new-logo.jpg" group-title="Sports",CCTV
+http://viper.streame.tv:9696/live/ViperTV/ViperIPTV-4/172.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CCTV 5" tvg-logo="http://1.bp.blogspot.com/-GFYeUcJYd2Y/U7jGEJXCvVI/AAAAAAAAJSk/6EyfW5vMH_A/s1600/cctv.png" group-title="Sports",CCTV 5
+http://viper.streame.tv:9696/live/ViperTV/ViperIPTV-4/173.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CCTV 5+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/CCTV-5%2B%E4%BD%93%E8%82%B2%E8%B5%9B%E4%BA%8B.png" group-title="Sports",CCTV 5+
+http://viper.streame.tv:9696/live/ViperTV/ViperIPTV-4/174.ts
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/mDrV62ky/IPTV-3new.png" group-title="SPORT 2",RO: Sport.ro
 
-http://ipsatpro.com:8080/live/farouk/12345/1696.ts
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/mDrV62ky/IPTV-3new.png" group-title="SPORT 2",RO: Look Sport TV
-
-http://ipsatpro.com:8080/live/farouk/12345/1687.ts
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/mDrV62ky/IPTV-3new.png" group-title="SPORT 2",BG: Golf Sport HD
-
-http://ipsatpro.com:8080/live/farouk/12345/3393.ts
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/mDrV62ky/IPTV-3new.png" group-title="SPORT 2",BG: Diema Sport 1
-
-http://ipsatpro.com:8080/live/farouk/12345/3362.ts
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/mDrV62ky/IPTV-3new.png" group-title="SPORT 2",BG: Diema Sport 2
-
-http://ipsatpro.com:8080/live/farouk/12345/3363.ts
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/mDrV62ky/IPTV-3new.png" group-title="SPORT 2",BG: F+ Sport
-
-http://ipsatpro.com:8080/live/farouk/12345/3364.ts
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/mDrV62ky/IPTV-3new.png" group-title="SPORT 2",BG: Mtel Sport 1
-
-http://ipsatpro.com:8080/live/farouk/12345/3404.ts
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/mDrV62ky/IPTV-3new.png" group-title="SPORT 2",BG: Mtel Sport 2
-
-http://ipsatpro.com:8080/live/farouk/12345/3405.ts
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/mDrV62ky/IPTV-3new.png" group-title="SPORT 2",BG: Sport Plus HD
-
-http://ipsatpro.com:8080/live/farouk/12345/3411.ts
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/mDrV62ky/IPTV-3new.png" group-title="SPORT 2",BG: Eurosport 1
-
-http://ipsatpro.com:8080/live/farouk/12345/3418.ts
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/mDrV62ky/IPTV-3new.png" group-title="SPORT 2",BG: Eurosport 2
-
-http://ipsatpro.com:8080/live/farouk/12345/3419.ts
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/mDrV62ky/IPTV-3new.png" group-title="SPORT 2",BG: Nova Sport 2
-
-http://ipsatpro.com:8080/live/farouk/12345/3403.ts
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/mDrV62ky/IPTV-3new.png" group-title="SPORT 2",BG: Nova Sport
-
-http://ipsatpro.com:8080/live/farouk/12345/3368.ts
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/mDrV62ky/IPTV-3new.png" group-title="SPORT 2",CZ: Sport 1 HD
-
-http://ipsatpro.com:8080/live/farouk/12345/5333.ts
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/mDrV62ky/IPTV-3new.png" group-title="SPORT 2",CZ: Sport 2 HD
-
-http://ipsatpro.com:8080/live/farouk/12345/5334.ts
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/mDrV62ky/IPTV-3new.png" group-title="SPORT 2",CZ: Sport 5 HD
-
-http://ipsatpro.com:8080/live/farouk/12345/5335.ts
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/mDrV62ky/IPTV-3new.png" group-title="SPORT 2",CZ: O2 Sport HD
-
-http://ipsatpro.com:8080/live/farouk/12345/5326.ts
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/mDrV62ky/IPTV-3new.png" group-title="SPORT 2",CZ: Eurosport 1 HD
-
-http://ipsatpro.com:8080/live/farouk/12345/5294.ts
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/mDrV62ky/IPTV-3new.png" group-title="SPORT 2",CZ: Eurosport 2 HD
-
-http://ipsatpro.com:8080/live/farouk/12345/5295.ts
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/mDrV62ky/IPTV-3new.png" group-title="SPORT 2",CZ: Nova Sport 1 HD
-
-http://ipsatpro.com:8080/live/farouk/12345/5324.ts
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/mDrV62ky/IPTV-3new.png" group-title="SPORT 2",CZ: Nova Sport 2 HD
-
-http://ipsatpro.com:8080/live/farouk/12345/5325.ts
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/mDrV62ky/IPTV-3new.png" group-title="SPORT 2",CZ: CT4 Sport HD
-
-http://ipsatpro.com:8080/live/farouk/12345/5286.ts
-
-
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/mDrV62ky/IPTV-3new.png" group-title="SPORT 2",IT: Sky Sport 24 Full-HD
-
-http://sporti.tv:6500/live/fabo6nXpuq/Is3PISvHp7/21424.ts
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/mDrV62ky/IPTV-3new.png" group-title="SPORT 2",IT: Sky Sport 24 HD
-
-http://sporti.tv:6500/live/fabo6nXpuq/Is3PISvHp7/17642.ts
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/mDrV62ky/IPTV-3new.png" group-title="SPORT 2",IT: Sky Sport 24 SD
-
-http://sporti.tv:6500/live/fabo6nXpuq/Is3PISvHp7/21423.ts
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/mDrV62ky/IPTV-3new.png" group-title="SPORT 2",IT: Sky Sport Uno Full-HD
-
-http://sporti.tv:6500/live/fabo6nXpuq/Is3PISvHp7/21427.ts
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/mDrV62ky/IPTV-3new.png" group-title="SPORT 2",IT: Sky Sport Uno HD
-
-http://sporti.tv:6500/live/fabo6nXpuq/Is3PISvHp7/17364.ts
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/mDrV62ky/IPTV-3new.png" group-title="SPORT 2",IT: Sky Sport Uno SD
-
-http://sporti.tv:6500/live/fabo6nXpuq/Is3PISvHp7/21426.ts
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/mDrV62ky/IPTV-3new.png" group-title="SPORT 2",IT: Sky Sport Arena FULL HD
-
-http://sporti.tv:6500/live/fabo6nXpuq/Is3PISvHp7/21337.ts
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/mDrV62ky/IPTV-3new.png" group-title="SPORT 2",IT: Sky Sport Arena HD
-
-http://sporti.tv:6500/live/fabo6nXpuq/Is3PISvHp7/17365.ts
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/mDrV62ky/IPTV-3new.png" group-title="SPORT 2",IT: Sky Sport Arena SD
-
-http://sporti.tv:6500/live/fabo6nXpuq/Is3PISvHp7/21422.ts
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/mDrV62ky/IPTV-3new.png" group-title="SPORT 2",IT: Sky Sport Football FULL HD
-
-http://sporti.tv:6500/live/fabo6nXpuq/Is3PISvHp7/21338.ts
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/mDrV62ky/IPTV-3new.png" group-title="SPORT 2",IT: Sky Sport Football HD
-
-http://sporti.tv:6500/live/fabo6nXpuq/Is3PISvHp7/17366.ts
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/mDrV62ky/IPTV-3new.png" group-title="SPORT 2",IT: Sky Sport Football SD
-
-http://sporti.tv:6500/live/fabo6nXpuq/Is3PISvHp7/21425.ts
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mDrV62ky/IPTV-3new.png" group-title="SPORT 2",IT: Sky Sport Formula 1 Full HD
-
 http://sporti.tv:6500/live/fabo6nXpuq/Is3PISvHp7/21431.ts
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mDrV62ky/IPTV-3new.png" group-title="SPORT 2",IT: Sky Sport Formula 1 SD
